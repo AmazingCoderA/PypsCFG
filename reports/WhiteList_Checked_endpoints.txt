@@ -151,14 +151,12 @@ OK 174ms 92.53.120.70:443 cached
 OK 289ms 91.238.111.248:443 cached
 OK 206ms 95.163.211.237:8080 cached
 OK 212ms 95.163.211.237:80 cached
-OK 190ms 37.139.42.235:14443 cached
-OK 194ms 37.139.42.138:443 cached
+OK 137ms 78.159.246.110:443
+OK 121ms 37.18.14.168:10654 cached
 OK 221ms 95.163.232.171:14443 cached
+OK 96ms 78.159.247.188:10010
 OK 201ms 37.139.42.193:9445 cached
 OK 203ms 37.139.42.235:443 cached
-OK 128ms 79.174.95.96:443
-OK 135ms 79.174.92.185:443
-OK 136ms 95.163.232.98:443
 OK 196ms 185.241.195.151:9444 cached
 OK 189ms 176.108.246.58:9881 cached
 OK 190ms 176.108.246.110:9830 cached
@@ -191,191 +189,199 @@ OK 162ms 109.120.179.99:443 cached
 OK 201ms 37.139.34.90:443 cached
 OK 196ms 89.208.223.111:443 cached
 OK 194ms 89.208.211.253:443 cached
-OK 133ms 158.160.160.21:443
-OK 180ms 176.109.88.216:443 cached
+OK 133ms 158.160.160.21:443 cached
 OK 190ms 78.159.250.214:443 cached
 OK 185ms 176.108.241.137:9891 cached
 OK 191ms 176.108.244.178:9881 cached
-OK 123ms 176.108.244.38:9881
-OK 123ms 176.108.247.104:9881
+OK 123ms 176.108.244.38:9881 cached
+OK 123ms 176.108.247.104:9881 cached
 OK 185ms 176.108.247.31:9844 cached
-OK 181ms 176.109.104.195:9873 cached
 OK 193ms 176.109.106.182:9881 cached
+OK 128ms 79.174.95.96:443 cached
+OK 123ms 176.109.104.246:4443
+OK 135ms 79.174.92.185:443 cached
+OK 136ms 95.163.232.98:443 cached
+OK 194ms 109.120.181.153:443
 OK 189ms 217.16.31.218:443 cached
 OK 184ms 78.159.245.51:6443 cached
+OK 124ms 176.108.249.125:5001
 OK 176ms 217.12.206.160:81 cached
-OK 145ms 66.90.104.42:2083 cached
-OK 197ms bg2.univesalsrv.com:443
-OK 206ms bg4.univesalsrv.com:443
-OK 127ms bg3.univesalsrv.com:443
-OK 155ms bg5.univesalsrv.com:443
-OK 446ms md3.univesalsrv.com:443 cached
-OK 340ms md5.univesalsrv.com:443 cached
-OK 369ms damp-surf-aacf.296-8ed.workers.dev:8880 cached
-OK 39ms nameless-poetry-cc33.268-910.workers.dev:8880 cached
-OK 229ms rs5.univesalsrv.com:443
-OK 192ms rs3.univesalsrv.com:443
-OK 28ms rough-mouse-2a3a.424-e94.workers.dev:8880 cached
-OK 196ms rs2.univesalsrv.com:443
-OK 98ms 5.157.10.148:443
-OK 2ms 104.16.100.66:8880 cached
-OK 145ms rs4.univesalsrv.com:443
-OK 2ms 104.17.58.113:8880 cached
-OK 294ms de1-web.mysoyka.online:443
-OK 263ms rs1.univesalsrv.com:443
-OK 87ms 162.19.10.99:443
-OK 87ms 152.228.162.19:80
-OK 14ms wandering-bonus-e035.272.workers.dev:8880 cached
-OK 2ms 104.24.152.211:8880 cached
-OK 2ms 104.17.123.204:8880 cached
-OK 47ms 40.116.88.35:443 cached
-OK 100ms morning-brook-d78e.347.workers.dev:8880 cached
-OK 166ms little-silence-1ee8.449.workers.dev:8880 cached
-OK 335ms milan.adaspoloandco.com:8443 cached
-OK 2ms 104.18.10.118:8880 cached
-OK 161ms 57.131.21.102:8443 cached
-OK 121ms misty-hill-4b94.146-c18.workers.dev:8880 cached
-OK 234ms tomaz1337shellbuy.vvzzkontaktezzvv.garden:443
-OK 105ms 216.23.122.125:443 cached
-OK 87ms 50.7.193.142:443
-OK 88ms 164.37.100.195:443
-OK 92ms 179.254.115.49:443
-OK 92ms 57.129.41.216:80
-OK 93ms 159.195.197.211:443
-OK 424ms pol2.serverslocal.ru:443
-OK 800ms poland-ded-new-one.failspace.top:443 cached
-OK 196ms 45.152.65.100:443 cached
-OK 160ms long-wildflower-3df6.341-165.workers.dev:8880 cached
-OK 129ms ov-germany1.09vpn.com:80
-OK 542ms finporkzov.com:443 cached
-OK 166ms 5.157.10.250:443 cached
-OK 226ms lucky-field-0220.191-de2.workers.dev:8880 cached
-OK 150ms nasnet-571299667-direct.mbghalibaf.com:443
-OK 177ms 131.123.41.223:443 cached
-OK 154ms 185.255.114.91:8443 cached
-OK 89ms 84.32.98.254:443
-OK 100ms 151.241.166.83:443
-OK 150ms 167.233.178.237:80 cached
-OK 32ms www.large-files.info:8443 cached
-OK 112ms acde3.astro-wall.online:443
-OK 174ms md4.univesalsrv.com:443
-OK 199ms rubifen.adaspoloandco.com:443
-OK 228ms 144.31.225.193:443 cached
-OK 252ms tickets.betust.net:443
-OK 290ms gerwai1488.vvzzkontaktezzvv.garden:443
-OK 93ms 87.120.216.144:443
-OK 181ms 2.26.93.246:43001 cached
-OK 161ms 167.233.182.218:80 cached
-OK 165ms 80.47.6.12:443 cached
+OK 2ms 181.214.1.30:8880 cached
 OK 144ms 66.90.105.211:2083 cached
-OK 378ms polka-dot.failspace.top:443 cached
-OK 333ms angldril.pumpkinpie.study:443 cached
-OK 182ms 193.169.229.145:443 cached
+OK 228ms 144.31.225.193:443 cached
+OK 542ms finporkzov.com:443 cached
+OK 196ms 13.143.184.226:443 cached
 OK 151ms 179.254.108.151:443 cached
-OK 85ms 185.171.202.105:443
-OK 9ms 162.35.104.144:8081
+OK 92ms 57.129.41.216:80 cached
+OK 234ms tomaz1337shellbuy.vvzzkontaktezzvv.garden:443 cached
+OK 196ms rs2.univesalsrv.com:443 cached
+OK 500ms match.betust.net:443 cached
+OK 81ms 50.7.193.146:443
+OK 107ms 130.78.191.159:443 cached
+OK 92ms 51.38.127.93:443 cached
+OK 199ms rubifen.adaspoloandco.com:443 cached
+OK 340ms md5.univesalsrv.com:443 cached
+OK 227ms 45.192.202.199:443
+OK 93ms 87.120.216.144:443 cached
+OK 2ms 188.114.97.6:443 cached
+OK 94ms 163.172.213.174:80 cached
+OK 105ms 216.23.122.125:443 cached
+OK 104ms 153.76.185.100:3090
+OK 87ms 64.188.126.56:43000
+OK 129ms ov-germany1.09vpn.com:80 cached
+OK 9ms 117.55.233.250:443 cached
+OK 221ms sc-thenetherlands1.09vpn.com:80 cached
+OK 211ms 2.27.109.236:443
+OK 88ms 95.133.247.18:8443
+OK 47ms 40.116.88.35:443 cached
+OK 113ms 62.60.152.1:56328 cached
+OK 101ms 179.255.191.131:443
+OK 199ms 141.11.90.160:443
+OK 28ms rough-mouse-2a3a.424-e94.workers.dev:8880 cached
+OK 216ms nasnet-571296497-direct.mbghalibaf.com:443 cached
+OK 318ms cnl02.subsconnect.com:443
+OK 87ms 50.7.193.142:443 cached
+OK 328ms romania.cdn-europe.org:10443 cached
+OK 263ms rs1.univesalsrv.com:443 cached
+OK 168ms sc-thenetherlands2.09vpn.com:80
+OK 178ms 195.63.163.21:443 cached
+OK 376ms snl6.subsconnect.com:443 cached
+OK 174ms md4.univesalsrv.com:443 cached
+OK 192ms rs3.univesalsrv.com:443 cached
+OK 145ms rs4.univesalsrv.com:443 cached
+OK 165ms 80.47.6.12:443 cached
+OK 7ms 134.122.0.192:443
+OK 98ms 5.157.10.148:443 cached
+OK 149ms 23.175.201.2:8443 cached
+OK 209ms 23.141.12.134:8443
+OK 183ms 95.85.242.182:443 cached
+OK 118ms 185.100.85.72:10443
+OK 181ms 2.26.93.246:43001 cached
+OK 162ms 31.76.22.32:443 cached
+OK 82ms 163.172.214.188:80 cached
+OK 156ms 217.60.67.176:443 cached
+OK 658ms 212.135.211.79:443
+OK 151ms 43.174.192.1:443
+OK 179ms 158.247.253.111:2087
+OK 290ms gerwai1488.vvzzkontaktezzvv.garden:443 cached
+OK 127ms bg3.univesalsrv.com:443 cached
+OK 94ms 107.189.18.145:443 cached
+OK 91ms 64.188.118.137:443
+OK 118ms 144.31.27.215:43000 cached
+OK 109ms fastne.incrediblespeed.online:443
+OK 89ms 45.141.234.138:443
+OK 132ms 130.94.0.228:443
+OK 166ms little-silence-1ee8.449.workers.dev:8880 cached
+OK 166ms 2.26.30.216:443 cached
+OK 89ms 37.148.204.142:443
+OK 118ms surstreming.vvzzkontaktezzvv.garden:443 cached
+OK 101ms 2.26.17.128:443
+OK 107ms 62.60.234.29:443 cached
+OK 139ms maxfieldbox-nayab.org:443
+OK 95ms 163.8.195.241:2087
+OK 92ms 91.190.155.173:2083
 OK 68ms 162.35.96.15:8081 cached
 OK 72ms 162.35.96.35:8081 cached
-OK 97ms 177.3.213.112:443
-OK 178ms 195.63.163.21:443 cached
-OK 370ms cf.877774.xyz:443 cached
-OK 162ms 31.76.22.32:443 cached
-OK 92ms fra.loozerp.wiki:443
-OK 444ms polkakurvich.hohoterz.beer:443 cached
-OK 99ms de2.dzvn.space:2291
-OK 148ms 193.202.10.137:2291 cached
-OK 388ms panel.betust.net:443 cached
-OK 118ms surstreming.vvzzkontaktezzvv.garden:443
-OK 376ms snl6.subsconnect.com:443
-OK 500ms match.betust.net:443 cached
-OK 119ms 84.32.215.66:443
-OK 156ms 217.60.67.176:443 cached
-OK 92ms 51.38.127.93:443
-OK 328ms romania.cdn-europe.org:10443
-OK 113ms 62.60.152.1:56328
-OK 263ms admin.betust.net:443
-OK 444ms swebz.loozerp.wiki:443 cached
-OK 13ms yellow-breeze-989b.348-9b8.workers.dev:8880 cached
-OK 333ms germanz.ruletka.study:443
-OK 353ms ger1.serverslocal.ru:443
-OK 355ms du-rov.secureservice.top:8443 cached
-OK 186ms 88.216.127.165:443 cached
-OK 188ms 188.225.77.241:443 cached
-OK 349ms arturito.nxxzxaw.beer:443 cached
-OK 94ms 163.172.213.174:80
-OK 90ms 151.242.161.182:443
-OK 118ms 144.31.27.215:43000
-OK 64ms 45.91.138.179:443 cached
-OK 166ms 2.26.30.216:443 cached
-OK 165ms 196.240.109.117:443 cached
-OK 537ms pl3.moritech.net:443
-OK 82ms 163.172.214.188:80
+OK 155ms bg5.univesalsrv.com:443 cached
+OK 99ms 94.130.178.194:443
+OK 86ms 217.60.63.5:443
+OK 206ms bg4.univesalsrv.com:443 cached
+OK 2ms 104.18.10.118:8880 cached
+OK 101ms 132.243.203.214:8443
+OK 112ms 103.71.22.234:8443
+OK 87ms 162.19.10.99:443 cached
+OK 2ms 104.17.123.204:8880 cached
+OK 8ms 162.35.96.21:8081
 OK 181ms 173.242.63.235:8443 cached
-OK 336ms 143.246.223.149:443 cached
-OK 292ms hapatronik.vodniki.monster:443 cached
-OK 221ms sc-thenetherlands1.09vpn.com:80
-OK 200ms 188.225.25.195:443 cached
-OK 147ms 45.139.197.27:443 cached
-OK 215ms 188.225.25.142:443 cached
-OK 186ms 188.225.42.6:443 cached
-OK 214ms 188.225.57.78:443 cached
-OK 171ms 188.225.44.89:443 cached
-OK 303ms 200.165.231.209:443 cached
-OK 339ms free.sahanwickramasinghe.me:80 cached
-OK 174ms 84.235.244.108:22573
-OK 192ms 188.225.24.201:443 cached
-OK 141ms 129.101.120.5:37951 cached
-OK 187ms spanish67.kovsh.lol:443
-OK 116ms nl2.dzvn.space:37951
-OK 5ms support.zoom.us:80 cached
-OK 191ms 188.225.58.238:443 cached
-OK 183ms 95.85.242.182:443 cached
-OK 196ms 188.225.33.141:443 cached
-OK 84ms 185.171.202.106:443
-OK 216ms wstg.datasynctrue.online:443 cached
-OK 187ms 188.225.35.207:443 cached
-OK 93ms 89.169.53.176:4443
-OK 211ms uae.unixzone.us:22573
-OK 137ms 95.85.254.153:443
-OK 13ms victoryprovpn-production-c771.up.railway.app:443 cached
-OK 238ms pl4.moritech.net:443
-OK 87ms fra2.loozerp.wiki:443
-OK 2ms 181.214.1.30:8880 cached
-OK 116ms 144.31.2.33:443
-OK 176ms 46.28.71.154:443 cached
-OK 3ms 91.193.58.255:2096 cached
-OK 16ms ccs2g.pai50288.uk:443
-OK 114ms 144.31.5.3:443
-OK 196ms 13.143.184.226:443 cached
+OK 10ms 104.18.33.120:443
+OK 80ms 31.77.227.6:52006
+OK 22ms bitter-morning-b4e3.283.workers.dev:8880
+OK 2ms 172.67.79.81:443
+OK 2ms 8.39.125.213:2096
+OK 160ms long-wildflower-3df6.341-165.workers.dev:8880 cached
+OK 205ms md2.univesalsrv.com:443
+OK 10ms 104.26.11.253:443
+OK 444ms polkakurvich.hohoterz.beer:443 cached
+OK 92ms 13.143.141.136:443
+OK 92ms fra.loozerp.wiki:443 cached
+OK 446ms md3.univesalsrv.com:443 cached
+OK 100ms 151.241.166.83:443 cached
+OK 461ms germ2.serverslocal.ru:443
+OK 196ms 45.152.65.100:443 cached
+OK 92ms 141.253.194.63:443
+OK 16ms 88.216.195.188:443
+OK 10ms 104.18.30.170:8880
+OK 424ms pol2.serverslocal.ru:443 cached
+OK 161ms 57.131.21.102:8443 cached
+OK 36ms long-math-be5a.233-98b.workers.dev:8880
+OK 85ms 185.171.202.105:443 cached
+OK 690ms 194.58.41.190:1443
+OK 335ms milan.adaspoloandco.com:8443 cached
+OK 132ms 193.163.203.199:443
+OK 20ms silent-cherry-7112.257.workers.dev:8880
+OK 151ms 5.254.8.148:443 cached
+OK 93ms 89.169.53.176:4443 cached
+OK 238ms pl4.moritech.net:443 cached
+OK 53ms us05.shifor01.life:443
+OK 353ms ger1.serverslocal.ru:443 cached
+OK 114ms 144.31.5.3:443 cached
+OK 113ms fastsw.phantom.direct:443
+OK 92ms 51.75.67.209:443
+OK 90ms 151.242.161.182:443 cached
+OK 236ms india.letsconnectpoint.com:443 cached
+OK 187ms spanish67.kovsh.lol:443 cached
+OK 174ms 84.235.244.108:22573 cached
+OK 154ms polka.stopingiphatered.shop:443
+OK 137ms 95.85.254.153:443 cached
 OK 341ms 31.76.84.174:443 cached
-OK 235ms teslaateam2026.niceteamintheworld.ir:8080 cached
-OK 2ms 170.114.52.22:443
-OK 151ms 5.254.8.148:443
-OK 434ms 134.122.154.210:443
-OK 25ms 104.16.111.202:443
-OK 75ms 103.31.4.10:443 cached
-OK 125ms us4.998998.best:443
-OK 223ms 146.235.16.130:19825
-OK 85ms 185.143.233.130:2052
-OK 93ms 81.95.4.189:443
-OK 161ms mypanel.unixzone.us:12068
-OK 812ms sg2-8sb.6121999.dpdns.org:19825 cached
-OK 164ms 89.218.15.90:10002
-OK 125ms 188.225.46.116:443
+OK 225ms 172.236.142.114:443
+OK 306ms yaruss.stopingiphatered.shop:443
+OK 219ms 172.237.89.202:443
+OK 77ms 57.129.132.223:80
+OK 5ms support.zoom.us:80 cached
+OK 176ms 46.28.71.154:443 cached
+OK 247ms china.letsconnectpoint.com:443
+OK 164ms 89.218.15.90:10002 cached
+OK 16ms ccs2g.pai50288.uk:443 cached
+OK 117ms 85.90.197.53:443
+OK 223ms 47.237.74.17:16263
+OK 62ms 45.82.244.40:443
+OK 269ms 207.57.135.199:8443
+OK 537ms pl3.moritech.net:443 cached
+OK 116ms 144.31.2.33:443 cached
+OK 161ms mypanel.unixzone.us:12068 cached
+OK 104ms 37.221.210.113:443
+OK 120ms 103.71.23.247:443
+OK 25ms 104.16.111.202:443 cached
+OK 125ms us4.998998.best:443 cached
+OK 454ms sw.shhflow.xyz:443
+OK 2ms 91.193.58.108:2096
+OK 221ms 139.162.51.49:2096
+OK 10ms 104.16.111.195:443
 OK 2ms 104.16.111.193:443 cached
-OK 147ms bab-6.site:443
-OK 88ms 85.17.145.65:12068
 OK 3ms 104.16.10.2:443 cached
-OK 2ms 188.114.97.6:443 cached
-OK 216ms nasnet-571296497-direct.mbghalibaf.com:443
-OK 107ms 130.78.191.159:443
-OK 232ms api.noneok.com:443 cached
-OK 123ms files.noneok.com:443
-OK 781ms fbsv6.guardora.pro:443 cached
+OK 10ms 104.16.10.72:443
+OK 176ms media-se.compressor.work:14443
+OK 223ms 146.235.16.130:19825 cached
+OK 147ms bab-6.site:443 cached
+OK 88ms 85.17.145.65:12068 cached
+OK 434ms 134.122.154.210:443 cached
+OK 93ms 81.95.4.189:443 cached
+OK 812ms sg2-8sb.6121999.dpdns.org:19825 cached
+OK 150ms nasnet-571299667-direct.mbghalibaf.com:443 cached
+OK 123ms files.noneok.com:443 cached
+OK 92ms 89.185.81.95:8765
+OK 355ms du-rov.secureservice.top:8443 cached
+OK 196ms 188.225.33.141:443 cached
+OK 303ms 200.165.231.209:443 cached
+OK 34ms 38.107.232.36:80
+OK 189ms 185.141.227.180:2053 cached
+OK 216ms wstg.datasynctrue.online:443 cached
 OK 188ms 217.19.122.200:443 cached
+OK 10ms 104.16.181.38:443
 OK 165ms 45.192.12.93:443 cached
-OK 119ms 144.31.49.47:443
-OK 120ms 144.31.93.126:443
+OK 119ms 144.31.49.47:443 cached
+OK 120ms 144.31.93.126:443 cached
 OK 197ms 158.160.231.108:8443 cached
 OK 192ms 51.250.39.162:443 cached
 OK 199ms 158.160.12.31:443 cached
@@ -428,14 +434,4 @@ OK 269ms test.iron-coral.test-cdn-kkk.com:443 cached
 OK 194ms www.visaeurope.ch:2083 cached
 OK 137ms cf.008500.xyz:443 cached
 OK 150ms www.visasoutheasteurope.com:2096 cached
-OK 135ms 45.93.201.119:443
-OK 164ms 193.33.133.195:443
-OK 287ms 46.17.248.207:52443 cached
-OK 218ms 46.17.248.207:443 cached
-OK 93ms 185.178.208.176:443
-OK 266ms cdn1.pandaonline.org:443
-OK 124ms 185.207.66.8:443
-OK 129ms 193.160.208.137:443
-OK 151ms 95.129.236.239:443 cached
-OK 126ms 193.233.247.60:443
 OK 745ms ru.xiaoliyu.cyou:18333 cached
