@@ -151,10 +151,12 @@ OK 133ms 95.163.211.237:8080 cached
 OK 124ms 95.163.211.237:80 cached
 OK 128ms 78.159.246.110:443 cached
 OK 121ms 78.159.246.179:2053 cached
-OK 155ms 37.18.14.168:10654 cached
+OK 157ms 95.163.215.8:5003
+OK 161ms 37.18.14.168:10654
 OK 123ms 37.18.14.115:10654 cached
-OK 187ms 176.108.253.120:443
-OK 126ms 176.109.108.244:9880 cached
+OK 121ms 176.109.111.7:9881 cached
+OK 157ms 95.163.215.8:6002
+OK 160ms 176.108.242.55:5002
 OK 135ms 37.139.42.208:9444 cached
 OK 124ms 176.108.241.126:9892 cached
 OK 126ms 176.108.246.58:9881 cached
@@ -162,22 +164,23 @@ OK 126ms 176.108.246.110:9830 cached
 OK 124ms 176.108.249.189:9881 cached
 OK 125ms 176.109.109.105:9830 cached
 OK 127ms 176.108.246.73:9873 cached
-OK 131ms 84.201.131.144:443 cached
-OK 180ms 31.129.42.9:8444
-OK 173ms 158.160.160.21:443 cached
-OK 121ms 78.159.250.214:443 cached
-OK 124ms 176.108.245.167:9881 cached
-OK 121ms 176.109.104.103:9881 cached
-OK 122ms 176.109.111.154:9881 cached
-OK 121ms 176.109.111.7:9881 cached
-OK 129ms 217.16.31.218:443 cached
-OK 122ms 78.159.245.51:6443 cached
-OK 113ms 217.12.206.160:81 cached
 OK 125ms 78.159.240.41:443 cached
 OK 126ms 158.160.199.84:443 cached
 OK 125ms 130.193.56.74:443 cached
 OK 131ms 130.193.35.232:443 cached
 OK 142ms 217.12.40.76:443 cached
+OK 163ms 37.139.42.225:7448
+OK 131ms 84.201.131.144:443 cached
+OK 156ms 158.160.160.21:443
+OK 121ms 78.159.250.214:443 cached
+OK 124ms 176.108.245.167:9881 cached
+OK 121ms 176.109.104.103:9881 cached
+OK 126ms 176.109.108.244:9880 cached
+OK 162ms 176.109.111.152:9894
+OK 122ms 176.109.111.154:9881 cached
+OK 129ms 217.16.31.218:443 cached
+OK 122ms 78.159.245.51:6443 cached
+OK 113ms 217.12.206.160:81 cached
 OK 100ms 109.120.179.99:443 cached
 OK 137ms 37.139.34.90:443 cached
 OK 138ms 89.208.223.111:443 cached
@@ -197,28 +200,28 @@ OK 140ms 84.201.164.180:443 cached
 OK 121ms 176.108.241.183:443 cached
 OK 123ms 51.250.94.185:443 cached
 OK 126ms 95.163.251.110:443 cached
-OK 198ms qq.utiltools.site:443 cached
-OK 132ms 88.119.176.131:443 cached
-OK 220ms litter.propper.beauty:443 cached
+OK 200ms qq.utiltools.site:443
+OK 147ms 88.119.176.131:443
+OK 330ms litter.propper.beauty:443
 OK 124ms 185.141.227.180:2053 cached
 OK 141ms 91.210.169.181:443 cached
 OK 162ms wstg.datasynctrue.online:443 cached
 OK 123ms 217.19.122.200:443 cached
 OK 139ms 200.165.231.209:443 cached
-OK 153ms spanish67.kovsh.lol:443 cached
-OK 131ms 46.28.71.154:443 cached
+OK 203ms spanish67.kovsh.lol:443
+OK 140ms 46.28.71.154:443
 OK 143ms 188.225.33.141:443 cached
 OK 306ms polkakurvich.hohoterz.beer:443 cached
-OK 200ms 81.94.148.120:7449
-OK 211ms 93.183.87.85:24446
+OK 200ms 81.94.148.120:7449 cached
+OK 211ms 93.183.87.85:24446 cached
 OK 111ms 80.47.6.12:443 cached
-OK 217ms 34.3.107.0:443 cached
+OK 141ms 34.3.107.0:443
 OK 265ms yaruss.stopingiphatered.shop:443 cached
-OK 14ms 172.67.217.240:443 cached
+OK 18ms 172.67.217.240:443
 OK 2ms 188.114.97.6:443 cached
-OK 212ms 90.156.218.163:443 cached
+OK 186ms 90.156.218.163:443
 OK 236ms du-rov.secureservice.top:8443 cached
-OK 119ms 95.85.254.153:443 cached
+OK 154ms 95.85.254.153:443
 OK 121ms 158.160.231.108:8443 cached
 OK 126ms 51.250.39.162:443 cached
 OK 128ms 158.160.12.31:443 cached
@@ -269,9 +272,13 @@ OK 10ms cf.008500.xyz:443 cached
 OK 95ms www.visasoutheasteurope.com:2096 cached
 OK 117ms test.wide-frost.test-cdn-kkk.com:8443 cached
 OK 179ms srv31.towersflowerss.com:443 cached
-OK 176ms 188.225.25.22:443
-OK 182ms 185.91.52.96:8444
-OK 176ms 185.91.54.30:8444
 OK 126ms 45.132.176.161:9891 cached
-OK 123ms 185.147.26.218:443 cached
-OK 416ms api.mediapriboy.cc:443
+OK 126ms 176.109.105.186:9892 cached
+OK 164ms 62.152.58.90:443
+OK 126ms 176.123.165.25:9881 cached
+OK 128ms 45.132.176.157:9872 cached
+OK 128ms 45.132.176.161:9882 cached
+OK 163ms 213.171.31.34:5002
+OK 523ms us1.avroraservice.online:443
+OK 361ms 159.194.202.196:443
+OK 343ms 159.194.240.25:443
