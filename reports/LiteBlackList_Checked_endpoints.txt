@@ -105,37 +105,37 @@ OK 143ms 185.92.183.41:8443 cached
 OK 225ms 116.251.216.12:8443 cached
 OK 179ms 23.175.201.2:8443 cached
 OK 12ms 154.92.9.156:443 cached
-OK 90ms 45.151.71.63:443
-OK 194ms ziro.skin:443
-OK 103ms 2.27.69.117:443
-OK 135ms 188.130.209.224:8443
-OK 98ms 2.27.35.55:443
-OK 104ms 209.38.225.184:443
+OK 90ms 45.151.71.63:443 cached
+OK 194ms ziro.skin:443 cached
+OK 103ms 2.27.69.117:443 cached
+OK 135ms 188.130.209.224:8443 cached
+OK 98ms 2.27.35.55:443 cached
+OK 104ms 209.38.225.184:443 cached
 OK 51ms www.chatgpt.com:2083 cached
-OK 149ms slivdom-spb.site:443
-OK 39ms cdn4.wildiran.com:443
-OK 115ms 64.176.22.185:80
+OK 149ms slivdom-spb.site:443 cached
+OK 39ms cdn4.wildiran.com:443 cached
+OK 115ms 64.176.22.185:80 cached
 OK 485ms maxfieldbox-nayab.org:443 cached
-OK 278ms lv1d.lynch.ir:4040
-OK 92ms 51.75.67.209:80
-OK 85ms iiproxy88.iiproxy.com:8443
-OK 610ms us5.h1cloud.net:25178
-OK 97ms 157.228.160.166:443
+OK 278ms lv1d.lynch.ir:4040 cached
+OK 92ms 51.75.67.209:80 cached
+OK 85ms iiproxy88.iiproxy.com:8443 cached
+OK 610ms us5.h1cloud.net:25178 cached
+OK 97ms 157.228.160.166:443 cached
 OK 379ms megariverport-nayab.org:443 cached
-OK 92ms 50.7.157.236:443
+OK 92ms 50.7.157.236:443 cached
 OK 159ms 188.130.209.216:443 cached
-OK 122ms 31.59.210.25:2087
-OK 151ms 2.27.35.74:443
-OK 92ms 46.101.110.88:443
-OK 102ms 195.133.80.67:1443
+OK 122ms 31.59.210.25:2087 cached
+OK 151ms 2.27.35.74:443 cached
+OK 92ms 46.101.110.88:443 cached
+OK 102ms 195.133.80.67:1443 cached
 OK 110ms 64.188.115.219:443 cached
-OK 254ms e7q.internet-booster.online:2443
-OK 174ms de12.h1cloud.net:25095
-OK 609ms us5.h1cloud.net:25177
-OK 126ms 188.130.209.224:444
+OK 254ms e7q.internet-booster.online:2443 cached
+OK 174ms de12.h1cloud.net:25095 cached
+OK 609ms us5.h1cloud.net:25177 cached
+OK 126ms 188.130.209.224:444 cached
 OK 135ms 189.74.116.13:443 cached
-OK 113ms 31.59.210.26:2088
-OK 172ms de12.h1cloud.net:25089
+OK 113ms 31.59.210.26:2088 cached
+OK 172ms de12.h1cloud.net:25089 cached
 OK 690ms magnitogorsk.gosgenarchive.com:448 cached
 OK 164ms 84.23.54.213:443 cached
 OK 315ms music1000.melobitmusic1.ir:2053 cached
@@ -145,19 +145,19 @@ OK 9ms 104.21.36.164:2053 cached
 OK 37ms 188.114.97.6:443 cached
 OK 12ms 45.130.125.200:2053 cached
 OK 262ms 18.239.134.69:80 cached
-OK 194ms liked-eft.rooster465.autos:443
+OK 194ms liked-eft.rooster465.autos:443 cached
 OK 287ms platform103.golnamakcert.top:80 cached
 OK 112ms 130.49.161.70:443 cached
 OK 7ms 104.16.75.99:443 cached
 OK 9ms 104.16.75.46:443 cached
 OK 165ms 185.141.227.180:2053 cached
 OK 36ms 104.21.6.186:443 cached
-OK 84ms guided-ferret.rooster465.autos:443
+OK 84ms guided-ferret.rooster465.autos:443 cached
 OK 253ms one-for-all.levikogjgfdd.ir:443 cached
 OK 111ms 87.58.201.170:443 cached
 OK 19ms 104.17.189.78:443 cached
-OK 190ms 59.125.69.24:443
-OK 166ms concrete-aardvark.rooster465.autos:443
+OK 190ms 59.125.69.24:443 cached
+OK 166ms concrete-aardvark.rooster465.autos:443 cached
 OK 13ms 104.16.75.251:443 cached
 OK 13ms 104.16.75.44:443 cached
 OK 542ms kashgsgsiajsh.apple.gymyoga.ir:80 cached
@@ -171,7 +171,7 @@ OK 12ms 104.21.66.61:8443 cached
 OK 634ms helsink.vypnet.su:443 cached
 OK 930ms ddc-akn.astralweb.tech:443 cached
 OK 664ms lt.nosok-top.com:443 cached
-OK 287ms real-cardinal.rooster465.autos:443
+OK 287ms real-cardinal.rooster465.autos:443 cached
 OK 8ms 172.67.180.173:2053 cached
 OK 121ms 84.32.99.238:443 cached
 OK 11ms 45.130.125.207:80 cached
@@ -180,7 +180,7 @@ OK 124ms 150.241.72.5:443 cached
 OK 614ms ee1.sferavpn.pro:443 cached
 OK 140ms 168.138.43.75:80 cached
 OK 239ms hy2.aspidnet.xyz:443 cached
-OK 231ms 23.27.200.125:80
+OK 231ms 23.27.200.125:80 cached
 OK 667ms milo.rubinaz.xyz:8080 cached
 OK 301ms ware.tunnelgate.org:443 cached
 OK 58ms 129.146.77.248:39495 cached
@@ -197,7 +197,7 @@ OK 126ms 95.85.254.245:443 cached
 OK 9ms 104.18.32.47:2053 cached
 OK 152ms 62.152.58.41:443 cached
 OK 918ms ru.xiaoliyu.cyou:18333 cached
-OK 9ms 151.101.213.164:443
+OK 9ms 151.101.213.164:443 cached
 OK 159ms 195.162.69.203:8443 cached
 OK 20ms 38.180.254.125:9443 cached
 OK 182ms 194.26.229.214:4100 cached
@@ -207,48 +207,48 @@ OK 285ms fr.api-music-fa.com:2053 cached
 OK 160ms 46.243.232.125:443 cached
 OK 15ms 104.18.1.1:443 cached
 OK 17ms 104.18.1.1:2053 cached
-OK 190ms 60.248.219.54:443
+OK 190ms 60.248.219.54:443 cached
 OK 114ms 89.46.131.91:443 cached
 OK 553ms 0eiy3.guardora.pro:1526 cached
-OK 164ms integral-rodent.rooster465.autos:443
+OK 164ms integral-rodent.rooster465.autos:443 cached
 OK 469ms fiproxy1.lockdwn.com:443 cached
 OK 110ms 62.210.24.143:32202 cached
 OK 584ms saratov.gosgenarchive.com:443 cached
 OK 276ms hy2-new.aspidnet.xyz:443 cached
 OK 160ms 37.18.14.168:10654 cached
-OK 26ms site.check-looks.space:2083
+OK 26ms site.check-looks.space:2083 cached
 OK 15ms 172.67.196.252:2053 cached
 OK 740ms dismissaltree.net:2053 cached
 OK 135ms 2.27.59.206:443 cached
-OK 62ms 38.150.33.232:12329
+OK 62ms 38.150.33.232:12329 cached
 OK 35ms 188.114.98.0:80 cached
 OK 316ms 721a6718.nosok-top.com:443 cached
 OK 351ms mnl.savesafe.space:443 cached
 OK 485ms izhevsk.gosgenarchive.com:443 cached
 OK 248ms fqubqa.falsemirrov.com:443 cached
-OK 172ms evolving-platypus.rooster465.autos:443
+OK 172ms evolving-platypus.rooster465.autos:443 cached
 OK 704ms magnitogorsk.gosgenarchive.com:443 cached
 OK 137ms 46.149.78.59:443 cached
-OK 165ms assuring-skink.rooster465.autos:443
-OK 192ms pretty-rat.rooster465.autos:443
+OK 165ms assuring-skink.rooster465.autos:443 cached
+OK 192ms pretty-rat.rooster465.autos:443 cached
 OK 6ms 104.16.72.70:80 cached
 OK 12ms 104.21.35.235:2053 cached
 OK 443ms ulyanovsk.gosgenarchive.com:448 cached
-OK 203ms noted-cougar.rooster465.autos:443
+OK 203ms noted-cougar.rooster465.autos:443 cached
 OK 137ms 213.176.17.215:443 cached
-OK 138ms summerculture.net:2053
+OK 138ms summerculture.net:2053 cached
 OK 110ms 77.247.178.238:443 cached
-OK 9ms 141.101.122.147:443
-OK 190ms 60.248.219.78:443
-OK 106ms 179.254.71.20:52006
+OK 9ms 141.101.122.147:443 cached
+OK 190ms 60.248.219.78:443 cached
+OK 106ms 179.254.71.20:52006 cached
 OK 183ms 78.159.240.41:443 cached
-OK 228ms 45.195.69.230:80
+OK 228ms 45.195.69.230:80 cached
 OK 144ms 31.76.80.69:443 cached
 OK 22ms chatgpt.com:80 cached
 OK 511ms test.keoplentuio.xyz:2053 cached
 OK 121ms 212.23.221.62:443 cached
 OK 140ms 41.216.182.105:443 cached
-OK 239ms desired-boxer.rooster465.autos:443
+OK 239ms desired-boxer.rooster465.autos:443 cached
 OK 240ms subnimnet1.ir:80 cached
 OK 170ms 5.181.202.58:443 cached
 OK 151ms 2.27.207.30:443 cached
@@ -261,7 +261,7 @@ OK 154ms 132.145.80.230:80 cached
 OK 274ms ru.falsemirrov.com:443 cached
 OK 11ms 104.16.10.197:443 cached
 OK 11ms 104.18.4.130:80 cached
-OK 167ms promoted-rattler.rooster465.autos:443
-OK 84ms happy-gibbon.rooster465.autos:443
+OK 167ms promoted-rattler.rooster465.autos:443 cached
+OK 84ms happy-gibbon.rooster465.autos:443 cached
 OK 11ms 104.16.75.42:443 cached
 OK 184ms wdgmw.falsemirrov.com:443 cached

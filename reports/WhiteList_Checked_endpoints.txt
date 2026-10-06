@@ -150,21 +150,14 @@ OK 155ms 92.53.120.70:443 cached
 OK 164ms 91.238.111.248:443 cached
 OK 159ms 95.163.211.237:8080 cached
 OK 159ms 95.163.211.237:80 cached
-OK 151ms 78.159.246.179:2053 cached
 OK 160ms 78.159.250.84:2053 cached
 OK 160ms 37.18.14.168:10654 cached
-OK 151ms 130.193.56.74:443 cached
-OK 167ms 217.12.40.76:443 cached
-OK 178ms 158.160.199.84:443 cached
-OK 157ms 130.193.59.3:443 cached
+OK 140ms 78.159.240.159:10654
+OK 139ms 37.18.14.115:10654
+OK 112ms 31.129.42.23:30052 cached
 OK 158ms 84.201.131.144:443 cached
-OK 162ms 176.109.107.226:443 cached
-OK 164ms 176.109.107.226:8443 cached
-OK 160ms 176.108.244.24:443 cached
-OK 155ms 176.108.244.24:8443 cached
-OK 120ms 109.120.179.99:443 cached
-OK 152ms 37.139.34.90:443 cached
-OK 159ms 89.208.223.111:443 cached
+OK 137ms 176.108.252.139:9881
+OK 85ms 78.159.131.79:443
 OK 157ms 51.250.87.28:443 cached
 OK 157ms 5.188.141.139:443 cached
 OK 152ms 51.250.74.50:443 cached
@@ -180,52 +173,45 @@ OK 161ms 84.201.164.180:443 cached
 OK 152ms 176.108.241.183:443 cached
 OK 155ms 51.250.94.185:443 cached
 OK 166ms 95.163.251.110:443 cached
+OK 120ms 109.120.179.99:443 cached
+OK 152ms 37.139.34.90:443 cached
+OK 159ms 89.208.223.111:443 cached
+OK 167ms 217.12.40.76:443 cached
+OK 157ms 130.193.59.3:443 cached
+OK 151ms 130.193.56.74:443 cached
+OK 178ms 158.160.199.84:443 cached
+OK 115ms 109.120.134.243:443
 OK 165ms 158.160.160.21:443 cached
 OK 167ms 176.108.240.66:8443 cached
 OK 162ms 78.159.250.214:443 cached
 OK 161ms 176.108.242.55:5002 cached
+OK 128ms 84.201.134.134:443
 OK 159ms 217.16.31.218:443 cached
 OK 160ms 78.159.245.51:6443 cached
-OK 136ms 176.109.107.120:443
+OK 136ms 176.109.107.120:443 cached
 OK 141ms 217.12.206.160:81 cached
-OK 121ms 185.177.229.128:22324 cached
-OK 108ms 185.177.229.129:22324 cached
-OK 133ms 84.32.215.96:443 cached
-OK 197ms qq.utiltools.site:443 cached
+OK 182ms 185.147.26.210:443
 OK 163ms 91.210.169.181:443 cached
-OK 161ms 188.225.44.89:443 cached
-OK 485ms maxfieldbox-nayab.org:443 cached
-OK 197ms us1.jetservaki.fit:443 cached
-OK 165ms 185.141.227.180:2053 cached
-OK 159ms 88.119.165.131:443 cached
-OK 245ms wstg.datasynctrue.online:443 cached
-OK 170ms 200.165.231.209:443 cached
 OK 646ms du-rov.secureservice.top:8443 cached
-OK 160ms 188.225.25.195:443 cached
+OK 109ms 87.239.135.112:443
+OK 118ms 45.139.26.179:443 cached
+OK 197ms qq.utiltools.site:443 cached
+OK 142ms 91.108.249.201:705
+OK 170ms 200.165.231.209:443 cached
+OK 173ms shop.neexbyte.ir:8443
+OK 511ms test.keoplentuio.xyz:2053 cached
+OK 95ms 31.76.64.248:443
 OK 369ms saas.sin.fan:443 cached
-OK 379ms megariverport-nayab.org:443 cached
-OK 171ms 188.225.24.201:443 cached
+OK 245ms wstg.datasynctrue.online:443 cached
+OK 7ms 23.134.76.212:443
+OK 131ms 91.108.249.207:705
 OK 174ms 93.183.87.85:24446 cached
-OK 145ms 188.225.25.142:443 cached
-OK 205ms 188.225.77.241:443 cached
-OK 197ms 188.225.35.207:443 cached
-OK 27ms 104.25.88.220:443 cached
-OK 37ms 188.114.97.6:443 cached
-OK 242ms 188.225.57.78:443 cached
-OK 23ms 172.67.217.240:443 cached
-OK 12ms 104.16.96.154:443 cached
-OK 203ms 188.225.42.6:443 cached
-OK 24ms 104.24.54.160:443 cached
-OK 12ms 104.18.176.145:443 cached
-OK 10ms 104.16.10.2:443
-OK 11ms 104.19.102.174:443 cached
-OK 36ms 104.21.6.186:443 cached
-OK 19ms 104.17.189.78:443 cached
-OK 11ms 104.16.10.197:443 cached
-OK 13ms 104.16.215.234:443 cached
-OK 161ms 62.152.58.90:443 cached
-OK 16ms 104.18.81.30:443 cached
+OK 165ms 185.141.227.180:2053 cached
+OK 61ms 23.237.202.252:443
+OK 160ms 84.38.181.249:443 cached
+OK 86ms 31.77.227.6:52006
 OK 221ms tgfree.rush-server.com:443 cached
+OK 143ms 195.133.73.65:443
 OK 158ms 158.160.231.108:8443 cached
 OK 153ms 51.250.39.162:443 cached
 OK 173ms 158.160.12.31:443 cached
@@ -277,28 +263,7 @@ OK 65ms cf.008500.xyz:443 cached
 OK 157ms www.visasoutheasteurope.com:2096 cached
 OK 202ms test.wide-frost.test-cdn-kkk.com:8443 cached
 OK 317ms srv31.towersflowerss.com:443 cached
-OK 118ms 45.139.26.179:443
-OK 120ms 217.26.25.250:8443
-OK 234ms ee.h1cloud.net:25895
-OK 119ms 31.76.6.221:17001
-OK 160ms charredrelatedfoam.falloworchard.com:443
-OK 122ms 92.51.23.88:443
-OK 91ms 189.74.106.54:443
-OK 91ms 189.74.106.86:443
-OK 135ms 188.130.209.224:8443
-OK 239ms 144.31.93.211:443
-OK 98ms 189.74.116.14:443
-OK 134ms 31.76.71.20:443
-OK 275ms 31.76.71.23:443
-OK 137ms 45.144.30.155:443
-OK 132ms washedroutineream.coppermitten.one:443
-OK 131ms 5.129.222.94:443
-OK 116ms 5.8.52.100:443
-OK 123ms 45.152.113.206:443
-OK 126ms 188.130.209.224:444
-OK 146ms 194.58.109.206:8443
-OK 144ms 45.144.30.154:2087
-OK 123ms 77.239.107.191:8443
-OK 136ms 45.131.186.202:18445
-OK 133ms 45.131.186.202:18443
+OK 305ms fi.alpheratzz.org:443
+OK 174ms de12.h1cloud.net:25095 cached
+OK 609ms us5.h1cloud.net:25177 cached
 OK 918ms ru.xiaoliyu.cyou:18333 cached
