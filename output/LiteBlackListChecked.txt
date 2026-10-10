@@ -230,7 +230,6 @@ vless://01399b36-d6d4-4ce9-9ce7-24d8d83379d3@87.251.79.201:443?encryption=none&t
 vless://8bb52771-052e-40b5-ab53-c6e151ad2290@shop.neexbyte.ir:8443?encryption=none&security=tls&fp=chrome&type=ws&host=shop.neexbyte.ir&path=%2F#Notorgames_0
 vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&fp=edge&alpn=http%2F1.1&type=ws&host=apis.stroymatdv.cc&path=%2Famsws#Notorgames_0
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=evolving-platypus.rooster465.autos&type=tcp&headerType=none#Notorgames_0
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&security=reality&sni=dl.google.com&fp=edge&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Notorgames_0
 trojan://UX82473651@43.203.172.96:443?allowInsecure=1&insecure=1&security=tls&sni=neutral-quail.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&sni=milo.rubinaz.xyz&type=tcp&headerType=none#Notorgames_0
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=qq&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI#Notorgames_0
@@ -262,6 +261,7 @@ vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&
 trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&insecure=1&security=tls&sni=139.180.146.200&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&sni=bu2.freeguard.org&type=tcp&headerType=none#Notorgames_0
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&type=tcp#Notorgames_0
 vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#Notorgames_0
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.112.59.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.nztvpn.com&fp=chrome&pbk=MTYXgxLIK9PzmQGAjuCmhI1FikCNlvU66NKgQ5g14Bc&sid=0b135481ea1283fc&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none&path=%2F#Notorgames_0
@@ -294,7 +294,6 @@ vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?type=
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?encryption=none&fp=chrome&host=wstg.datasynctrue.online&path=/api/connect&security=tls&sni=wstg.datasynctrue.online&type=ws#Notorgames_0
 trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@92.118.112.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-root.sworkingvpn.com&fp=chrome&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&type=tcp&headerType=none#Notorgames_0
-vless://a6be94fc-e742-4714-8a38-c8d7410ae066@188.130.209.226:444?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=vextor.win&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&encryption=none#Notorgames_0
 trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos&type=tcp&headerType=none&path=%2F#Notorgames_0
 trojan://UX82473651@3.35.207.188:443?allowInsecure=1&insecure=1&security=tls&sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.jsdelivr.net&fp=random&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&sid=ff867ed245c73f43&type=tcp&headerType=none#Notorgames_0
@@ -308,7 +307,6 @@ vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?enc
 trojan://UX82473651@176.34.5.100:443?security=tls&sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://01399b36-d6d4-4ce9-9ce7-24d8d83379d3@179.198.49.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=patdLH31Ln10QVLMwDyt9MsYCGGzBchwJercxN-bwB4&security=reality&sid=062eb1df991ad7bd&sni=plstrdp.nodeserv.xyz&type=tcp#Notorgames_0
 trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#Notorgames_0
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Notorgames_0
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=edge&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI#Notorgames_0
 trojan://UX82473651@3.35.168.225:443?security=tls&sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=qq&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#Notorgames_0
@@ -334,7 +332,6 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&
 vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&type=ws&host=machinemag.ir&path=%2F#Notorgames_0
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?encryption=none&security=reality&sni=www.yandex.ru&fp=safari&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&type=grpc&authority=&serviceName=astracat&mode=gun#Notorgames_0
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#Notorgames_0
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&security=reality&sni=dl.google.com&fp=safari&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Notorgames_0
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#Notorgames_0
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos&type=tcp&headerType=none#Notorgames_0
@@ -355,13 +352,11 @@ trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musica
 trojan://UX82473651@holy-lamb.rooster465.autos:443?security=tls&sni=holy-lamb.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://137d4246-efc7-494e-a390-b10d1d88d8df@46.8.210.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=skyrealm.ru&fp=firefox&pbk=dXxmyUOc4EyGGymMmE6CBCbzdghFUyalL1JCBz0f7RU&sid=aa262de714&spx=%2F&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@54.238.153.132:443?security=tls&sni=obliging-louse.rooster465.autos&type=tcp&headerType=none#Notorgames_0
-vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&spx=%2F&sid=3199b70105c62ce0&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.sun6-21.userapi.com&encryption=none&fp=qq#Notorgames_0
 trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 vless://01399b36-d6d4-4ce9-9ce7-24d8d83379d3@177.3.215.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NTJCvwK9s4l-yhiIxwXto2a08mjRHVUHvWbAqADp_wg&security=reality&sid=c3577d33d1cb890b&sni=swstp2g.nodeserv.xyz&type=tcp#Notorgames_0
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.180:2053?encryption=none&security=tls&sni=dismissaltree.net&fp=firefox&type=xhttp&path=%2Fapi%2Fv1%2Fupload#Notorgames_0
 vless://0936671d-b362-4fc2-a6f4-5ba04810f868@31.129.42.53:8443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=oANyNskNiuCuC95eSKJjXpGFJxEbiSc1zHX9MGeUH1g&sid=4b94e46260&spx=%2F&type=grpc#Notorgames_0
 trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&security=reality&sni=dl.google.com&fp=ios&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Notorgames_0
 trojan://UX82473651@13.230.139.12:443?security=tls&sni=brief-glider.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@13.230.91.226:443?allowInsecure=1&insecure=1&security=tls&sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
@@ -373,7 +368,6 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&
 vless://0936671d-b362-4fc2-a6f4-5ba04810f868@31.129.42.53:8443?encryption=none&security=reality&sni=st.vk.com&fp=firefox&pbk=oANyNskNiuCuC95eSKJjXpGFJxEbiSc1zHX9MGeUH1g&sid=d7c6&spx=%2F&type=grpc#Notorgames_0
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform115.golnamakcert.top:80?encryption=none&security=none&type=ws&host=%5B%27platform115.halalkhor.info%27%5D&path=%2Fplatform115#Notorgames_0
 trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&type=tcp&headerType=none&path=%2F#Notorgames_0
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#Notorgames_0
 trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=ultimate-jaguar.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@56.10.9.77:443?allowInsecure=1&insecure=1&security=tls&sni=inviting-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
@@ -390,7 +384,6 @@ trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promo
 trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos&type=tcp&headerType=none&path=%2F#Notorgames_0
 trojan://UX82473651@176.34.5.100:443?allowInsecure=1&insecure=1&security=tls&sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos&type=tcp&headerType=none#Notorgames_0
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.252.139:9881?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Notorgames_0
 trojan://UX82473651@43.207.198.39:443?allowInsecure=1&insecure=1&security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@43.203.172.96:443?security=tls&sni=neutral-quail.rooster465.autos&type=tcp&headerType=none&path=%2F#Notorgames_0
 vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tyxyrytyro-51255165170-direct.araghchy.com&fp=chrome&alpn=h2&type=tcp&headerType=none&host=tyxyrytyro-51255165170-direct.araghchy.com&path=%2F#Notorgames_0
@@ -410,6 +403,7 @@ vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&
 trojan://UX82473651@13.230.139.12:443?security=tls&sni=brief-glider.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=edge&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@3.35.217.113:443?allowInsecure=1&insecure=1&security=tls&sni=amazing-peacock.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.183.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&security=reality&sid=2c9a2790ad5900b2&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp#Notorgames_0
 trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 vless://d2519b5e-495e-462e-9703-bbf68011d2f3@50.7.221.227:443?type=grpc&security=tls&fp=firefox&sni=cekflesmfkwmefsdar.fdc.video-mvm.ru#Notorgames_0
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1&insecure=1&security=tls&sni=139.180.146.200&type=tcp&headerType=none#Notorgames_0
@@ -439,8 +433,10 @@ trojan://UX82473651@18.176.61.69:443?allowInsecure=1&insecure=1&security=tls&sni
 trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@evolving-platypus.rooster465.autos:443?security=tls&sni=evolving-platypus.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#Notorgames_0
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?encryption=none&security=none&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#Notorgames_0
 vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&sni=machinemag.ir&type=ws&host=machinemag.ir&path=%2F#Notorgames_0
 vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@217.60.24.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cipher961.filebeam.website&fp=random&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&sid=a7c31f92&spx=%2F&type=tcp#Notorgames_0
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@45.195.69.230:80?encryption=none&security=none&sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#Notorgames_0
 trojan://UX82473651@52.192.45.137:443?allowInsecure=1&insecure=1&security=tls&sni=promoted-rattler.rooster465.autos&type=tcp&headerType=none#Notorgames_0
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&headerType=none#Notorgames_0
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io&fp=chrome&type=tcp&headerType=none#Notorgames_0
