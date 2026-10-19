@@ -1,4 +1,10 @@
+"""Фильтр: только Hysteria2/Hy2 и Trojan.
+
+Собирает исходники (локальные файлы + URL-подписки внутри них),
+декодирует Base64, фильтрует протоколы.
+"""
 import base64
+import re
 import urllib.request
 from pathlib import Path
 
@@ -14,59 +20,97 @@ WHITE_SOURCES = ["WhiteList", "LiteWhiteList"]
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
+ALLOWED_PREFIXES = ("trojan://", "hysteria2://", "hy2://")
 
-def fetch_content(url: str) -> str:
-    url = url.strip()
 
-    if url.startswith("http"):
+def looks_like_base64_blob(text: str) -> bool:
+    s = "".join(text.strip().split())
+    if not s or len(s) < 16 or "://" in text:
+        return False
+    return re.fullmatch(r"[A-Za-z0-9+/=]+", s) is not None
+
+
+def try_decode_base64_text(text: str) -> str:
+    s = "".join(text.strip().split())
+    s += "=" * ((4 - len(s) % 4) % 4)
+    try:
+        out = base64.b64decode(s).decode("utf-8", errors="ignore")
+        if "://" in out or "\n" in out:
+            return out
+    except Exception:
+        pass
+    return text
+
+
+def fetch_text(url: str) -> str:
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 PypsCFG-Hy2Trojan", "Accept": "*/*"},
+    )
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return r.read().decode("utf-8", errors="ignore")
+
+
+def read_source(source: str) -> str:
+    source = source.strip()
+    if source.startswith("http"):
         try:
-            req = urllib.request.Request(
-                url,
-                headers={
-                    "User-Agent": "Mozilla/5.0",
-                    "Accept": "*/*",
-                },
-            )
-            with urllib.request.urlopen(req, timeout=25) as r:
-                raw = r.read()
-                return raw.decode("utf-8", errors="ignore")
+            return fetch_text(source)
         except Exception as e:
-            print(f"[FETCH FAIL] {url} -> {e}")
+            print(f"[FETCH FAIL] {source} -> {e}")
             return ""
 
-    path = Path(url)
+    path = Path(source)
     if path.exists():
         return path.read_text(encoding="utf-8", errors="ignore")
-
     return ""
 
 
 def score(line: str) -> int:
-    l = line.lower()
-    if "trojan://" in l:
+    low = line.lower()
+    if "trojan://" in low:
         return 100
-    if "hysteria2://" in l or "hy2://" in l:
+    if "hysteria2://" in low or "hy2://" in low:
         return 80
     return 0
 
 
-def process(files):
+def collect_lines(content: str):
+    """Сначала простой список строк, затем загрузка URL-подписок внутри."""
+    lines = []
+    for x in content.replace("\r", "\n").split("\n"):
+        x = x.strip()
+        if x and not x.startswith("#"):
+            lines.append(x)
+
+    for line in list(lines):
+        if not line.startswith("http"):
+            continue
+        try:
+            sub = fetch_text(line)
+            if looks_like_base64_blob(sub):
+                sub = try_decode_base64_text(sub)
+        except Exception as e:
+            print(f"[FETCH FAIL] {line} -> {e}")
+            continue
+        for y in sub.replace("\r", "\n").split("\n"):
+            y = y.strip()
+            if y and not y.startswith("#"):
+                lines.append(y)
+    return lines
+
+
+def process(sources):
     links = set()
 
-    for src in files:
-        content = fetch_content(src)
+    for src in sources:
+        content = read_source(src)
         if not content:
             continue
 
-        for line in content.splitlines():
-            line = line.strip()
-            if not line:
-                continue
-
-            l = line.lower()
-
-            # 🔥 ТОЛЬКО ТВОИ ПРОТОКОЛЫ
-            if l.startswith("trojan://") or l.startswith("hysteria2://") or l.startswith("hy2://"):
+        for line in collect_lines(content):
+            low = line.lower()
+            if low.startswith(ALLOWED_PREFIXES):
                 links.add(line.split()[0])
 
     return sorted(links, key=score, reverse=True)
@@ -76,7 +120,7 @@ def save(name, links):
     txt = OUTPUT_DIR / f"{name}.txt"
     b64 = OUTPUT_DIR / f"{name}.b64"
 
-    data = "\n".join(links) + "\n"
+    data = "\n".join(links) + ("\n" if links else "")
 
     txt.write_text(data, encoding="utf-8")
     b64.write_text(base64.b64encode(data.encode()).decode(), encoding="utf-8")

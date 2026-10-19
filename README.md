@@ -98,42 +98,42 @@
 <summary>Показать ссылки GitHub Raw</summary>
 
 **Обычные списки**
-- BlackList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackList.txt>
-- BlackList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackList.b64>
-- WhiteList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteList.txt>
-- WhiteList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteList.b64>
-- FavoriteSubBlack.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlack.txt>
-- FavoriteSubBlack.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlack.b64>
-- LiteBlackList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackList.txt>
-- LiteBlackList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackList.b64>
-- LiteWhiteList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteList.txt>
-- LiteWhiteList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteList.b64>
-- merged_all.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all.txt>
-- merged_all.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all.b64>
+- BlackList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackList.txt>
+- BlackList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackList.b64>
+- WhiteList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteList.txt>
+- WhiteList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteList.b64>
+- FavoriteSubBlack.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.txt>
+- FavoriteSubBlack.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.b64>
+- LiteBlackList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackList.txt>
+- LiteBlackList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackList.b64>
+- LiteWhiteList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteList.txt>
+- LiteWhiteList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteList.b64>
+- merged_all.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.txt>
+- merged_all.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.b64>
 
 **Checked-списки** (после проверки)
-- BlackListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackListChecked.txt>
-- BlackListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackListChecked.b64>
-- WhiteListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteListChecked.txt>
-- WhiteListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteListChecked.b64>
-- FavoriteSubBlackChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlackChecked.txt>
-- FavoriteSubBlackChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlackChecked.b64>
-- LiteBlackListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackListChecked.txt>
-- LiteBlackListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackListChecked.b64>
-- LiteWhiteListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteListChecked.txt>
-- LiteWhiteListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteListChecked.b64>
-- merged_all_Checked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all_Checked.txt>
-- merged_all_Checked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all_Checked.b64>
+- BlackListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackListChecked.txt>
+- BlackListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackListChecked.b64>
+- WhiteListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteListChecked.txt>
+- WhiteListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteListChecked.b64>
+- FavoriteSubBlackChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlackChecked.txt>
+- FavoriteSubBlackChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlackChecked.b64>
+- LiteBlackListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackListChecked.txt>
+- LiteBlackListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackListChecked.b64>
+- LiteWhiteListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteListChecked.txt>
+- LiteWhiteListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteListChecked.b64>
+- merged_all_Checked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.txt>
+- merged_all_Checked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.b64>
 
 **Супер-фильтры**
-- BlackFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.txt>
-- BlackFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.b64>
-- WhiteFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.txt>
-- WhiteFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.b64>
-- BlackHy2Trojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackHy2Trojan.txt>
-- BlackHy2Trojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackHy2Trojan.b64>
-- WhiteHy2Trojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteHy2Trojan.txt>
-- WhiteHy2Trojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteHy2Trojan.b64>
+- BlackFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.txt>
+- BlackFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.b64>
+- WhiteFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.txt>
+- WhiteFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.b64>
+- BlackHy2Trojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackHy2Trojan.txt>
+- BlackHy2Trojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackHy2Trojan.b64>
+- WhiteHy2Trojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteHy2Trojan.txt>
+- WhiteHy2Trojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteHy2Trojan.b64>
 
 </details>
 
@@ -144,42 +144,42 @@
 > Примечание: у jsDelivr бывает кэширование, обновление может приходить с задержкой.
 
 **Обычные списки**
-- BlackList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackList.txt>
-- BlackList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackList.b64>
-- WhiteList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteList.txt>
-- WhiteList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteList.b64>
-- FavoriteSubBlack.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlack.txt>
-- FavoriteSubBlack.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlack.b64>
-- LiteBlackList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackList.txt>
-- LiteBlackList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackList.b64>
-- LiteWhiteList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteList.txt>
-- LiteWhiteList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteList.b64>
-- merged_all.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all.txt>
-- merged_all.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all.b64>
+- BlackList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackList.txt>
+- BlackList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackList.b64>
+- WhiteList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteList.txt>
+- WhiteList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteList.b64>
+- FavoriteSubBlack.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlack.txt>
+- FavoriteSubBlack.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlack.b64>
+- LiteBlackList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackList.txt>
+- LiteBlackList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackList.b64>
+- LiteWhiteList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteList.txt>
+- LiteWhiteList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteList.b64>
+- merged_all.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all.txt>
+- merged_all.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all.b64>
 
 **Супер-фильтры**
-- BlackFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.txt>
-- BlackFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.b64>
-- WhiteFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.txt>
-- WhiteFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.b64>
-- BlackHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackHy2Trojan.txt>
-- BlackHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackHy2Trojan.b64>
-- WhiteHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteHy2Trojan.txt>
-- WhiteHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteHy2Trojan.b64>
+- BlackFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.txt>
+- BlackFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.b64>
+- WhiteFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.txt>
+- WhiteFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.b64>
+- BlackHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackHy2Trojan.txt>
+- BlackHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackHy2Trojan.b64>
+- WhiteHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteHy2Trojan.txt>
+- WhiteHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteHy2Trojan.b64>
 
 **Checked-списки**
-- BlackListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackListChecked.txt>
-- BlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackListChecked.b64>
-- WhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteListChecked.txt>
-- WhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteListChecked.b64>
-- FavoriteSubBlackChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlackChecked.txt>
-- FavoriteSubBlackChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlackChecked.b64>
-- LiteBlackListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackListChecked.txt>
-- LiteBlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackListChecked.b64>
-- LiteWhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteListChecked.txt>
-- LiteWhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteListChecked.b64>
-- merged_all_Checked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all_Checked.txt>
-- merged_all_Checked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all_Checked.b64>
+- BlackListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackListChecked.txt>
+- BlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackListChecked.b64>
+- WhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteListChecked.txt>
+- WhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteListChecked.b64>
+- FavoriteSubBlackChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlackChecked.txt>
+- FavoriteSubBlackChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlackChecked.b64>
+- LiteBlackListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackListChecked.txt>
+- LiteBlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackListChecked.b64>
+- LiteWhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteListChecked.txt>
+- LiteWhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteListChecked.b64>
+- merged_all_Checked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all_Checked.txt>
+- merged_all_Checked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all_Checked.b64>
 
 </details>
 
@@ -283,42 +283,42 @@ Two update modes:
 <summary>Show GitHub Raw links</summary>
 
 **Regular lists**
-- BlackList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackList.txt>
-- BlackList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackList.b64>
-- WhiteList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteList.txt>
-- WhiteList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteList.b64>
-- FavoriteSubBlack.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlack.txt>
-- FavoriteSubBlack.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlack.b64>
-- LiteBlackList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackList.txt>
-- LiteBlackList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackList.b64>
-- LiteWhiteList.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteList.txt>
-- LiteWhiteList.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteList.b64>
-- merged_all.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all.txt>
-- merged_all.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all.b64>
+- BlackList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackList.txt>
+- BlackList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackList.b64>
+- WhiteList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteList.txt>
+- WhiteList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteList.b64>
+- FavoriteSubBlack.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.txt>
+- FavoriteSubBlack.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.b64>
+- LiteBlackList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackList.txt>
+- LiteBlackList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackList.b64>
+- LiteWhiteList.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteList.txt>
+- LiteWhiteList.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteList.b64>
+- merged_all.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.txt>
+- merged_all.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.b64>
 
 **Checked lists** (after checking)
-- BlackListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackListChecked.txt>
-- BlackListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackListChecked.b64>
-- WhiteListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteListChecked.txt>
-- WhiteListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteListChecked.b64>
-- FavoriteSubBlackChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlackChecked.txt>
-- FavoriteSubBlackChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/FavoriteSubBlackChecked.b64>
-- LiteBlackListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackListChecked.txt>
-- LiteBlackListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteBlackListChecked.b64>
-- LiteWhiteListChecked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteListChecked.txt>
-- LiteWhiteListChecked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/LiteWhiteListChecked.b64>
-- merged_all_Checked.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all_Checked.txt>
-- merged_all_Checked.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/merged_all_Checked.b64>
+- BlackListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackListChecked.txt>
+- BlackListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackListChecked.b64>
+- WhiteListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteListChecked.txt>
+- WhiteListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteListChecked.b64>
+- FavoriteSubBlackChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlackChecked.txt>
+- FavoriteSubBlackChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlackChecked.b64>
+- LiteBlackListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackListChecked.txt>
+- LiteBlackListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackListChecked.b64>
+- LiteWhiteListChecked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteListChecked.txt>
+- LiteWhiteListChecked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteListChecked.b64>
+- merged_all_Checked.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.txt>
+- merged_all_Checked.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.b64>
 
 **Super-filters**
-- BlackFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.txt>
-- BlackFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.b64>
-- WhiteFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.txt>
-- WhiteFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.b64>
-- BlackHy2Trojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackHy2Trojan.txt>
-- BlackHy2Trojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/BlackHy2Trojan.b64>
-- WhiteHy2Trojan.txt — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteHy2Trojan.txt>
-- WhiteHy2Trojan.b64 — <https://raw.githubusercontent.com/heops6767/PypsCFG/main/output/WhiteHy2Trojan.b64>
+- BlackFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.txt>
+- BlackFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.b64>
+- WhiteFiltredHy2VlessTrojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.txt>
+- WhiteFiltredHy2VlessTrojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.b64>
+- BlackHy2Trojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackHy2Trojan.txt>
+- BlackHy2Trojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackHy2Trojan.b64>
+- WhiteHy2Trojan.txt — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteHy2Trojan.txt>
+- WhiteHy2Trojan.b64 — <https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteHy2Trojan.b64>
 
 </details>
 
@@ -329,42 +329,42 @@ Two update modes:
 > Note: jsDelivr uses caching, updates might be delayed.
 
 **Regular lists**
-- BlackList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackList.txt>
-- BlackList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackList.b64>
-- WhiteList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteList.txt>
-- WhiteList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteList.b64>
-- FavoriteSubBlack.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlack.txt>
-- FavoriteSubBlack.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlack.b64>
-- LiteBlackList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackList.txt>
-- LiteBlackList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackList.b64>
-- LiteWhiteList.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteList.txt>
-- LiteWhiteList.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteList.b64>
-- merged_all.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all.txt>
-- merged_all.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all.b64>
+- BlackList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackList.txt>
+- BlackList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackList.b64>
+- WhiteList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteList.txt>
+- WhiteList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteList.b64>
+- FavoriteSubBlack.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlack.txt>
+- FavoriteSubBlack.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlack.b64>
+- LiteBlackList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackList.txt>
+- LiteBlackList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackList.b64>
+- LiteWhiteList.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteList.txt>
+- LiteWhiteList.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteList.b64>
+- merged_all.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all.txt>
+- merged_all.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all.b64>
 
 **Super-filters**
-- BlackFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.txt>
-- BlackFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.b64>
-- WhiteFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.txt>
-- WhiteFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.b64>
-- BlackHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackHy2Trojan.txt>
-- BlackHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackHy2Trojan.b64>
-- WhiteHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteHy2Trojan.txt>
-- WhiteHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteHy2Trojan.b64>
+- BlackFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.txt>
+- BlackFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackFiltredHy2VlessTrojan.b64>
+- WhiteFiltredHy2VlessTrojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.txt>
+- WhiteFiltredHy2VlessTrojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteFiltredHy2VlessTrojan.b64>
+- BlackHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackHy2Trojan.txt>
+- BlackHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackHy2Trojan.b64>
+- WhiteHy2Trojan.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteHy2Trojan.txt>
+- WhiteHy2Trojan.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteHy2Trojan.b64>
 
 **Checked lists**
-- BlackListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackListChecked.txt>
-- BlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/BlackListChecked.b64>
-- WhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteListChecked.txt>
-- WhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/WhiteListChecked.b64>
-- FavoriteSubBlackChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlackChecked.txt>
-- FavoriteSubBlackChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/FavoriteSubBlackChecked.b64>
-- LiteBlackListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackListChecked.txt>
-- LiteBlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteBlackListChecked.b64>
-- LiteWhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteListChecked.txt>
-- LiteWhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/LiteWhiteListChecked.b64>
-- merged_all_Checked.txt — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all_Checked.txt>
-- merged_all_Checked.b64 — <https://cdn.jsdelivr.net/gh/heops6767/PypsCFG@main/output/merged_all_Checked.b64>
+- BlackListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackListChecked.txt>
+- BlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/BlackListChecked.b64>
+- WhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteListChecked.txt>
+- WhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/WhiteListChecked.b64>
+- FavoriteSubBlackChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlackChecked.txt>
+- FavoriteSubBlackChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/FavoriteSubBlackChecked.b64>
+- LiteBlackListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackListChecked.txt>
+- LiteBlackListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteBlackListChecked.b64>
+- LiteWhiteListChecked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteListChecked.txt>
+- LiteWhiteListChecked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/LiteWhiteListChecked.b64>
+- merged_all_Checked.txt — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all_Checked.txt>
+- merged_all_Checked.b64 — <https://cdn.jsdelivr.net/gh/AmazingCoderA/PypsCFG@main/output/merged_all_Checked.b64>
 
 </details>
 
