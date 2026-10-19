@@ -27,6 +27,12 @@ jobs:
           CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
         run: |
           set -e
+          if [ -z "${CODEBERG_USER:-}" ] || [ -z "${CODEBERG_TOKEN:-}" ]; then
+            echo "::notice::Secrets CODEBERG_USER / CODEBERG_TOKEN not set - mirror skipped."
+            echo "Setup: Codeberg -> Settings -> Applications -> Access Tokens (repository:write),"
+            echo "then add secrets in GitHub repo -> Settings -> Secrets and variables -> Actions."
+            exit 0
+          fi
           git config user.name  "mirror-bot"
           git config user.email "mirror-bot@users.noreply.github.com"
           git remote add codeberg "https://${CODEBERG_USER}:${CODEBERG_TOKEN}@codeberg.org/${CODEBERG_USER}/PypsCFG.git"
