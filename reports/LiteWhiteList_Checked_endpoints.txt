@@ -1,12 +1,13 @@
 OK 127ms 95.163.211.237:8080 cached
 OK 133ms 95.163.211.237:80 cached
+OK 124ms 84.201.180.13:443 cached
+OK 130ms 158.160.180.165:24212 cached
 OK 125ms 78.159.246.85:2053 cached
-OK 123ms 78.159.246.179:2053 cached
 OK 127ms 78.159.246.85:8443 cached
-OK 131ms 78.159.246.179:8443 cached
-OK 124ms 84.201.180.13:443
 OK 128ms 78.159.246.134:443 cached
 OK 126ms 37.18.14.235:443 cached
+OK 131ms 78.159.246.179:8443 cached
+OK 123ms 78.159.246.179:2053 cached
 OK 130ms 51.250.35.199:443 cached
 OK 129ms 51.250.41.54:443 cached
 OK 134ms 95.163.183.101:443 cached
@@ -30,34 +31,23 @@ OK 126ms 51.250.25.145:443 cached
 OK 206ms 103.111.114.147:8443 cached
 OK 131ms 51.250.21.224:443 cached
 OK 127ms 51.250.24.151:443 cached
-OK 104ms 109.120.179.99:443 cached
-OK 132ms 37.139.34.90:443 cached
-OK 137ms 89.208.223.111:443 cached
 OK 135ms 5.188.141.139:443 cached
 OK 133ms 176.108.241.183:443 cached
 OK 137ms 95.163.251.110:443 cached
+OK 104ms 109.120.179.99:443 cached
+OK 132ms 37.139.34.90:443 cached
+OK 137ms 89.208.223.111:443 cached
 OK 129ms 158.160.160.21:443 cached
-OK 131ms 37.18.14.43:2053 cached
 OK 130ms 78.159.250.214:443 cached
-OK 121ms 37.18.14.190:7445
-OK 145ms 178.176.128.128:443 cached
-OK 136ms 95.163.214.43:443 cached
+OK 121ms 37.18.14.190:7445 cached
 OK 131ms 217.16.31.218:443 cached
-OK 109ms 109.120.150.245:2053
 OK 130ms 79.174.92.207:443 cached
 OK 90ms 45.129.176.34:6443 cached
-OK 358ms a0688bt.us4.h1clayd.click:443 cached
-OK 119ms 188.225.38.216:443
-OK 148ms lalibobi.online:443
+OK 247ms 3f8efdt.fi1.h1clayd.click:443 cached
 OK 249ms 36a466g.fi1.h1clayd.click:443 cached
-OK 247ms 3f8efdt.fi1.h1clayd.click:443
-OK 313ms skelmoridianservice.com:443
-OK 924ms pl1.h1cloud.net:27591 cached
-OK 122ms 62.152.58.90:443
-OK 359ms 9bc578g.us4.h1clayd.click:443 cached
-OK 367ms ba0229x.us4.h1clayd.click:443 cached
-OK 137ms 168.113.171.57:443
-OK 144ms 141.98.190.156:443
-OK 225ms toggle.skelmoridianservice.com:443
-OK 89ms 194.87.71.141:443
-OK 123ms 168.222.143.254:443
+OK 239ms de15.h1cloud.net:25362 cached
+OK 135ms 178.250.242.209:443
+OK 134ms 178.250.242.64:443
+OK 143ms 200.169.184.168:443
+OK 150ms 85.192.56.223:443
+OK 143ms 89.23.99.218:443
