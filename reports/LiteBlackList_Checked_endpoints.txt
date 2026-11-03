@@ -108,28 +108,28 @@ OK 171ms 116.251.216.12:8443 cached
 OK 146ms 23.175.201.2:8443 cached
 OK 185ms 31.130.149.85:8443 cached
 OK 3ms 154.92.9.156:443 cached
-OK 247ms fr1.vpngold.ru:8443
-OK 31ms 31.59.65.4:443
-OK 333ms sub-edge-12-1g.xrent.cloud:11451
-OK 160ms 87.199.207.116:443
-OK 176ms 130.49.177.193:443
-OK 64ms 169.40.42.89:443
-OK 371ms ee1.vpngold.ru:8443
-OK 28ms 66.163.114.45:443
-OK 142ms 153.75.86.200:8443
-OK 436ms direct-nl.bachidze.com:443
-OK 362ms lv1.vpngold.ru:8443
+OK 247ms fr1.vpngold.ru:8443 cached
+OK 31ms 31.59.65.4:443 cached
+OK 333ms sub-edge-12-1g.xrent.cloud:11451 cached
+OK 160ms 87.199.207.116:443 cached
+OK 176ms 130.49.177.193:443 cached
+OK 64ms 169.40.42.89:443 cached
+OK 371ms ee1.vpngold.ru:8443 cached
+OK 28ms 66.163.114.45:443 cached
+OK 142ms 153.75.86.200:8443 cached
+OK 436ms direct-nl.bachidze.com:443 cached
+OK 362ms lv1.vpngold.ru:8443 cached
 OK 281ms yoy-api.bachidze.com:443 cached
-OK 943ms dubai-cdn-keno.keno.su:443
-OK 155ms 156.252.229.159:8443
-OK 67ms 192.177.26.55:443
-OK 192ms 193.163.203.170:443
-OK 344ms de8.vpngold.ru:8443
-OK 179ms 185.255.95.226:443
-OK 315ms smart.bachidze.com:443
-OK 357ms fin2.vpngold.ru:8443
-OK 167ms de166.mech-pro.online:443
-OK 185ms 13.143.184.226:443
+OK 943ms dubai-cdn-keno.keno.su:443 cached
+OK 155ms 156.252.229.159:8443 cached
+OK 67ms 192.177.26.55:443 cached
+OK 192ms 193.163.203.170:443 cached
+OK 344ms de8.vpngold.ru:8443 cached
+OK 179ms 185.255.95.226:443 cached
+OK 315ms smart.bachidze.com:443 cached
+OK 357ms fin2.vpngold.ru:8443 cached
+OK 167ms de166.mech-pro.online:443 cached
+OK 185ms 13.143.184.226:443 cached
 OK 205ms 89.35.14.32:443 cached
 OK 203ms 188.72.103.4:443 cached
 OK 533ms selek6.gamma-kvn.com:443 cached
