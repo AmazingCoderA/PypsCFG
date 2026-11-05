@@ -1,6 +1,6 @@
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#🏳️ UNKNOWN SS 92
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🏳️ UNKNOWN SS 270
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🏳️ UNKNOWN SS 57
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#🏳️ UNKNOWN SS 722
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🏳️ UNKNOWN SS 244
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🏳️ UNKNOWN SS 69
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -8,19 +8,22 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🥭 КIЗЯК VPN 6 BL
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTEtMDQgLyAyMDoyOSDwn6WtCuKch
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 20:29 (Moscow)
-DROP unsupported/blocked :: # Количество: 31
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
+DROP unsupported/blocked :: # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTEtMDUgLyAwNToxMyDwn6WtCuKch
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 05:13 (Moscow)
+DROP unsupported/blocked :: # Количество: 63
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.192:18443#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%9F%A5%AD%F0%9F
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%
 DROP unsupported/blocked :: ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%5B%F0%9F%8F%B4BL%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -130,40 +133,78 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | VLESS
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 22:09 (Moscow)
-DROP unsupported/blocked :: # Количество: 75
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 06:54 (Moscow)
+DROP unsupported/blocked :: # Количество: 136
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&fp=firefox&type=xhttp&path=%2F&mode=stream-one##🇫🇮
+DROP duplicate :: vless://c86fb9d6-8bdb-48ea-b78f-4409e02234ce@85.31.148.74:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=IyUvo6owCe4Zfr8aIVdtweSNHQSpSyiO-OKsRDJ9BBs&sid=a111111111111111&sni=calendar.salphetka.ru&fp=qq##🇫🇷
+DROP duplicate :: vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?sni=oizs5zecux0s.pouriayy1.workers.dev&type=ws&host=oizs5zecux0s.pouriayy1.workers.dev&path=/stream/PANEL_ZEUS/15038a30cbef/loc-0fp%3Dunsafe&security=tls&fp=chrome##🇩🇪
+DROP duplicate :: vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?sni=oizs5zecux0s.pouriayy1.workers.dev&type=ws&host=oizs5zecux0s.pouriayy1.workers.dev&path=/stream/PANEL_ZEUS/15038a30cbef/loc-0fp=unsafe&security=tls##🇩🇪
 DROP duplicate :: vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?security=reality&flow=xtls-rprx-vision&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&sni=de-2.ffpn.pro&type=tcp&headerType=none&host=de-2.ffpn.pro&path=%2F&fp=ios##🇩🇪
 DROP duplicate :: vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?security=reality&flow=xtls-rprx-vision&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&sni=de-2.ffpn.pro&type=tcp&headerType=none&host=de-2.ffpn.pro&path=%2F&fp=qq##🇩🇪
 DROP duplicate :: vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?security=reality&flow=xtls-rprx-vision&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&sni=de-2.ffpn.pro&type=tcp&headerType=none&host=de-2.ffpn.pro&path=%2F&fp=safari##🇩🇪
+DROP duplicate :: vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.156.62.218:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top##🇯🇵
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&host=u.srilankangrill.online&path=%252F&security=tls&sni=u.srilankangrill.online&type=ws##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=firefox&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=safari&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=safari##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.20:8443?security=tls&type=ws&sni=u.srilankangrill.online&path=%2F&host=u.srilankangrill.online##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=android&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=safari&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=firefox&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=ios&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=qq&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=safari&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
 DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
-DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=safari##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?host=u.srilankangrill.online&path=%2F&security=tls&sni=u.srilankangrill.online&type=ws##🇸🇬
+DROP duplicate :: vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=ios&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.173.179.184:443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=qq##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=firefox&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
-DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.232.95.178:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=safari##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws&fp=ios##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=android##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=chrome##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=edge##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=firefox##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=qq##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@103.25.202.25:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=safari##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=chrome&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=ios&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android##🇸🇬
-DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=firefox##🇸🇬
-DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
 DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=safari##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws&fp=firefox##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=chrome&type=ws&path=%2F&host=u.srilankangrill.online##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=ios##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=qq##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=android##🇸🇬
+DROP duplicate :: vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@185.174.137.106:443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&path=%2F&host=u.srilankangrill.online&fp=safari##🇸🇬
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?&security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&fp=chrome&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F##🇳🇱
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F&fp=edge##🇳🇱
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F&fp=ios##🇳🇱
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F&fp=safari##🇳🇱
 DROP unsupported/blocked :: #profile-title: WL RUS (selected)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
@@ -192,22 +233,14 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 21:46 (Moscow)
-DROP unsupported/blocked :: # Количество: 8
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 05:56 (Moscow)
+DROP unsupported/blocked :: # Количество: 0
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 21:46 (Moscow)
-DROP unsupported/blocked :: # Количество: 78
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 05:56 (Moscow)
+DROP unsupported/blocked :: # Количество: 103
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.147.85:10459?security=reality&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&type=xhttp&path=%2F&mode=auto&fp=edge##🇨🇿
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.147.85:10459?security=reality&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&type=xhttp&path=%2F&mode=auto&fp=firefox##🇨🇿
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.145.55:10455?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&headerType=none&mode=auto&fp=firefox##🇪🇪
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.145.55:10455?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&headerType=none&mode=auto&fp=qq##🇪🇪
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?encryption=none&host=rar.rtkdvbr.cc&path=%2Famws&security=tls&sni=rar.rtkdvbr.cc&type=ws&fp=edge##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?encryption=none&host=rar.rtkdvbr.cc&path=%2Famws&security=tls&sni=rar.rtkdvbr.cc&type=ws&fp=firefox##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?security=tls&sni=rar.rtkdvbr.cc&alpn=http%2F1.1&type=ws&path=%2Famws&host=rar.rtkdvbr.cc&fp=ios##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?security=tls&sni=rar.rtkdvbr.cc&alpn=http%2F1.1&type=ws&path=%2Famws&host=rar.rtkdvbr.cc&fp=qq##🇳🇱
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -215,22 +248,54 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 21:46 (Moscow)
-DROP unsupported/blocked :: # Количество: 88
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 05:56 (Moscow)
+DROP unsupported/blocked :: # Количество: 119
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect3.accessgate.link:2080?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&fp=edge##.𖥔
-DROP duplicate :: vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect3.accessgate.link:2080?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&fp=firefox##.𖥔
-DROP duplicate :: vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@185.178.208.140:443?alpn=http%2F1.1&encryption=none&host=gran-game.pro&path=%2Fstatic%2Fevents%2F900598fa7500%2F&security=tls&sni=gran-game.pro&type=ws&fp=firefox##.𖥔
-DROP duplicate :: vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@185.178.208.140:443?alpn=http%2F1.1&encryption=none&host=gran-game.pro&path=%2Fstatic%2Fevents%2F900598fa7500%2F&security=tls&sni=gran-game.pro&type=ws&fp=ios##.𖥔
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.147.85:10459?security=reality&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&type=xhttp&path=%2F&mode=auto&fp=edge##🇨🇿
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.147.85:10459?security=reality&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&type=xhttp&path=%2F&mode=auto&fp=firefox##🇨🇿
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.145.55:10455?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&headerType=none&mode=auto&fp=firefox##🇪🇪
-DROP duplicate :: vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@185.86.145.55:10455?type=xhttp&security=reality&encryption=none&sni=max.ru&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&sid=f28145401b4f633a&headerType=none&mode=auto&fp=qq##🇪🇪
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.178.208.140:443?alpn=http%2F1.1&encryption=none&host=gran-game.pro&path=%2Fstatic%2Fevents%2F900598fa7500%2F&security=tls&sni=gran-game.pro&type=ws&fp=android##.𖥔
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.178.208.140:443?alpn=http%2F1.1&encryption=none&host=gran-game.pro&path=%2Fstatic%2Fevents%2F900598fa7500%2F&security=tls&sni=gran-game.pro&type=ws&fp=firefox##.𖥔
+DROP duplicate :: vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.161.4:443?security=reality&flow=xtls-rprx-vision&pbk=xTePrM5IyjR8o52B2mRAO2nNivfyMpBZxya93MQk4Qc&sid=2a40b6d6495debf3&sni=defs-68.topp-con.xyz&type=tcp&headerType=none&host=defs-68.topp-con.xyz&path=%2F&fp=firefox##.𖥔
+DROP duplicate :: vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.161.4:443?security=reality&flow=xtls-rprx-vision&pbk=xTePrM5IyjR8o52B2mRAO2nNivfyMpBZxya93MQk4Qc&sid=2a40b6d6495debf3&sni=defs-68.topp-con.xyz&type=tcp&headerType=none&host=defs-68.topp-con.xyz&path=%2F&fp=qq##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=chrome##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=edge##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=firefox##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=ios##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=qq##.𖥔
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=safari##.𖥔
+DROP duplicate :: vless://2f9ff2af-d0c5-4d40-bca0-cb1fbf1cc4bf@api.mediaroshcha.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=android##🇦🇹
+DROP duplicate :: vless://2f9ff2af-d0c5-4d40-bca0-cb1fbf1cc4bf@api.mediaroshcha.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq##🇦🇹
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.123:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=chrome##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.123:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=firefox##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.139:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=firefox##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.139:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=safari##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@one.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&sni=api-6aeb73b7.adhil.uk&mode=stream-one&fp=edge##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@one.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&sni=api-6aeb73b7.adhil.uk&mode=stream-one&fp=firefox##🇪🇪
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=chrome##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=edge##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=firefox##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=ios##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=qq##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@107.150.93.22:443?security=tls&sni=53de05e9.ferrin.uk&type=xhttp&path=%2F&mode=stream-one&fp=safari##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.147:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=edge##🇫🇮
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@165.231.157.147:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6aeb73b7.adhil.uk&type=tcp&fp=firefox##🇫🇮
+DROP duplicate :: vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?sni=oizs5zecux0s.pouriayy1.workers.dev&type=ws&host=oizs5zecux0s.pouriayy1.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F15038a30cbef%2Floc-0fp%3Dunsafe&security=tls&fp=safari##🇩🇪
+DROP duplicate :: vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?type=grpc&security=tls&sni=basterdym.asia&mode=gun&serviceName=glush.de1.v1&fp=qq##🇩🇪
+DROP duplicate :: vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?sni=oizs5zecux0s.pouriayy1.workers.dev&type=ws&host=oizs5zecux0s.pouriayy1.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F15038a30cbef%2Floc-0fp%3Dunsafe&security=tls&fp=chrome##🇩🇪
+DROP duplicate :: vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?type=grpc&security=tls&sni=basterdym.asia&mode=gun&serviceName=glush.de1.v1&fp=firefox##🇩🇪
+DROP duplicate :: vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&host=sopelka.yandex-api.com&fp=safari##🇮🇪
+DROP duplicate :: vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&insecure=1&flow=xtls-rprx-vision&fp=chrome##🇮🇪
+DROP duplicate :: vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&insecure=1&flow=xtls-rprx-vision&fp=firefox##🇮🇪
+DROP duplicate :: vless://0a370611-e27e-4338-a88f-89deb2fa9075@sopelka.yandex-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=sopelka.yandex-api.com&fp=android##🇮🇪
+DROP duplicate :: vless://0a370611-e27e-4338-a88f-89deb2fa9075@sopelka.yandex-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=sopelka.yandex-api.com&fp=firefox##🇮🇪
+DROP duplicate :: vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&host=sopelka.yandex-api.com&fp=firefox##🇮🇪
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=qq##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=firefox##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=ios##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=safari##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=edge##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=qq##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=edge##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=ios##🇱🇹
@@ -240,49 +305,27 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=chrome##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=ios##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=safari##🇱🇹
-DROP duplicate :: vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top&fp=ios##🇱🇹
-DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=ios##🇱🇹
-DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=safari##🇱🇹
-DROP duplicate :: vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@185.178.208.140:443?security=tls&sni=marshalltmp.top&alpn=http%2F1.1&type=ws&path=%2Fshop%2Fcatalog&host=marshalltmp.top&fp=firefox##🇱🇹
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=qq##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=safari##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=safari##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=qq##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=xhttp&fp=firefox##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=xhttp&fp=safari##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=chrome##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=edge##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=firefox##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=ios##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?security=tls&type=xhttp&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&packetEncoding=xudp&sni=static.bakarova-top.ru&mode=packet-up&encryption=none&fp=qq##🇵🇱
+DROP duplicate :: vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=edge##🇳🇴
+DROP duplicate :: vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=firefox##🇳🇴
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=qq##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=edge##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=qq##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=safari##🇵🇱
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=firefox##🇵🇱
 DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=ios##🇵🇱
 DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&alpn=h2&headerType=none&mode=packet-up&fp=safari##🇵🇱
 DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&headerType=none&fp=chrome##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&headerType=none&fp=firefox##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&fp=qq##🇵🇱
-DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&fp=safari##🇵🇱
-DROP duplicate :: vless://557a1d71-15a4-4d73-a6a3-a99765dda4f0@46.8.21.96:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=edge##🇳🇱
-DROP duplicate :: vless://557a1d71-15a4-4d73-a6a3-a99765dda4f0@46.8.21.96:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=firefox##🇳🇱
-DROP duplicate :: vless://af9d833d-c08b-4b3f-b65a-97c19a0d1722@46.8.21.97:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=chrome##🇳🇱
-DROP duplicate :: vless://af9d833d-c08b-4b3f-b65a-97c19a0d1722@46.8.21.97:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=firefox##🇳🇱
-DROP duplicate :: vless://af9d833d-c08b-4b3f-b65a-97c19a0d1722@46.8.21.97:443?encryption=none&pbk=kDEc42JBZxig3BrLD3V1ofs3oJZk15-ANWN-rM0JW10&security=reality&sid=f28145401b4f633a&sni=ligastavok.ru&type=xhttp&fp=ios##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?encryption=none&host=rar.rtkdvbr.cc&path=%2Famws&security=tls&sni=rar.rtkdvbr.cc&type=ws&fp=edge##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?encryption=none&host=rar.rtkdvbr.cc&path=%2Famws&security=tls&sni=rar.rtkdvbr.cc&type=ws&fp=firefox##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?security=tls&sni=rar.rtkdvbr.cc&alpn=http%2F1.1&type=ws&path=%2Famws&host=rar.rtkdvbr.cc&fp=ios##🇳🇱
-DROP duplicate :: vless://40945325-a133-41ef-8fc3-2e726678ad52@185.86.145.37:443?security=tls&sni=rar.rtkdvbr.cc&alpn=http%2F1.1&type=ws&path=%2Famws&host=rar.rtkdvbr.cc&fp=qq##🇳🇱
-DROP duplicate :: vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&authority=&serviceName=0adb9638509b&mode=gun&fp=chrome##🇺🇸
-DROP duplicate :: vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&authority=&serviceName=0adb9638509b&mode=gun&fp=random##🇺🇸
-DROP duplicate :: vless://03248cf9-cbcb-4718-a11d-35b499978d27@31.184.253.40:443?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%226-10%22%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxReusableSecs%22%3A%22600-1800%22%7D%2C%22scMaxEachPostBytes%22%3A262144%2C%22scMinPostsIntervalMs%22%3A10%2C%22scMaxConcurrentPosts%22%3A30%2C%22scMaxBufferedPosts%22%3A30%2C%22xPaddingBytes%22%3A%22100-700%22%2C%22noGRPCHeader%22%3Atrue%2C%22noSSEHeader%22%3Atrue%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&host=game.vopn.co.uk&pbk=k87FtAby22FLJXeHshOeyh3w_KlkomFwIrTeLSXQEA0&security=reality&sid=f1086c50e0498c7a&sni=game.vopn.co.uk&type=xhttp&fp=chrome##🌐
-DROP duplicate :: vless://03248cf9-cbcb-4718-a11d-35b499978d27@31.184.253.40:443?encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%226-10%22%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxReusableSecs%22%3A%22600-1800%22%7D%2C%22scMaxEachPostBytes%22%3A262144%2C%22scMinPostsIntervalMs%22%3A10%2C%22scMaxConcurrentPosts%22%3A30%2C%22scMaxBufferedPosts%22%3A30%2C%22xPaddingBytes%22%3A%22100-700%22%2C%22noGRPCHeader%22%3Atrue%2C%22noSSEHeader%22%3Atrue%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&host=game.vopn.co.uk&pbk=k87FtAby22FLJXeHshOeyh3w_KlkomFwIrTeLSXQEA0&security=reality&sid=f1086c50e0498c7a&sni=game.vopn.co.uk&type=xhttp&fp=qq##🌐
+DROP duplicate :: vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&headerType=none&fp=safari##🇵🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.251:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp&fp=firefox##🇳🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.251:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp&fp=safari##🇳🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.5:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp&fp=edge##🇳🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@196.240.125.5:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-v2-6aeb73b7.vmagnum.win&type=tcp&fp=firefox##🇳🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@nl.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&sni=api-v2-6aeb73b7.vmagnum.win&mode=stream-one&fp=firefox##🇳🇱
+DROP duplicate :: vless://53de05e9-8de3-48ae-9036-dcb203d4925c@nl.alpheratzz.org:8443?type=raw&security=tls&flow=xtls-rprx-vision&sni=api-v2-6aeb73b7.vmagnum.win&mode=stream-one&fp=safari##🇳🇱
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: #profile-title:🍏 CID VPN 🍏
@@ -397,8 +440,8 @@ DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1
 DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#915.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-04 / 21:46 (Moscow)
-DROP unsupported/blocked :: # Количество: 78
+DROP unsupported/blocked :: # Date/Time: 2026-11-05 / 05:56 (Moscow)
+DROP unsupported/blocked :: # Количество: 103
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP dead endpoint :: 184.170.131.163:443
 DROP dead endpoint :: 79.137.203.200:443
@@ -503,7 +546,6 @@ DROP dead endpoint :: nessilkavtgk:443
 DROP dead endpoint :: 5.181.202.113:443
 DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: 34.244.236.222:20096
-DROP dead endpoint :: 212.233.75.220:443
 DROP dead endpoint :: 37.139.33.216:443
 DROP dead endpoint :: 95.164.53.189:443
 DROP dead endpoint :: 77.105.162.153:443
@@ -532,7 +574,6 @@ DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: 103.54.17.166:443
 DROP dead endpoint :: 106.248.211.16:30075
 DROP dead endpoint :: 106.248.211.16:30075
-DROP dead endpoint :: 123.111.169.70:443
 DROP dead endpoint :: 138.124.32.78:443
 DROP dead endpoint :: 138.124.32.78:443
 DROP dead endpoint :: 138.124.32.78:443
@@ -575,6 +616,7 @@ DROP dead endpoint :: 213.190.29.106:443
 DROP dead endpoint :: 216.173.71.69:2053
 DROP dead endpoint :: 216.173.71.69:8443
 DROP dead endpoint :: 216.173.71.69:8443
+DROP dead endpoint :: 217.147.15.141:443
 DROP dead endpoint :: 31.128.32.98:443
 DROP dead endpoint :: 31.128.34.165:2053
 DROP dead endpoint :: 31.128.34.165:2053
@@ -618,6 +660,7 @@ DROP dead endpoint :: 78.41.109.69:443
 DROP dead endpoint :: 78.41.109.69:443
 DROP dead endpoint :: 78.41.109.69:443
 DROP dead endpoint :: 80.209.242.156:8443
+DROP dead endpoint :: 89.169.10.12:443
 DROP dead endpoint :: 89.169.8.145:443
 DROP dead endpoint :: 91.239.23.197:443
 DROP dead endpoint :: 92.118.10.56:443
@@ -656,9 +699,9 @@ DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
 DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
 DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
 DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
-DROP dead endpoint :: s5.db-link.in:17820
 DROP dead endpoint :: 45.67.32.243:443
 DROP dead endpoint :: 193.228.128.86:52526
+DROP dead endpoint :: proxyip.hk.cmliussss.net:443
 DROP dead endpoint :: 176.123.8.28:443
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
@@ -678,6 +721,7 @@ DROP dead endpoint :: 213.176.19.56:443
 DROP dead endpoint :: 213.176.19.56:443
 DROP dead endpoint :: 85.206.171.48:443
 DROP dead endpoint :: 62.182.195.78:8443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: 80.249.131.236:443
 DROP dead endpoint :: 31.170.22.193:47997
 DROP dead endpoint :: 31.170.22.193:47997
@@ -728,19 +772,15 @@ DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: lol-kor-0002.api.neuralrelay.stream:443
 DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: 80.249.131.236:443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: 45.151.30.173:8443
+DROP dead endpoint :: 47.251.110.54:443
+DROP dead endpoint :: 47.77.201.227:443
 DROP dead endpoint :: test2.f1u.us.ci:2083
 DROP dead endpoint :: 61.111.247.233:34045
 DROP dead endpoint :: 213.252.229.140:443
 DROP dead endpoint :: 156.238.228.167:61777
 DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
-DROP dead endpoint :: 23.27.11.86:443
 DROP dead endpoint :: 51.250.0.147:443
 DROP dead endpoint :: by.cdn.titun.su:443
 DROP dead endpoint :: by.cdn.titun.su:443
@@ -772,19 +812,8 @@ DROP dead endpoint :: 0.0.0.0:1
 DROP dead endpoint :: 0.0.0.0:2
 DROP dead endpoint :: 0.0.0.0:3
 DROP dead endpoint :: 0.0.0.0:4
-DROP dead endpoint :: 178.250.243.45:2444
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: jp07.node.qixi.best:443
-DROP dead endpoint :: jp07.node.qixi.best:443
-DROP dead endpoint :: jp07.node.qixi.best:443
-DROP dead endpoint :: jp07.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
-DROP dead endpoint :: de01.node.qixi.best:443
+DROP dead endpoint :: 31.76.62.148:4444
+DROP dead endpoint :: 31.76.62.148:4444
 DROP dead endpoint :: 13.143.189.101:4444
 DROP dead endpoint :: 194.87.143.165:8443
 DROP dead endpoint :: 83.171.241.199:443
@@ -820,6 +849,7 @@ DROP dead endpoint :: 5.255.121.109:5983
 DROP dead endpoint :: eternal-frog.rooster465.autos:443
 DROP dead endpoint :: 72.56.242.232:443
 DROP dead endpoint :: randomquaint.net:2053
+DROP dead endpoint :: 194.87.29.96:443
 DROP dead endpoint :: 45.150.32.174:443
 DROP dead endpoint :: 191.217.214.50:443
 DROP dead endpoint :: 31.77.161.183:8443
@@ -832,14 +862,12 @@ DROP dead endpoint :: ie1.dedushka.top:443
 DROP dead endpoint :: cdn2.rucdncomp.pro:443
 DROP dead endpoint :: 94.228.162.222:443
 DROP dead endpoint :: blobmetrics.obsch-self.co.uk:443
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 103.91.147.215:443
 DROP dead endpoint :: 209.248.32.116:28106
 DROP dead endpoint :: my2.frnhk.xyz:443
 DROP dead endpoint :: 2.26.76.201:9443
 DROP dead endpoint :: gr4.originmesh.online:443
 DROP dead endpoint :: 130.162.134.218:20000
-DROP dead endpoint :: budulai.himoy.space:443
 DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 103.91.147.252:443
 DROP dead endpoint :: connect.hondamotor.site:10002
@@ -855,10 +883,8 @@ DROP dead endpoint :: 104.36.69.180:443
 DROP dead endpoint :: wanted-marmoset.rooster465.autos:443
 DROP dead endpoint :: cdnapiv4.streamru17.net:443
 DROP dead endpoint :: 78.159.246.179:8443
-DROP dead endpoint :: pl2.himoy.space:443
 DROP dead endpoint :: 45.32.117.217:443
 DROP dead endpoint :: 2.26.224.177:8443
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 3.11.145.4:22222
 DROP dead endpoint :: 217.19.122.194:443
 DROP dead endpoint :: 45.144.54.16:443
@@ -872,11 +898,11 @@ DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 77.95.206.236:64563
 DROP dead endpoint :: lalibobi.online:443
 DROP dead endpoint :: fi-b1.pythonsetupbib.online:61374
-DROP dead endpoint :: 31.76.119.231:443
 DROP dead endpoint :: cdnapiv4.streamru8.net:443
 DROP dead endpoint :: 83.168.69.15:56229
 DROP dead endpoint :: funagfrdfs.alixxplay.com:34379
 DROP dead endpoint :: 193.160.140.100:443
+DROP dead endpoint :: 201.58.181.231:4443
 DROP dead endpoint :: 158.160.180.165:24212
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: milo.networkforexir.site:8080
@@ -890,6 +916,7 @@ DROP dead endpoint :: 193.160.141.21:443
 DROP dead endpoint :: 185.76.241.51:9601
 DROP dead endpoint :: 193.160.141.81:8443
 DROP dead endpoint :: it1.dedushka.top:443
+DROP dead endpoint :: lv2.himoy.space:443
 DROP dead endpoint :: 47.237.74.17:16263
 DROP dead endpoint :: cdnapiv2.streamru34.net:443
 DROP dead endpoint :: 193.223.104.137:443
@@ -923,12 +950,12 @@ DROP dead endpoint :: milo.rubinaz.xyz:8080
 DROP dead endpoint :: 103.91.147.208:443
 DROP dead endpoint :: fitindoor.net:2053
 DROP dead endpoint :: 212.74.39.214:8080
-DROP dead endpoint :: gcach6lm.himoy.space:443
 DROP dead endpoint :: can.kramiliantha.sbs:443
 DROP dead endpoint :: yandex.lent.pro:443
 DROP dead endpoint :: 103.91.147.253:443
 DROP dead endpoint :: nas.aizhzo.com:5010
 DROP dead endpoint :: it1.dedushka.top:443
+DROP dead endpoint :: 201.58.181.231:2083
 DROP dead endpoint :: fast80.slopllex.app:443
 DROP dead endpoint :: funagfrdfs.alixxplay.com:47691
 DROP dead endpoint :: ca.tronsg.com:443
@@ -948,6 +975,7 @@ DROP dead endpoint :: tlokexcm.himoy.space:443
 DROP dead endpoint :: 2.56.126.64:443
 DROP dead endpoint :: 77.95.206.236:64563
 DROP dead endpoint :: 50.7.193.147:443
+DROP dead endpoint :: 89.34.230.66:60023
 DROP dead endpoint :: fre.guren1.me:8443
 DROP dead endpoint :: 151.241.166.159:443
 DROP dead endpoint :: 168.113.252.7:9892
@@ -955,6 +983,7 @@ DROP dead endpoint :: 107.150.27.178:8443
 DROP dead endpoint :: 35.180.246.59:22222
 DROP dead endpoint :: cdnapi.streamru35.net:443
 DROP dead endpoint :: orderfolder.zak-rkp.net:443
+DROP dead endpoint :: 45.32.52.173:8886
 DROP dead endpoint :: 113.30.154.226:443
 DROP dead endpoint :: cdn-de3.subversevpn.space:443
 DROP dead endpoint :: 144.124.245.52:2096
@@ -965,12 +994,13 @@ DROP dead endpoint :: 103.91.147.218:443
 DROP dead endpoint :: 150.251.113.22:443
 DROP dead endpoint :: cdnapiv4.streamru35.net:443
 DROP dead endpoint :: funagfrdfs.alixxplay.com:54528
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 194.55.239.220:443
 DROP dead endpoint :: 185.98.63.8:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 31.76.14.251:443
+DROP dead endpoint :: 163.245.41.48:2096
 DROP dead endpoint :: 2.56.175.91:443
+DROP dead endpoint :: se-2.pythonsetupbib.online:61374
 DROP dead endpoint :: 179.254.163.120.sslip.io:443
 DROP dead endpoint :: 193.223.104.127:443
 DROP dead endpoint :: 2.27.109.179:45464
@@ -979,14 +1009,14 @@ DROP dead endpoint :: 163.245.42.48:443
 DROP dead endpoint :: 24.233.8.109:443
 DROP dead endpoint :: 147.15.108.14:20000
 DROP dead endpoint :: national-stingray.rooster465.autos:443
+DROP dead endpoint :: 201.58.181.231:2053
 DROP dead endpoint :: 141.11.149.174:9443
 DROP dead endpoint :: cdn.savesafe.co:443
-DROP dead endpoint :: vena.solomon-planet.ru:443
 DROP dead endpoint :: 82.202.182.43:5443
 DROP dead endpoint :: selected-bison.rooster465.autos:443
 DROP dead endpoint :: 45.128.78.191:443
 DROP dead endpoint :: cf.0sm.com:80
-DROP dead endpoint :: 3f5489t.de13.h1clayd.click:443
+DROP dead endpoint :: 163.245.41.49:2096
 DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 84.32.184.219:443
 DROP dead endpoint :: t15.qifei.app:443
@@ -994,7 +1024,6 @@ DROP dead endpoint :: swself.yandex-api.com:443
 DROP dead endpoint :: cdnapiv2.streamru35.net:443
 DROP dead endpoint :: fast_s6.slopllex.app:443
 DROP dead endpoint :: cdn.save-safe.net:443
-DROP dead endpoint :: 3f5489t.de13.h1clayd.click:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 66.90.105.211:2083
 DROP dead endpoint :: pl.peregrine-sub.net:8443
@@ -1003,6 +1032,7 @@ DROP dead endpoint :: prismlaurel.nem-osh-rkp.net:443
 DROP dead endpoint :: 185.86.145.40:5443
 DROP dead endpoint :: 193.223.104.124:443
 DROP dead endpoint :: 158.178.137.129:20000
+DROP dead endpoint :: ares.launch.tel:443
 DROP dead endpoint :: 31.56.177.212:1443
 DROP dead endpoint :: 138.124.63.169:443
 DROP dead endpoint :: 77.95.206.236:64563
@@ -1012,6 +1042,7 @@ DROP dead endpoint :: 147.45.47.83:443
 DROP dead endpoint :: 193.223.104.120:443
 DROP dead endpoint :: 103.88.243.142:11592
 DROP dead endpoint :: 153.56.210.134:34121
+DROP dead endpoint :: finlandlanzarotte.live:443
 DROP dead endpoint :: rus1.justnable.xyz:443
 DROP dead endpoint :: 201.7.25.100:24446
 DROP dead endpoint :: 188.225.25.96:443
@@ -1020,7 +1051,6 @@ DROP dead endpoint :: 213.226.127.71:2066
 DROP dead endpoint :: lv.peregrine-sub.net:1443
 DROP dead endpoint :: 168.113.255.82:9831
 DROP dead endpoint :: 94.228.161.123:443
-DROP dead endpoint :: de-bots4.h1cloud.net:25267
 DROP dead endpoint :: 2.56.126.0:443
 DROP dead endpoint :: free.sahanwickramasinghe.me:80
 DROP dead endpoint :: checkout.nova.lalibobi.online:443
@@ -1039,12 +1069,15 @@ DROP dead endpoint :: 201.58.177.220:443
 DROP dead endpoint :: 185.218.17.130:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 78.159.246.179:8443
+DROP dead endpoint :: sg003.zestapp778.com:443
 DROP dead endpoint :: 45.9.118.203:443
+DROP dead endpoint :: cz.gamma-kvn.com:443
 DROP dead endpoint :: randomquaint.net:8443
 DROP dead endpoint :: 188.241.241.235:443
 DROP dead endpoint :: pl1.originmesh.online:443
 DROP dead endpoint :: 51.24.181.220:22222
 DROP dead endpoint :: pl3.originmesh.online:443
+DROP dead endpoint :: 163.245.41.49:2096
 DROP dead endpoint :: checkout.vistula.lalibobi.online:443
 DROP dead endpoint :: 31.59.216.141:443
 DROP dead endpoint :: sw1.originmesh.online:443
@@ -1062,6 +1095,7 @@ DROP dead endpoint :: 45.9.118.182:443
 DROP dead endpoint :: 152.32.254.68:5010
 DROP dead endpoint :: 107.150.27.178:8443
 DROP dead endpoint :: nl.shadowraze.co:443
+DROP dead endpoint :: cz2.gamma-kvn.com:443
 DROP dead endpoint :: nl2.originmesh.online:443
 DROP dead endpoint :: test.wecantos.site:20000
 DROP dead endpoint :: randomquaint.net:2053
@@ -1076,6 +1110,7 @@ DROP dead endpoint :: 213.226.127.71:2066
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 138.2.89.249:443
 DROP dead endpoint :: 193.223.104.114:443
+DROP dead endpoint :: 188.246.226.129:24096
 DROP dead endpoint :: 185.22.234.28:444
 DROP dead endpoint :: betacursor.nemoi-self.co.uk:443
 DROP dead endpoint :: 992a8db7-8764-49f0-947e-f8abf890e9bb.selcdn.net:443
@@ -1090,7 +1125,6 @@ DROP dead endpoint :: fitindoor.net:2053
 DROP dead endpoint :: t15.qifei.app:443
 DROP dead endpoint :: 146.103.126.207:2096
 DROP dead endpoint :: 46.243.142.104:443
-DROP dead endpoint :: germany02.azotvpn.xyz:443
 DROP dead endpoint :: cdnapiv2.streamru32.net:443
 DROP dead endpoint :: cdn.lumenite.online:443
 DROP dead endpoint :: xnodtwx.artemida.live:443
@@ -1100,7 +1134,9 @@ DROP dead endpoint :: 2606:4700::bc72:6200:443
 DROP dead endpoint :: 177.3.214.156:443
 DROP dead endpoint :: randomquaint.net:2053
 DROP dead endpoint :: platform107.golnamakcert.top:80
+DROP dead endpoint :: 163.245.41.48:2096
 DROP dead endpoint :: 45.144.54.12:443
+DROP dead endpoint :: nl1.originmesh.online:443
 DROP dead endpoint :: ch.viralforge.ru:443
 DROP dead endpoint :: fr.safepass.click:443
 DROP dead endpoint :: kz.keepsecurevpn.com:443
@@ -1156,7 +1192,6 @@ DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
-DROP dead endpoint :: s5.db-link.in:17820
 DROP dead endpoint :: 193.34.212.80:443
 DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: node-de.dostup-est.info:8444
@@ -1188,7 +1223,9 @@ DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: zz.manbo8.site:8005
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
@@ -1267,12 +1304,15 @@ DROP dead endpoint :: lol-rou-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: 167.253.153.147:443
 DROP dead endpoint :: 72.56.34.155:9443
 DROP dead endpoint :: 218.152.227.25:12000
+DROP dead endpoint :: static.paner-145.online:443
 DROP dead endpoint :: 212.119.43.76:443
 DROP dead endpoint :: 212.119.43.76:443
 DROP dead endpoint :: 212.119.43.76:443
-DROP dead endpoint :: 201.8.71.16:443
-DROP dead endpoint :: 201.8.71.16:443
-DROP dead endpoint :: 201.8.71.16:443
+DROP dead endpoint :: 212.119.43.76:443
+DROP dead endpoint :: 212.119.43.76:443
+DROP dead endpoint :: 212.119.43.76:443
+DROP dead endpoint :: 212.119.43.76:443
+DROP dead endpoint :: ch1.japancase.site:443
 DROP dead endpoint :: 84.252.149.198:4436
 DROP dead endpoint :: 176.114.122.24:4436
 DROP dead endpoint :: 217.16.21.98:27472
@@ -1812,7 +1852,6 @@ DROP dead endpoint :: 176.108.246.73:9873
 DROP dead endpoint :: 176.108.249.189:9881
 DROP dead endpoint :: 109.120.177.84:443
 DROP dead endpoint :: 78.159.245.51:6443
-DROP dead endpoint :: 45.129.176.34:6443
 DROP dead endpoint :: 5.188.190.252:22324
 DROP dead endpoint :: 158.160.180.165:24212
 DROP dead endpoint :: 158.160.180.165:24212
@@ -1936,7 +1975,6 @@ DROP dead endpoint :: 89.208.84.172:443
 DROP dead endpoint :: 178.154.201.203:443
 DROP dead endpoint :: 83.166.255.97:48444
 DROP dead endpoint :: 212.233.72.45:4013
-DROP dead endpoint :: 212.233.75.220:443
 DROP dead endpoint :: 37.139.33.216:443
 DROP dead endpoint :: 51.250.87.28:443
 DROP dead endpoint :: 51.250.96.145:8444
@@ -2494,14 +2532,11 @@ DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: 78.159.250.84:2053
 DROP dead endpoint :: dismissaltree.net:2053
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
 DROP dead endpoint :: 31.77.251.29:8443
-DROP dead endpoint :: 45.133.151.187:443
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: fitindoor.net:2053
@@ -2528,15 +2563,10 @@ DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 45.133.151.187:443
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
 DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: dismissaltree.net:2053
@@ -2567,9 +2597,12 @@ DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 78.159.250.84:2053
 DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 194.93.61.143:443
 DROP dead endpoint :: 185.141.227.180:2053
 DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 152.69.195.67:47878
 DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 109.176.19.244:8443
 DROP dead endpoint :: summerculture.net:2053
 DROP dead endpoint :: 47.237.74.17:16263
 DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
@@ -2606,6 +2639,7 @@ DROP dead endpoint :: 51.250.9.177:443
 DROP dead endpoint :: 111.88.146.74:25462
 DROP dead endpoint :: 5.183.253.171:443
 DROP dead endpoint :: 51.250.0.177:5555
+DROP dead endpoint :: 178.104.118.247:2087
 DROP dead endpoint :: 217.16.23.28:443
 DROP dead endpoint :: srv80.towersflowerss.com:443
 DROP dead endpoint :: freetg.strettenvpn.com:443
@@ -2645,6 +2679,7 @@ DROP dead endpoint :: 51.250.83.190:5555
 DROP dead endpoint :: lol-sgp-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: srv174.towersflowerss.com:65000
 DROP dead endpoint :: 104.224.157.40:443
+DROP dead endpoint :: test.red-blaze.test-cdn-kkk.com:443
 DROP dead endpoint :: ch-gt-01.com:8443
 DROP dead endpoint :: flp.musicperec.ru:443
 DROP dead endpoint :: swp.musicperec.ru:443
@@ -2667,8 +2702,8 @@ DROP dead endpoint :: srv168.towersflowerss.com:443
 DROP dead endpoint :: kz.appav.online:2083
 DROP dead endpoint :: usp.musicperec.ru:443
 DROP dead endpoint :: hk.chinablog.xyz:8080
-DROP dead endpoint :: connect3.accessgate.link:2080
-DROP dead endpoint :: connect3.accessgate.link:2080
+DROP dead endpoint :: connect2.accessgate.link:2086
+DROP dead endpoint :: connect2.accessgate.link:2086
 DROP dead endpoint :: 85.136.80.77:443
 DROP dead endpoint :: ru.fatvenv.space:8443
 DROP dead endpoint :: 85.136.81.101:8443
@@ -2730,7 +2765,6 @@ DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
 DROP dead endpoint :: 193.34.212.80.vhub.pro:443
-DROP dead endpoint :: s5.db-link.in:17820
 DROP dead endpoint :: 193.34.212.80:443
 DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: node-de.dostup-est.info:8444
@@ -2762,7 +2796,9 @@ DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
 DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
 DROP dead endpoint :: zz.manbo8.site:8005
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
 DROP dead endpoint :: vleapp-nl01.freenets.store:8443
@@ -2875,6 +2911,7 @@ DROP dead endpoint :: 5.255.121.109:5983
 DROP dead endpoint :: eternal-frog.rooster465.autos:443
 DROP dead endpoint :: 72.56.242.232:443
 DROP dead endpoint :: randomquaint.net:2053
+DROP dead endpoint :: 194.87.29.96:443
 DROP dead endpoint :: 45.150.32.174:443
 DROP dead endpoint :: 191.217.214.50:443
 DROP dead endpoint :: 31.77.161.183:8443
@@ -2887,14 +2924,12 @@ DROP dead endpoint :: ie1.dedushka.top:443
 DROP dead endpoint :: cdn2.rucdncomp.pro:443
 DROP dead endpoint :: 94.228.162.222:443
 DROP dead endpoint :: blobmetrics.obsch-self.co.uk:443
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 103.91.147.215:443
 DROP dead endpoint :: 209.248.32.116:28106
 DROP dead endpoint :: my2.frnhk.xyz:443
 DROP dead endpoint :: 2.26.76.201:9443
 DROP dead endpoint :: gr4.originmesh.online:443
 DROP dead endpoint :: 130.162.134.218:20000
-DROP dead endpoint :: budulai.himoy.space:443
 DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 103.91.147.252:443
 DROP dead endpoint :: connect.hondamotor.site:10002
@@ -2910,10 +2945,8 @@ DROP dead endpoint :: 104.36.69.180:443
 DROP dead endpoint :: wanted-marmoset.rooster465.autos:443
 DROP dead endpoint :: cdnapiv4.streamru17.net:443
 DROP dead endpoint :: 78.159.246.179:8443
-DROP dead endpoint :: pl2.himoy.space:443
 DROP dead endpoint :: 45.32.117.217:443
 DROP dead endpoint :: 2.26.224.177:8443
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 3.11.145.4:22222
 DROP dead endpoint :: 217.19.122.194:443
 DROP dead endpoint :: 45.144.54.16:443
@@ -2927,11 +2960,11 @@ DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 77.95.206.236:64563
 DROP dead endpoint :: lalibobi.online:443
 DROP dead endpoint :: fi-b1.pythonsetupbib.online:61374
-DROP dead endpoint :: 31.76.119.231:443
 DROP dead endpoint :: cdnapiv4.streamru8.net:443
 DROP dead endpoint :: 83.168.69.15:56229
 DROP dead endpoint :: funagfrdfs.alixxplay.com:34379
 DROP dead endpoint :: 193.160.140.100:443
+DROP dead endpoint :: 201.58.181.231:4443
 DROP dead endpoint :: 158.160.180.165:24212
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: milo.networkforexir.site:8080
@@ -2945,6 +2978,7 @@ DROP dead endpoint :: 193.160.141.21:443
 DROP dead endpoint :: 185.76.241.51:9601
 DROP dead endpoint :: 193.160.141.81:8443
 DROP dead endpoint :: it1.dedushka.top:443
+DROP dead endpoint :: lv2.himoy.space:443
 DROP dead endpoint :: 47.237.74.17:16263
 DROP dead endpoint :: cdnapiv2.streamru34.net:443
 DROP dead endpoint :: 193.223.104.137:443
@@ -2978,12 +3012,12 @@ DROP dead endpoint :: milo.rubinaz.xyz:8080
 DROP dead endpoint :: 103.91.147.208:443
 DROP dead endpoint :: fitindoor.net:2053
 DROP dead endpoint :: 212.74.39.214:8080
-DROP dead endpoint :: gcach6lm.himoy.space:443
 DROP dead endpoint :: can.kramiliantha.sbs:443
 DROP dead endpoint :: yandex.lent.pro:443
 DROP dead endpoint :: 103.91.147.253:443
 DROP dead endpoint :: nas.aizhzo.com:5010
 DROP dead endpoint :: it1.dedushka.top:443
+DROP dead endpoint :: 201.58.181.231:2083
 DROP dead endpoint :: fast80.slopllex.app:443
 DROP dead endpoint :: funagfrdfs.alixxplay.com:47691
 DROP dead endpoint :: ca.tronsg.com:443
@@ -3003,6 +3037,7 @@ DROP dead endpoint :: tlokexcm.himoy.space:443
 DROP dead endpoint :: 2.56.126.64:443
 DROP dead endpoint :: 77.95.206.236:64563
 DROP dead endpoint :: 50.7.193.147:443
+DROP dead endpoint :: 89.34.230.66:60023
 DROP dead endpoint :: fre.guren1.me:8443
 DROP dead endpoint :: 151.241.166.159:443
 DROP dead endpoint :: 168.113.252.7:9892
@@ -3010,6 +3045,7 @@ DROP dead endpoint :: 107.150.27.178:8443
 DROP dead endpoint :: 35.180.246.59:22222
 DROP dead endpoint :: cdnapi.streamru35.net:443
 DROP dead endpoint :: orderfolder.zak-rkp.net:443
+DROP dead endpoint :: 45.32.52.173:8886
 DROP dead endpoint :: 113.30.154.226:443
 DROP dead endpoint :: cdn-de3.subversevpn.space:443
 DROP dead endpoint :: 144.124.245.52:2096
@@ -3020,12 +3056,13 @@ DROP dead endpoint :: 103.91.147.218:443
 DROP dead endpoint :: 150.251.113.22:443
 DROP dead endpoint :: cdnapiv4.streamru35.net:443
 DROP dead endpoint :: funagfrdfs.alixxplay.com:54528
-DROP dead endpoint :: nl-s-2.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 194.55.239.220:443
 DROP dead endpoint :: 185.98.63.8:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 31.76.14.251:443
+DROP dead endpoint :: 163.245.41.48:2096
 DROP dead endpoint :: 2.56.175.91:443
+DROP dead endpoint :: se-2.pythonsetupbib.online:61374
 DROP dead endpoint :: 179.254.163.120.sslip.io:443
 DROP dead endpoint :: 193.223.104.127:443
 DROP dead endpoint :: 2.27.109.179:45464
@@ -3034,14 +3071,14 @@ DROP dead endpoint :: 163.245.42.48:443
 DROP dead endpoint :: 24.233.8.109:443
 DROP dead endpoint :: 147.15.108.14:20000
 DROP dead endpoint :: national-stingray.rooster465.autos:443
+DROP dead endpoint :: 201.58.181.231:2053
 DROP dead endpoint :: 141.11.149.174:9443
 DROP dead endpoint :: cdn.savesafe.co:443
-DROP dead endpoint :: vena.solomon-planet.ru:443
 DROP dead endpoint :: 82.202.182.43:5443
 DROP dead endpoint :: selected-bison.rooster465.autos:443
 DROP dead endpoint :: 45.128.78.191:443
 DROP dead endpoint :: cf.0sm.com:80
-DROP dead endpoint :: 3f5489t.de13.h1clayd.click:443
+DROP dead endpoint :: 163.245.41.49:2096
 DROP dead endpoint :: 155.138.138.2:443
 DROP dead endpoint :: 84.32.184.219:443
 DROP dead endpoint :: t15.qifei.app:443
@@ -3049,7 +3086,6 @@ DROP dead endpoint :: swself.yandex-api.com:443
 DROP dead endpoint :: cdnapiv2.streamru35.net:443
 DROP dead endpoint :: fast_s6.slopllex.app:443
 DROP dead endpoint :: cdn.save-safe.net:443
-DROP dead endpoint :: 3f5489t.de13.h1clayd.click:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 66.90.105.211:2083
 DROP dead endpoint :: pl.peregrine-sub.net:8443
@@ -3058,6 +3094,7 @@ DROP dead endpoint :: prismlaurel.nem-osh-rkp.net:443
 DROP dead endpoint :: 185.86.145.40:5443
 DROP dead endpoint :: 193.223.104.124:443
 DROP dead endpoint :: 158.178.137.129:20000
+DROP dead endpoint :: ares.launch.tel:443
 DROP dead endpoint :: 31.56.177.212:1443
 DROP dead endpoint :: 138.124.63.169:443
 DROP dead endpoint :: 77.95.206.236:64563
@@ -3067,6 +3104,7 @@ DROP dead endpoint :: 147.45.47.83:443
 DROP dead endpoint :: 193.223.104.120:443
 DROP dead endpoint :: 103.88.243.142:11592
 DROP dead endpoint :: 153.56.210.134:34121
+DROP dead endpoint :: finlandlanzarotte.live:443
 DROP dead endpoint :: rus1.justnable.xyz:443
 DROP dead endpoint :: 201.7.25.100:24446
 DROP dead endpoint :: 188.225.25.96:443
@@ -3075,7 +3113,6 @@ DROP dead endpoint :: 213.226.127.71:2066
 DROP dead endpoint :: lv.peregrine-sub.net:1443
 DROP dead endpoint :: 168.113.255.82:9831
 DROP dead endpoint :: 94.228.161.123:443
-DROP dead endpoint :: de-bots4.h1cloud.net:25267
 DROP dead endpoint :: 2.56.126.0:443
 DROP dead endpoint :: free.sahanwickramasinghe.me:80
 DROP dead endpoint :: checkout.nova.lalibobi.online:443
@@ -3094,12 +3131,15 @@ DROP dead endpoint :: 201.58.177.220:443
 DROP dead endpoint :: 185.218.17.130:443
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 78.159.246.179:8443
+DROP dead endpoint :: sg003.zestapp778.com:443
 DROP dead endpoint :: 45.9.118.203:443
+DROP dead endpoint :: cz.gamma-kvn.com:443
 DROP dead endpoint :: randomquaint.net:8443
 DROP dead endpoint :: 188.241.241.235:443
 DROP dead endpoint :: pl1.originmesh.online:443
 DROP dead endpoint :: 51.24.181.220:22222
 DROP dead endpoint :: pl3.originmesh.online:443
+DROP dead endpoint :: 163.245.41.49:2096
 DROP dead endpoint :: checkout.vistula.lalibobi.online:443
 DROP dead endpoint :: 31.59.216.141:443
 DROP dead endpoint :: sw1.originmesh.online:443
@@ -3117,6 +3157,7 @@ DROP dead endpoint :: 45.9.118.182:443
 DROP dead endpoint :: 152.32.254.68:5010
 DROP dead endpoint :: 107.150.27.178:8443
 DROP dead endpoint :: nl.shadowraze.co:443
+DROP dead endpoint :: cz2.gamma-kvn.com:443
 DROP dead endpoint :: nl2.originmesh.online:443
 DROP dead endpoint :: test.wecantos.site:20000
 DROP dead endpoint :: randomquaint.net:2053
@@ -3131,6 +3172,7 @@ DROP dead endpoint :: 213.226.127.71:2066
 DROP dead endpoint :: 78.159.246.179:2053
 DROP dead endpoint :: 138.2.89.249:443
 DROP dead endpoint :: 193.223.104.114:443
+DROP dead endpoint :: 188.246.226.129:24096
 DROP dead endpoint :: 185.22.234.28:444
 DROP dead endpoint :: betacursor.nemoi-self.co.uk:443
 DROP dead endpoint :: 992a8db7-8764-49f0-947e-f8abf890e9bb.selcdn.net:443
@@ -3145,7 +3187,6 @@ DROP dead endpoint :: fitindoor.net:2053
 DROP dead endpoint :: t15.qifei.app:443
 DROP dead endpoint :: 146.103.126.207:2096
 DROP dead endpoint :: 46.243.142.104:443
-DROP dead endpoint :: germany02.azotvpn.xyz:443
 DROP dead endpoint :: cdnapiv2.streamru32.net:443
 DROP dead endpoint :: cdn.lumenite.online:443
 DROP dead endpoint :: xnodtwx.artemida.live:443
@@ -3155,7 +3196,9 @@ DROP dead endpoint :: 2606:4700::bc72:6200:443
 DROP dead endpoint :: 177.3.214.156:443
 DROP dead endpoint :: randomquaint.net:2053
 DROP dead endpoint :: platform107.golnamakcert.top:80
+DROP dead endpoint :: 163.245.41.48:2096
 DROP dead endpoint :: 45.144.54.12:443
+DROP dead endpoint :: nl1.originmesh.online:443
 DROP dead endpoint :: ch.viralforge.ru:443
 DROP dead endpoint :: 84.252.149.198:4436
 DROP dead endpoint :: 176.114.122.24:4436
@@ -3696,7 +3739,6 @@ DROP dead endpoint :: 176.108.246.73:9873
 DROP dead endpoint :: 176.108.249.189:9881
 DROP dead endpoint :: 109.120.177.84:443
 DROP dead endpoint :: 78.159.245.51:6443
-DROP dead endpoint :: 45.129.176.34:6443
 DROP dead endpoint :: 5.188.190.252:22324
 DROP dead endpoint :: 158.160.180.165:24212
 DROP dead endpoint :: 158.160.180.165:24212
@@ -3820,7 +3862,6 @@ DROP dead endpoint :: 89.208.84.172:443
 DROP dead endpoint :: 178.154.201.203:443
 DROP dead endpoint :: 83.166.255.97:48444
 DROP dead endpoint :: 212.233.72.45:4013
-DROP dead endpoint :: 212.233.75.220:443
 DROP dead endpoint :: 37.139.33.216:443
 DROP dead endpoint :: 51.250.87.28:443
 DROP dead endpoint :: 51.250.96.145:8444
@@ -4358,5 +4399,5 @@ DROP dead endpoint :: 91.219.227.200:7443
 DROP dead endpoint :: 79.174.95.135:5447
 DROP dead endpoint :: 79.174.95.135:5443
 DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: connect3.accessgate.link:2080
-DROP dead endpoint :: connect3.accessgate.link:2080
+DROP dead endpoint :: connect2.accessgate.link:2086
+DROP dead endpoint :: connect2.accessgate.link:2086
