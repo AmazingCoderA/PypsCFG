@@ -1,5 +1,7 @@
 OK 176ms 95.163.211.237:8080 cached
 OK 179ms 95.163.211.237:80 cached
+OK 179ms 78.159.246.134:443 cached
+OK 167ms 37.18.14.235:443 cached
 OK 170ms 78.159.246.85:2053 cached
 OK 182ms 158.160.199.84:443 cached
 OK 172ms 84.201.181.141:443 cached
@@ -12,9 +14,8 @@ OK 220ms 158.160.196.107:443 cached
 OK 177ms 130.193.56.74:443 cached
 OK 173ms 51.250.34.141:443 cached
 OK 176ms 84.201.145.188:443 cached
-OK 179ms 78.159.246.134:443 cached
-OK 167ms 37.18.14.235:443 cached
-OK 211ms 193.53.126.91:443 cached
+OK 156ms 109.120.179.99:443 cached
+OK 175ms 37.139.34.90:443 cached
 OK 178ms 212.233.75.220:443 cached
 OK 180ms 5.188.141.139:443 cached
 OK 173ms 51.250.86.102:443 cached
@@ -25,11 +26,10 @@ OK 180ms 51.250.70.163:443 cached
 OK 171ms 176.108.241.183:443 cached
 OK 177ms 51.250.90.142:443 cached
 OK 185ms 95.163.251.110:443 cached
-OK 156ms 109.120.179.99:443 cached
-OK 175ms 37.139.34.90:443 cached
-OK 174ms 95.163.214.43:443 cached
 OK 155ms 89.208.113.16:443 cached
 OK 131ms 45.129.176.34:6443 cached
+OK 134ms 45.129.242.56:443
+OK 134ms 185.177.229.95:1270
 OK 205ms saas.sin.fan:443 cached
 OK 295ms bg5.univesalsrv.com:443 cached
 OK 9ms 188.114.98.0:443 cached
@@ -146,6 +146,41 @@ OK 271ms www.visaeurope.ch:2083 cached
 OK 369ms www.visasoutheasteurope.com:2096 cached
 OK 204ms test.wide-frost.test-cdn-kkk.com:8443 cached
 OK 326ms srv31.towersflowerss.com:443 cached
-OK 170ms lorettmay.top:443
-OK 727ms 162afct.lt2.h1clayd.click:443
+OK 165ms 46.243.233.170:8443
+OK 295ms ironlever.net:8443
+OK 290ms ironlever.net:2053
 OK 135ms 185.178.208.140:443 cached
+OK 794ms 3b4073f0c394.vps.myjino.ru:443
+OK 168ms 81.177.140.23:443
+OK 251ms re-rus2.koska.pro:443
+OK 221ms re-rus4.koska.pro:443
+OK 173ms 104.171.134.135:443
+OK 173ms 104.171.134.135:8443
+OK 174ms 104.171.134.135:8444
+OK 229ms api.weologic.pro:443
+OK 241ms telemetry.gitpacket.pro:443
+OK 218ms cdn66.whitenw.net:7449
+OK 177ms 95.163.232.249:443
+OK 167ms 168.113.177.225:443
+OK 165ms 168.113.177.225:8443
+OK 168ms 168.113.177.225:8444
+OK 179ms 46.8.19.126:443
+OK 178ms 46.8.19.126:8443
+OK 178ms 46.8.19.126:8444
+OK 170ms lorettmay.top:443 cached
+OK 175ms 72.56.233.10:8443
+OK 247ms lte-v2-ws.gacvpn.site:8443
+OK 423ms connect4.accessgate.link:1085
+OK 245ms piston.kachow.ink:443
+OK 165ms 77.232.135.123:9444
+OK 237ms ru2.radiolumens.uk:9444
+OK 185ms 95.182.120.114:443
+OK 161ms 95.213.245.84:443
+OK 241ms hudson.glowbreeze.online:443
+OK 161ms 188.225.45.170:443
+OK 169ms 176.123.162.102:8443
+OK 179ms 37.153.65.137:8443
+OK 170ms 155.212.161.144:443
+OK 167ms 155.212.161.144:8443
+OK 167ms 155.212.161.144:8445
+OK 169ms 5.42.105.63:25443
