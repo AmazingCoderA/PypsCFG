@@ -23,7 +23,7 @@ FAIL URL https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.tx
 FAIL URL https://gitverse.ru/api/repos/LowiK/LowiKLive/raw/branch/main/ObhodBSfree.txt :: HTTP Error 429: Too Many Requests
 FAIL URL https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt :: HTTP Error 429: Too Many Requests
 OK URL https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
-OK URL https://gitverse.ru/api/repos/cid-uskoritel/cid-white/raw/branch/master/whitelist.txt
+FAIL URL https://gitverse.ru/api/repos/cid-uskoritel/cid-white/raw/branch/master/whitelist.txt :: HTTP Error 429: Too Many Requests
 FAIL URL https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt :: HTTP Error 404: Not Found
 OK URL https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
 FAIL URL https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt :: HTTP Error 404: Not Found
