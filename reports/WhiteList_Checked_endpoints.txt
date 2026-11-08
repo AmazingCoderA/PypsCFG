@@ -1,80 +1,108 @@
-OK 322ms saas.sin.fan:443 cached
-OK 215ms bg5.univesalsrv.com:443 cached
-OK 9ms 188.114.98.0:443 cached
-OK 153ms bg2.univesalsrv.com:443 cached
-OK 6ms 104.17.147.22:443 cached
-OK 209ms yoy-api.bachidze.com:443 cached
-OK 6ms 172.64.150.43:443 cached
-OK 132ms 185.126.93.225:443 cached
-OK 7ms 162.159.135.234:443 cached
-OK 174ms md3.univesalsrv.com:443 cached
-OK 132ms 45.9.156.42:443 cached
-OK 156ms qq.utiltools.site:443 cached
-OK 185ms www.speedtest.net:443 cached
-OK 127ms 150.40.126.21:443 cached
-OK 92ms 84.32.100.149:443 cached
-OK 10ms 188.114.97.6:443 cached
-OK 116ms freetg.ghost-service.cc:443 cached
-OK 143ms rs1.univesalsrv.com:443 cached
-OK 142ms rs4.univesalsrv.com:443 cached
-OK 130ms 78.159.246.85:2053 cached
-OK 155ms rs5.univesalsrv.com:443 cached
-OK 123ms 150.40.126.18:443 cached
-OK 144ms 45.9.156.27:443 cached
-OK 6ms 172.64.153.61:443 cached
-OK 136ms 89.35.14.32:443 cached
-OK 154ms rs3.univesalsrv.com:443 cached
-OK 181ms edge.bookmai.com:443 cached
-OK 7ms 162.159.130.234:443 cached
-OK 137ms 45.9.156.24:443 cached
-OK 13ms 188.114.99.0:8880 cached
-OK 138ms 150.40.126.24:443 cached
-OK 137ms 185.126.93.227:443 cached
-OK 485ms reaza.localip.ir:443 cached
-OK 136ms 36a466g.fi1.h1clayd.click:443 cached
-OK 181ms bg4.univesalsrv.com:443 cached
-OK 178ms bg3.univesalsrv.com:443 cached
-OK 244ms cl-glb6e059ee.gcdn.co:443 cached
-OK 121ms 150.40.126.19:443 cached
-OK 180ms 45.133.151.187:443 cached
-OK 312ms samgeez.online:8443 cached
-OK 89ms 147.45.187.188:8443 cached
-OK 131ms 31.77.251.29:8443 cached
-OK 183ms freede.aiage.work:443 cached
-OK 263ms tg1.cdnphotos.org:443 cached
-OK 165ms rs2.univesalsrv.com:443 cached
-OK 11ms 151.101.173.81:443 cached
-OK 7ms 188.114.98.0:2053 cached
-OK 181ms 45.9.156.28:443 cached
-OK 195ms 13.140.56.100:14430 cached
-OK 164ms nl2.balancer.vbuste-bot.com:443 cached
-OK 61ms www.epicgames.com:2095 cached
-OK 107ms us2-2.998998.best:443 cached
-OK 93ms 193.233.82.201:443 cached
-OK 156ms 185.126.93.226:443 cached
-OK 158ms 152.69.195.67:47878 cached
-OK 171ms 95.174.68.188:14430 cached
-OK 134ms de2.balancer.vbuste-bot.com:443 cached
-OK 491ms cmfree-hkt.leyali.kdns.fr:443 cached
-OK 160ms 154.19.187.190:443 cached
-OK 102ms 185.125.50.181:443 cached
-OK 171ms 89.35.14.34:443 cached
-OK 281ms 154.21.203.106:51279 cached
-OK 87ms 140.225.199.234:443 cached
-OK 281ms 154.21.203.106:21033 cached
-OK 147ms fl1.balancer.vbuste-bot.com:443 cached
-OK 6ms 172.64.229.129:2052 cached
-OK 171ms de1.balancer.vbuste-bot.com:443 cached
-OK 157ms 89.35.14.31:443 cached
-OK 222ms md2.univesalsrv.com:443 cached
-OK 208ms du-rov.secureservice.top:8443 cached
-OK 92ms 64.188.70.56:443 cached
-OK 97ms 130.49.161.70:443 cached
-OK 111ms 185.178.208.167:443
-OK 89ms 185.178.208.140:443 cached
+OK 157ms 95.163.250.241:8440 cached
+OK 124ms 109.120.179.99:443
+OK 162ms 37.139.34.90:443
+OK 155ms 78.159.246.85:2053
+OK 168ms 78.159.250.107:443
+OK 126ms 89.208.113.16:443
+OK 107ms 45.129.176.34:6443
+OK 115ms 185.177.229.95:1270
+OK 154ms 5.188.141.139:443
+OK 167ms 51.250.86.102:443
+OK 160ms 51.250.74.50:443
+OK 116ms 78.159.111.14:443
+OK 163ms 51.250.117.30:443
+OK 159ms 51.250.70.163:443
+OK 156ms 176.108.241.183:443
+OK 156ms 84.201.181.141:443
+OK 163ms 51.250.90.142:443
+OK 164ms 95.163.251.110:443
+OK 152ms 95.163.211.237:8080
+OK 150ms 95.163.211.237:80
+OK 227ms saas.sin.fan:443
+OK 211ms bg5.univesalsrv.com:443
+OK 7ms 188.114.98.0:443
+OK 227ms bg2.univesalsrv.com:443
+OK 7ms 104.17.147.22:443
+OK 333ms yoy-api.bachidze.com:443
+OK 7ms 172.64.150.43:443
+OK 7ms 162.159.135.234:443
+OK 646ms md3.univesalsrv.com:443
+OK 157ms 45.9.156.42:443
+OK 474ms qq.utiltools.site:443
+OK 250ms www.speedtest.net:443
+OK 140ms 150.40.126.21:443
+OK 7ms 188.114.97.6:443
+OK 472ms rs1.univesalsrv.com:443
+OK 293ms rs4.univesalsrv.com:443
+OK 182ms rs5.univesalsrv.com:443
+OK 141ms 150.40.126.18:443
+OK 150ms 45.9.156.27:443
+OK 7ms 172.64.153.61:443
+OK 159ms 89.35.14.32:443
+OK 348ms rs3.univesalsrv.com:443
+OK 187ms edge.bookmai.com:443
+OK 7ms 162.159.130.234:443
+OK 355ms studio.10media.top:443
+OK 148ms 45.9.156.24:443
+OK 7ms 188.114.99.0:8880
+OK 139ms 150.40.126.22:443
+OK 156ms 150.40.126.24:443
+OK 226ms 36a466g.fi1.h1clayd.click:443
+OK 194ms bg4.univesalsrv.com:443
+OK 231ms bg3.univesalsrv.com:443
+OK 86ms cl-glb6e059ee.gcdn.co:443
+OK 143ms 150.40.126.19:443
+OK 463ms samgeez.online:8443
+OK 116ms 147.45.187.188:8443
+OK 153ms 31.77.251.29:8443
+OK 249ms freede.aiage.work:443
+OK 390ms rs2.univesalsrv.com:443
+OK 10ms 151.101.173.81:443
+OK 6ms 188.114.98.0:2053
+OK 135ms 45.9.156.28:443
+OK 207ms 13.140.56.100:14430
+OK 317ms nl2.balancer.vbuste-bot.com:443
+OK 318ms www.epicgames.com:2095
+OK 462ms us2-2.998998.best:443
+OK 111ms 193.233.82.201:443
+OK 142ms 152.69.195.67:47878
+OK 183ms 95.174.68.188:14430
+OK 345ms de2.balancer.vbuste-bot.com:443
+OK 489ms cmfree-hkt.leyali.kdns.fr:443
+OK 144ms 154.19.187.190:443
+OK 127ms 185.125.50.181:443
+OK 199ms 89.35.14.34:443
+OK 179ms 154.21.203.106:51279
+OK 107ms 140.225.199.234:443
+OK 176ms 154.21.203.106:21033
+OK 347ms fl1.balancer.vbuste-bot.com:443
+OK 14ms 172.64.229.129:2052
+OK 367ms de1.balancer.vbuste-bot.com:443
+OK 181ms 89.35.14.31:443
+OK 696ms md2.univesalsrv.com:443
+OK 210ms du-rov.secureservice.top:8443
+OK 122ms 64.188.70.56:443
+OK 112ms 130.49.161.70:443
+OK 155ms 185.86.145.106:8445 cached
+OK 219ms rapira-dof.whitenw.net:8445 cached
 OK 148ms 168.113.128.70:20105 cached
-OK 143ms 5.53.124.191:8008
-OK 166ms 87.242.87.165:443
-OK 183ms 87.242.87.165:8443
-OK 179ms 87.242.87.165:8445
-OK 154ms 45.143.94.91:8443
+OK 111ms 185.178.208.140:443
+OK 195ms 5.129.249.155:443
+OK 149ms 89.223.125.45:443
+OK 316ms falmero.store:443
+OK 155ms 195.209.211.63:1443
+OK 143ms 195.209.211.63:2087
+OK 165ms 195.209.211.63:2443
+OK 170ms 195.209.211.63:2753
+OK 145ms 195.209.211.63:3553
+OK 151ms 195.209.211.63:7443
+OK 114ms 91.215.43.80:443 cached
+OK 161ms lorettmay.top:443 cached
+OK 161ms 168.113.188.144:443
+OK 166ms 87.242.87.165:443 cached
+OK 183ms 87.242.87.165:8443 cached
+OK 179ms 87.242.87.165:8445 cached
+OK 155ms 168.113.190.113:443
+OK 156ms 194.93.0.240:8443
+OK 111ms 185.178.208.167:443 cached
+OK 143ms 5.53.124.191:8008 cached
