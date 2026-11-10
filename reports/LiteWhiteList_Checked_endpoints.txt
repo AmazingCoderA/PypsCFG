@@ -1,25 +1,78 @@
-OK 152ms 95.163.211.237:8080
-OK 144ms 95.163.211.237:80
-OK 148ms 95.163.250.241:8440
-OK 114ms 109.120.179.99:443
-OK 152ms 37.139.34.90:443
-OK 146ms 5.188.141.139:443
-OK 169ms 51.250.86.102:443 cached
-OK 113ms 78.159.111.14:443
-OK 158ms 51.250.117.30:443
-OK 160ms 51.250.70.163:443
-OK 179ms 176.108.241.183:443 cached
-OK 151ms 84.201.181.141:443
-OK 165ms 51.250.90.142:443
-OK 153ms 95.163.251.110:443
-OK 173ms 78.159.246.85:2053 cached
-OK 141ms 78.159.250.107:443
-OK 114ms 89.208.113.16:443
-OK 107ms 45.129.176.34:6443
-OK 155ms 79.174.92.254:443
-OK 145ms 5.53.124.191:8008
-OK 167ms lorettmay.top:443
-OK 228ms 83.171.241.142:443
-OK 862ms chat.gpt.prem-ai.shop:443 cached
-OK 229ms 537df6t.nl16.h1clayd.click:443
-OK 512ms d0f7fax.nl16.h1clayd.click:443
+OK 132ms 158.160.190.15:8443
+OK 127ms 178.176.128.203:443
+OK 148ms 95.163.250.241:8440 cached
+OK 120ms 176.122.25.48:443
+OK 114ms 109.120.179.99:443 cached
+OK 152ms 37.139.34.90:443 cached
+OK 146ms 5.188.141.139:443 cached
+OK 128ms 51.250.86.102:443
+OK 113ms 78.159.111.14:443 cached
+OK 158ms 51.250.117.30:443 cached
+OK 160ms 51.250.70.163:443 cached
+OK 128ms 176.108.241.183:443
+OK 151ms 84.201.181.141:443 cached
+OK 165ms 51.250.90.142:443 cached
+OK 153ms 95.163.251.110:443 cached
+OK 130ms 176.108.246.180:443
+OK 123ms 78.159.246.85:2053
+OK 141ms 78.159.250.107:443 cached
+OK 114ms 89.208.113.16:443 cached
+OK 107ms 45.129.176.34:6443 cached
+OK 155ms 79.174.92.254:443 cached
+OK 91ms 45.129.242.56:443
+OK 152ms 95.163.211.237:8080 cached
+OK 144ms 95.163.211.237:80 cached
+OK 167ms eu90.cdn77.icu:20002
+OK 124ms 87.242.102.214:443
+OK 160ms eu90.cdn77.icu:20005
+OK 150ms eu90.cdn77.icu:20008
+OK 150ms eu90.cdn77.icu:20010
+OK 154ms eu90.cdn77.icu:20011
+OK 211ms eu90.cdn77.icu:20042
+OK 151ms eu90.cdn77.icu:20016
+OK 137ms eu90.cdn77.icu:20018
+OK 329ms eu90.cdn77.icu:20019
+OK 217ms eu90.cdn77.icu:20033
+OK 131ms 87.242.102.102:443
+OK 328ms eu90.cdn77.icu:20023
+OK 137ms eu90.cdn77.icu:20082
+OK 174ms sub-edge-18-1g.whitenw.net:10458
+OK 130ms 185.186.143.179:443
+OK 265ms eu90.cdn77.icu:20028
+OK 148ms 185.221.213.223:443
+OK 338ms api.file-obmen.top:443
+OK 176ms nlf2.krevetkabs111.net:14443
+OK 94ms 189.74.106.141:443
+OK 138ms 138.16.201.42:443
+OK 311ms lp.astralweb.tech:443
+OK 165ms orviko.xyz:443
+OK 224ms eu90.cdn77.icu:20031
+OK 225ms eu90.cdn77.icu:20032
+OK 225ms eu90.cdn77.icu:20034
+OK 185ms eu90.cdn77.icu:443
+OK 207ms eu90.cdn77.icu:20037
+OK 194ms eu90.cdn77.icu:20047
+OK 167ms lorettmay.top:443 cached
+OK 163ms eu90.cdn77.icu:20050
+OK 145ms eu90.cdn77.icu:20052
+OK 138ms eu90.cdn77.icu:20049
+OK 146ms eu90.cdn77.icu:20054
+OK 134ms eu90.cdn77.icu:20058
+OK 205ms eu90.cdn77.icu:20043
+OK 324ms eu90.cdn77.icu:20026
+OK 228ms 83.171.241.142:443 cached
+OK 183ms reg7.gorodokmedia.com:443
+OK 150ms eu90.cdn77.icu:20017
+OK 182ms app.neurobook.top:443
+OK 256ms inff.krevetkabs111.net:14443
+OK 223ms chat.gpt.prem-ai.shop:443
+OK 198ms fst.krevetkabs111.net:443
+OK 204ms files.neurixai.app:443
+OK 299ms lt.krevetkabs111.net:14443
+OK 222ms eu90.cdn77.icu:20029
+OK 229ms 537df6t.nl16.h1clayd.click:443 cached
+OK 190ms 83.171.241.204:443
+OK 512ms d0f7fax.nl16.h1clayd.click:443 cached
+OK 121ms 46.161.14.13:443
+OK 459ms c3b4ce4b957a.vps.myjino.ru:53898
+OK 253ms vieee.observation.today:443
