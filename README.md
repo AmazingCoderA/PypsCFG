@@ -1,3 +1,47 @@
+<p align="center">
+  <a href="#ru"><img alt="Русский" src="https://img.shields.io/badge/Русский-RU-9b6bff?style=for-the-badge"></a>
+  <a href="#en"><img alt="English" src="https://img.shields.io/badge/English-EN-6ea8ff?style=for-the-badge"></a>
+</p>
+
+<h1 align="center">PypsCFG</h1>
+
+<p align="center">
+  <b>Subscription Aggregator · агрегатор подписок</b><br>
+  <sub>VLESS · VMess · Trojan · Hysteria2 · TUIC — чистые списки TXT + Base64, автообновление каждые 4 часа</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmazingCoderA/PypsCFG/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/AmazingCoderA/PypsCFG?style=for-the-badge&logo=github&label=STARS&color=9b6bff"></a>
+  <a href="https://github.com/AmazingCoderA/PypsCFG/forks"><img alt="Forks" src="https://img.shields.io/github/forks/AmazingCoderA/PypsCFG?style=for-the-badge&logo=github&label=FORKS&color=6ea8ff"></a>
+  <img alt="Updated" src="https://img.shields.io/github/last-commit/AmazingCoderA/PypsCFG?style=for-the-badge&logo=github&label=UPDATED&color=4de8ff">
+  <img alt="License" src="https://img.shields.io/github/license/AmazingCoderA/PypsCFG?style=for-the-badge&label=LICENSE&color=34d399">
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackList.txt"><img alt="BlackList" src="https://img.shields.io/badge/⬛_BlackList-TXT-111827?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteList.txt"><img alt="WhiteList" src="https://img.shields.io/badge/⬜_WhiteList-TXT-1e293b?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/FavoriteSubBlack.txt"><img alt="FavoriteSubBlack" src="https://img.shields.io/badge/⭐_Favorite-TXT-9b6bff?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteBlackList.txt"><img alt="LiteBlackList" src="https://img.shields.io/badge/🪶_Lite_BlackList-TXT-334155?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/LiteWhiteList.txt"><img alt="LiteWhiteList" src="https://img.shields.io/badge/🪶_Lite_WhiteList-TXT-475569?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all.txt"><img alt="merged_all" src="https://img.shields.io/badge/🧩_merged__all-TXT-4de8ff?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackListChecked.txt"><img alt="Checked" src="https://img.shields.io/badge/✅_Checked_lists-TXT-22c55e?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/BlackFiltredHy2VlessTrojan.txt"><img alt="Super-filter" src="https://img.shields.io/badge/⚡_Super--filter-Hy2_·_VLESS_·_Trojan-f59e0b?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/WhiteFiltredHy2VlessTrojan.txt"><img alt="White super-filter" src="https://img.shields.io/badge/🌸_White_super--filter-Reality_·_TLS-ec4899?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/AmazingCoderA/PypsCFG/main/output/merged_all_Checked.txt"><img alt="merged_all_Checked" src="https://img.shields.io/badge/🧪_merged__all__Checked-TXT-0ea5e9?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-auto--update-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Format" src="https://img.shields.io/badge/Format-TXT_%2B_Base64-8ea3c8?style=for-the-badge">
+  <img alt="Protocols" src="https://img.shields.io/badge/VLESS_·_VMess_·_Trojan_·_Hy2_·_TUIC-supported-b28cff?style=for-the-badge">
+</p>
+
+---
+
 # PypsCFG — Агрегатор подписок / Subscription Aggregator
 
 <p align="center">
