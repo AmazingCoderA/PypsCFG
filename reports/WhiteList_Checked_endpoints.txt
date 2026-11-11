@@ -1,28 +1,31 @@
-OK 152ms 95.163.211.237:8080 cached
-OK 144ms 95.163.211.237:80 cached
-OK 137ms 95.163.209.247:443
-OK 127ms 78.159.245.40:8445
+OK 141ms 95.163.211.237:8080
+OK 144ms 95.163.211.237:80
+OK 137ms 95.163.209.247:443 cached
+OK 248ms 176.109.85.60:443 cached
+OK 127ms 78.159.245.40:8445 cached
 OK 133ms 95.163.232.240:443 cached
 OK 127ms 178.176.128.203:443 cached
-OK 148ms 95.163.250.241:8440 cached
-OK 248ms 176.109.85.60:443 cached
-OK 76ms 176.122.173.224:443
-OK 123ms 78.159.246.85:2053 cached
-OK 141ms 78.159.250.107:443 cached
-OK 114ms 89.208.113.16:443 cached
-OK 107ms 45.129.176.34:6443 cached
-OK 127ms 31.129.42.14:2053
-OK 114ms 109.120.179.99:443 cached
-OK 152ms 37.139.34.90:443 cached
-OK 146ms 5.188.141.139:443 cached
+OK 136ms 95.163.250.241:8440
+OK 114ms 109.120.179.99:443
+OK 146ms 37.139.34.90:443
+OK 148ms 5.188.141.139:443
 OK 128ms 51.250.86.102:443 cached
-OK 113ms 78.159.111.14:443 cached
-OK 158ms 51.250.117.30:443 cached
-OK 160ms 51.250.70.163:443 cached
+OK 143ms 51.250.74.50:443
+OK 154ms 51.250.72.20:443
+OK 108ms 78.159.111.14:443
+OK 154ms 51.250.117.30:443
+OK 142ms 51.250.70.163:443
 OK 128ms 176.108.241.183:443 cached
-OK 151ms 84.201.181.141:443 cached
-OK 165ms 51.250.90.142:443 cached
-OK 153ms 95.163.251.110:443 cached
+OK 152ms 84.201.181.141:443
+OK 146ms 51.250.90.142:443
+OK 139ms 95.163.251.110:443
+OK 76ms 176.122.173.224:443 cached
+OK 123ms 78.159.246.85:2053 cached
+OK 159ms 78.159.250.107:443
+OK 140ms 176.108.245.237:443
+OK 108ms 89.208.113.16:443
+OK 99ms 45.129.176.34:6443
+OK 91ms 45.129.242.56:443 cached
 OK 204ms saas.sin.fan:443 cached
 OK 162ms bg5.univesalsrv.com:443 cached
 OK 6ms 188.114.98.0:443 cached
@@ -88,60 +91,75 @@ OK 374ms md2.univesalsrv.com:443 cached
 OK 126ms du-rov.secureservice.top:8443 cached
 OK 88ms 64.188.70.56:443 cached
 OK 93ms 130.49.161.70:443 cached
-OK 146ms 158.160.231.108:8443 cached
-OK 148ms 51.250.39.162:443 cached
-OK 105ms 109.69.218.165:443 cached
-OK 112ms 109.69.218.167:443 cached
-OK 109ms 109.69.218.166:443 cached
-OK 2ms 104.26.12.31:80 cached
-OK 11ms 104.18.3.108:8443 cached
-OK 2ms 104.31.16.158:443 cached
-OK 6ms 172.67.204.84:443 cached
+OK 141ms 158.160.231.108:8443
+OK 149ms 51.250.39.162:443
+OK 109ms 109.69.218.165:443
+OK 102ms 109.69.218.167:443
+OK 100ms 109.69.218.166:443
+OK 3ms 104.26.12.31:80
+OK 3ms 104.18.3.108:8443
+OK 3ms 104.31.16.158:443
+OK 3ms 172.67.204.84:443
 OK 6ms 188.114.96.3:443 cached
-OK 3ms 104.21.61.58:443 cached
+OK 2ms 104.21.61.58:443
 OK 6ms 185.148.107.253:8880 cached
-OK 167ms test.firm-tower.test-cdn-kkk.com:443 cached
+OK 148ms test.firm-tower.test-cdn-kkk.com:443
 OK 5ms 45.130.125.253:8880 cached
-OK 154ms 84.201.131.34:443 cached
-OK 169ms 103.213.249.46:443 cached
-OK 189ms test.vast-mesa.test-cdn-kkk.com:443 cached
-OK 16ms 104.18.2.108:8443 cached
-OK 113ms 193.24.235.214:443 cached
-OK 120ms 159.65.125.162:2087 cached
-OK 124ms 82.38.65.91:10086 cached
-OK 16ms 104.18.2.26:2083 cached
-OK 17ms 104.21.25.157:443 cached
+OK 148ms 84.201.131.34:443
+OK 179ms 103.213.249.46:443
+OK 156ms test.vast-mesa.test-cdn-kkk.com:443
+OK 3ms 104.18.2.108:8443
+OK 112ms 193.24.235.214:443
+OK 120ms 159.65.125.162:2087
+OK 114ms 82.38.65.91:10086
+OK 3ms 104.18.2.26:2083
+OK 2ms 104.21.25.157:443
 OK 6ms 198.177.56.253:8880 cached
-OK 11ms 141.101.123.253:8880 cached
+OK 3ms 141.101.123.253:8880
 OK 6ms 92.53.191.253:8880 cached
 OK 86ms 109.69.218.164:443 cached
-OK 13ms 104.18.3.150:443 cached
-OK 196ms 185.177.219.186:443 cached
-OK 13ms 104.18.3.26:2083 cached
-OK 324ms cdn.prostovpn.website:2087 cached
-OK 136ms test.grey-lance.test-cdn-kkk.com:443 cached
-OK 215ms 38.147.187.14:443 cached
-OK 139ms test.red-blaze.test-cdn-kkk.com:443 cached
-OK 242ms test.soft-blade.test-cdn-kkk.com:443 cached
-OK 319ms hu.chocolatemango.live:443 cached
-OK 53ms square-sea-36d2.sendconfig.workers.dev:443 cached
-OK 164ms test.raw-maple.test-cdn-kkk.com:443 cached
-OK 185ms test.bold-stone.test-cdn-kkk.com:443 cached
-OK 160ms test.dry-moose.test-cdn-kkk.com:443 cached
-OK 288ms nl.normbot.ru:443 cached
-OK 185ms test.iron-coral.test-cdn-kkk.com:443 cached
-OK 107ms www.visaeurope.ch:2083 cached
+OK 3ms 104.18.3.150:443
+OK 193ms 185.177.219.186:443
+OK 3ms 104.18.3.26:2083
+OK 548ms cdn.prostovpn.website:2087
+OK 122ms test.grey-lance.test-cdn-kkk.com:443
+OK 214ms 38.147.187.14:443
+OK 146ms test.red-blaze.test-cdn-kkk.com:443
+OK 219ms test.soft-blade.test-cdn-kkk.com:443
+OK 243ms hu.chocolatemango.live:443
+OK 19ms square-sea-36d2.sendconfig.workers.dev:443
+OK 174ms test.raw-maple.test-cdn-kkk.com:443
+OK 167ms test.bold-stone.test-cdn-kkk.com:443
+OK 187ms test.dry-moose.test-cdn-kkk.com:443
+OK 276ms nl.normbot.ru:443
+OK 175ms test.iron-coral.test-cdn-kkk.com:443
+OK 389ms www.visaeurope.ch:2083
 OK 29ms cf.008500.xyz:443 cached
-OK 62ms www.visasoutheasteurope.com:2096 cached
-OK 192ms test.wide-frost.test-cdn-kkk.com:8443 cached
-OK 231ms srv31.towersflowerss.com:443 cached
+OK 259ms www.visasoutheasteurope.com:2096
+OK 151ms test.wide-frost.test-cdn-kkk.com:8443
+OK 203ms srv31.towersflowerss.com:443
 OK 198ms fst.krevetkabs111.net:443 cached
+OK 167ms vps3.nemnogogo.com:443 cached
+OK 145ms 185.221.213.22:443
+OK 241ms frfast11.onlineai.pro:443
+OK 139ms 5.42.107.38:14443
 OK 338ms api.file-obmen.top:443 cached
-OK 145ms 5.53.124.191:8008 cached
-OK 228ms 83.171.241.142:443 cached
+OK 418ms germ.onlineai.pro:14443
+OK 135ms 201.24.113.19:8443
+OK 137ms 72.56.11.15:8443
+OK 135ms 188.225.37.175:443
+OK 236ms astravellion.xyz:443
+OK 604ms cryptoventura.online:443
+OK 540ms luminexorizon.ink:443
+OK 130ms 188.225.37.43:443
+OK 130ms 188.225.73.41:443
+OK 230ms nguyxejonb.flowersgood.top:443
+OK 147ms lorettmay.top:443
+OK 189ms 95.167.57.129:7444
 OK 223ms chat.gpt.prem-ai.shop:443 cached
-OK 136ms 138.16.249.118:14443
-OK 204ms files.neurixai.app:443 cached
+OK 136ms 138.16.249.118:14443 cached
 OK 299ms lt.krevetkabs111.net:14443 cached
-OK 167ms vps3.nemnogogo.com:443
-OK 145ms vps2.nemnogogo.com:443
+OK 247ms lt.neuroblur.top:14443
+OK 149ms 95.182.121.9:443
+OK 452ms stream.yabenzin.app:443
+OK 135ms 5.53.124.191:8008
