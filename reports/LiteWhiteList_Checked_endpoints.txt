@@ -1,50 +1,37 @@
 OK 176ms 95.163.211.237:8080 cached
 OK 172ms 95.163.211.237:80 cached
 OK 180ms 78.159.250.83:443 cached
-OK 257ms 78.159.250.83:8443 cached
-OK 109ms 45.129.8.204:443
+OK 218ms 78.159.250.83:8443
+OK 180ms 176.108.240.45:443 cached
+OK 183ms 178.176.128.128:443 cached
+OK 154ms 89.208.113.16:443 cached
+OK 144ms 185.177.229.95:1270 cached
+OK 153ms 109.120.179.99:443 cached
+OK 174ms 37.139.34.90:443 cached
 OK 175ms 5.188.141.139:443 cached
-OK 188ms 51.250.86.102:443
+OK 188ms 51.250.86.102:443 cached
 OK 174ms 51.250.74.50:443 cached
 OK 135ms 78.159.111.14:443 cached
 OK 176ms 51.250.84.253:443 cached
 OK 170ms 51.250.117.30:443 cached
 OK 173ms 84.201.174.250:443 cached
 OK 171ms 51.250.70.163:443 cached
-OK 187ms 176.108.241.183:443
+OK 187ms 176.108.241.183:443 cached
 OK 170ms 84.201.181.141:443 cached
 OK 170ms 51.250.90.142:443 cached
 OK 176ms 95.163.251.110:443 cached
-OK 153ms 109.120.179.99:443 cached
-OK 174ms 37.139.34.90:443 cached
-OK 183ms 178.176.128.128:443
-OK 154ms 89.208.113.16:443 cached
-OK 147ms 45.129.242.56:443 cached
-OK 144ms 185.177.229.95:1270
-OK 261ms bhjolq0d0l.flowersgood.top:443 cached
+OK 379ms my.nehtar.ru:443
 OK 310ms nguyxejonb.flowersgood.top:443 cached
-OK 180ms 176.108.240.45:443
-OK 184ms 168.113.252.145:443
-OK 175ms 46.243.234.17:8443 cached
-OK 186ms 217.28.222.68:443
-OK 181ms 176.108.245.73:443
-OK 154ms 189.74.118.3:443
-OK 184ms 87.242.95.226:443
-OK 192ms 138.124.254.181:443
-OK 179ms 31.192.106.192:443
+OK 144ms 2.26.8.1:443
+OK 130ms 189.74.117.30:443
+OK 121ms api.videodolina.cc:443
+OK 336ms cdn.snyalby.ru:17014
+OK 179ms 31.192.106.192:443 cached
 OK 504ms luminexorizon.ink:443 cached
-OK 258ms 717252g.nl8.h1clayd.click:443
-OK 480ms 80cb66x.nl17.h1clayd.click:443
-OK 239ms 83.171.241.146:443
-OK 233ms 83.171.241.180:443
-OK 437ms 961ec0g.nl17.h1clayd.click:443 cached
-OK 442ms f0d7aft.nl17.h1clayd.click:443 cached
-OK 251ms fc82dfx.nl8.h1clayd.click:443
-OK 232ms 212.119.42.133:10444
+OK 76ms 185.178.208.167:443
+OK 258ms 717252g.nl8.h1clayd.click:443 cached
+OK 251ms fc82dfx.nl8.h1clayd.click:443 cached
 OK 161ms lorettmay.top:443 cached
-OK 145ms 185.178.208.140:443
-OK 202ms 31.177.111.184:443 cached
-OK 140ms 189.74.114.99:443
-OK 216ms 37.18.14.99:39443
-OK 420ms lolikop.site:443
-OK 261ms 136.234.33.32:40303
+OK 181ms 185.86.145.55:10470
+OK 145ms 185.178.208.140:443 cached
+OK 261ms bhjolq0d0l.flowersgood.top:443 cached
