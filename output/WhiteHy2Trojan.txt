@@ -1,5 +1,5 @@
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#47.%20%F0%9F%87%B7%F0%9F%87%BA%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#t.me%2Ffreekesha21
 hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?security=tls&alpn=h3&insecure=0&sni=wl11.white-dns.cloud#79.%20HYSTERIA2%20%7C%20CIDR%3A%20%3F%20%7C%20TG%3A%20%40wlrustg
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#t.me%2Ffreekesha21
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
