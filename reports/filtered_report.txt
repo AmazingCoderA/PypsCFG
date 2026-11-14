@@ -1,6 +1,6 @@
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#🏳️ UNKNOWN SS 125
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🏳️ UNKNOWN SS 277
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🏳️ UNKNOWN SS 232
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#🏳️ UNKNOWN SS 52
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🏳️ UNKNOWN SS 317
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🏳️ UNKNOWN SS 669
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -8,9 +8,9 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🥭 КIЗЯК VPN 6 BL
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTEtMTQgLyAwMjoxOSDwn6WtCuKch
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:19 (Moscow)
-DROP unsupported/blocked :: # Количество: 2
+DROP unsupported/blocked :: # announce: base64:8J+lrSDQl9CwINGB0LLQvtCx0L7QtNGDINCyINC40L3RgtC10YDQvdC10YLQtSDimqHvuI8K8J+lrSDQktGA0LXQvNGPINC+0LHQvdC+0LLQu9C10L3QuNGPINGB0LXRgNCy0LXRgNC+0LI6IDIwMjYtMTEtMTQgLyAxMzowOCDwn6WtCuKch
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 13:08 (Moscow)
+DROP unsupported/blocked :: # Количество: 5
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -31,29 +31,14 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | VLESS
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:32 (Moscow)
-DROP unsupported/blocked :: # Количество: 325
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 13:39 (Moscow)
+DROP unsupported/blocked :: # Количество: 306
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://ad9a885d-93bb-48e3-9937-57f1116b64e3@3.168.219.0:443?security=tls&type=ws&path=%2F&host=d1aedflfr97jes.cloudfront.net&sni=d1aedflfr97jes.cloudfront.net&fp=chrome&alpn=http%2F1.1&encryption=none##🇫🇷
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.254:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@103.31.4.75:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.112.134:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.19.248.199:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.24.21.163:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@104.25.242.200:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@162.159.236.61:8443?encryption=none&fp=chrome&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@173.245.49.114:8443?path=%2Fman&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=firefox&type=ws&allowInsecure=0&sni=moz.ar-marz.fun##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@173.245.49.114:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.99.157:8443?&security=tls&fp=chrome&sni=moz.ar-marz.fun&type=ws&headerType=none&host=moz.ar-marz.fun&path=/man##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.99.157:8443?encryption=none&fp=firefox&host=moz.ar-marz.fun&path=/man&security=tls&sni=moz.ar-marz.fun&type=ws##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&host=moz.ar-marz.fun&type=ws&sni=moz.ar-marz.fun##🇩🇪
-DROP duplicate :: vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.247.95:8443?path=/man&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=moz.ar-marz.fun##🇩🇪
-DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?&security=tls&fp=chrome&sni=d2ex4nxd2e01ub.cloudfront.net&type=ws&headerType=none&host=d2ex4nxd2e01ub.cloudfront.net&path=%2F##🇵🇱
-DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?encryption=none&type=ws&security=tls&sni=d2ex4nxd2e01ub.cloudfront.net&alpn=http%2F1.1&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&fp=qq##🇵🇱
-DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?encryption=none&type=ws&security=tls&sni=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&alpn=http/1.1&path=/&host=d2ex4nxd2e01ub.cloudfront.net##🇵🇱
-DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.190:443?security=tls&type=ws&sni=d2ex4nxd2e01ub.cloudfront.net&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&fp=chrome##🇵🇱
-DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.218.6:443?encryption=none&type=ws&security=tls&sni=d2ex4nxd2e01ub.cloudfront.net&alpn=http%2F1.1&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&fp=edge##🇵🇱
+DROP duplicate :: vless://ad9a885d-93bb-48e3-9937-57f1116b64e3@3.168.219.0:443?security=tls&type=ws&sni=d1aedflfr97jes.cloudfront.net&path=%2F&host=d1aedflfr97jes.cloudfront.net&fp=chrome##🇫🇷
+DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?encryption=none&security=tls&type=ws&sni=d2ex4nxd2e01ub.cloudfront.net&host=d2ex4nxd2e01ub.cloudfront.net&path=%2f##🇵🇱
+DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.190:443/?type=ws&encryption=none&flow=&host=d2ex4nxd2e01ub.cloudfront.net&path=/&security=tls&sni=d2ex4nxd2e01ub.cloudfront.net&alpn=http/1.1##🇵🇱
+DROP duplicate :: vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.218.14:443?security=tls&type=ws&sni=d2ex4nxd2e01ub.cloudfront.net&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&alpn=http%2F1.1&allowInsecure=0&insecure=0##🇵🇱
+DROP duplicate :: vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:443?security=tls&encryption=none&insecure=0&host=shiny-base-4d9a.mifolan4697928.workers.dev&fp=chrome&type=ws&allowInsecure=0##🇳🇱
 DROP unsupported/blocked :: #profile-title: WL RUS (selected)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
@@ -61,32 +46,34 @@ DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWN
 DROP unsupported/blocked :: #profile-title: WL RUS (wl.txt)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: # Обновлено: 14:59 | 13.11.2026
-DROP unsupported/blocked :: # Всего конфигов: 820
+DROP unsupported/blocked :: # Обновлено: 11:46 | 14.11.2026
+DROP unsupported/blocked :: # Всего конфигов: 821
 DROP unsupported/blocked :: ##################################################
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#185.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#186.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#572.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#573.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#574.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#575.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#576.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#577.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#578.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#579.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#604.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#605.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#606.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#607.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#608.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#609.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#610.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#611.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#612.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#613.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#614.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#615.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#698.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#81.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#82.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#83.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#84.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#85.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#86.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#87.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#88.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#89.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#113.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#114.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#115.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#116.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#117.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#118.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#119.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#120.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#121.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#122.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#123.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#124.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#125.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#230.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#231.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#699.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: #announce: Обновлено: 2026-10-18 14:05:51
 DROP unsupported/blocked :: #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 DROP unsupported/blocked :: #profile-title: WhiteKeys
@@ -99,34 +86,24 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:03 (Moscow)
-DROP unsupported/blocked :: # Количество: 31
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 12:37 (Moscow)
+DROP unsupported/blocked :: # Количество: 29
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:03 (Moscow)
-DROP unsupported/blocked :: # Количество: 132
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 12:37 (Moscow)
+DROP unsupported/blocked :: # Количество: 104
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?&security=tls&fp=firefox&sni=bhjolq0d0l.flowersgood.top&type=ws&headerType=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=safari##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=firefox&type=ws&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&packetEncoding=xudp##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=qq##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=chrome##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=safari##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0##.𖥔
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=ios##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=random##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=safari##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?security=tls&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&host=windytrout.net&path=%2Fapi%2Fv1%2Fupload&mode=auto##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?type=xhttp&security=tls&fp=firefox&sni=windytrout.net&path=/api/v1/upload&host=windytrout.net&mode=auto##🇧🇬
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=chrome##🇮🇷
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nguyxejonb.flowersgood.top&type=ws&allowInsecure=0&sni=nguyxejonb.flowersgood.top&fp=chrome##🇮🇷
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&encryption=none&insecure=0&host=bhjolq0d0l.flowersgood.top&type=ws&allowInsecure=0&sni=bhjolq0d0l.flowersgood.top&fp=safari##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?encryption=none&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&allowInsecure=0&insecure=0&fp=android##.𖥔
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=firefox##.𖥔
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?encryption=none&security=tls&type=ws&path=/service/telemetry/0294da469190/&host=nguyxejonb.flowersgood.top&sni=nguyxejonb.flowersgood.top&fp=chrome&alpn=http/1.1##🇮🇷
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?security=tls&type=ws&sni=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&host=nguyxejonb.flowersgood.top&fp=ios##🇮🇷
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=/service/telemetry/045d381f1166/&host=bhjolq0d0l.flowersgood.top&fp=chrome##🇳🇱
 DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&allowInsecure=0&insecure=0&fp=qq##🇳🇱
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=android##🇳🇱
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=ios##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?type=ws&encryption=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=android##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?encryption=none&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&allowInsecure=0&insecure=0&fp=ios##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=ios##🇳🇱
 DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=ios##🇳🇱
-DROP duplicate :: vless://2f03861a-157e-48dc-9ad6-3dddb3e7234a@185.86.147.172:7490?security=tls&sni=wn-us4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud&mode=gun##🇺🇸
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -134,65 +111,23 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:03 (Moscow)
-DROP unsupported/blocked :: # Количество: 148
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 12:37 (Moscow)
+DROP unsupported/blocked :: # Количество: 123
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?&security=tls&fp=firefox&sni=bhjolq0d0l.flowersgood.top&type=ws&headerType=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=safari##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=firefox&type=ws&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&packetEncoding=xudp##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=qq##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=chrome##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=safari##.𖥔
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0##.𖥔
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=ios##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=random##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?alpn=h2%2Chttp%2F1.1&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=safari##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?security=tls&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&host=windytrout.net&path=%2Fapi%2Fv1%2Fupload&mode=auto##🇧🇬
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:8443?type=xhttp&security=tls&fp=firefox&sni=windytrout.net&path=/api/v1/upload&host=windytrout.net&mode=auto##🇧🇬
-DROP duplicate :: vless://d8275e29-e946-4a48-bec6-4402bea6c399@188.225.57.150:443?flow=xtls-rprx-vision&security=tls&sni=m-vruaz-ed.mvpstr.com&alpn=http%2F1.1&fp=firefox##🇨🇦
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@72.56.252.245:443?security=tls&sni=notebook.filnex.baby&alpn=h2&fp=firefox&type=grpc&serviceName=glush.de6.v1##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@72.56.252.245:443?type=grpc&security=tls&fp=firefox&sni=notebook.filnex.baby&serviceName=glush.de6.v1##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@amber.filnex.baby:443?encryption=none&type=ws&path=%2Fapi%2Fde3%2Fstream&host=amber.filnex.baby&security=tls&sni=amber.filnex.baby&alpn=http%2F1.1&fp=firefox##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@hemlock.elvano.website:443?encryption=none&type=grpc&mode=gun&serviceName=cache.sync.v1&security=tls&sni=hemlock.elvano.website&alpn=h2&fp=firefox##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?alpn=http%2F1.1&encryption=none&host=ivory.filnex.baby&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=ivory.filnex.baby&type=ws##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?alpn=http%2F1.1&encryption=none&host=ivory.filnex.baby&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=ivory.filnex.baby&type=ws&fp=ios##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?alpn=http%2F1.1&encryption=none&host=ivory.filnex.baby&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=ivory.filnex.baby&type=ws&fp=random##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?encryption=none&type=ws&security=tls&sni=ivory.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde4%2Fstream&host=ivory.filnex.baby&fp=safari##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?path=/api/de4/stream&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ivory.filnex.baby&fp=chrome&type=ws&allowInsecure=0&sni=ivory.filnex.baby##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=notebook.filnex.baby&type=grpc##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=notebook.filnex.baby&type=grpc&fp=ios##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=notebook.filnex.baby&type=grpc&fp=random##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=notebook.filnex.baby&type=grpc&fp=safari##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@notebook.filnex.baby:443?security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=glush.de6.v1&allowInsecure=0&sni=notebook.filnex.baby##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=android##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=ios##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=random##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=safari##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&fp=firefox&alpn=http/1.1&path=/api/de5/stream&host=silk.filnex.baby##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?path=/api/de5/stream&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=silk.filnex.baby&fp=chrome&type=ws&allowInsecure=0&sni=silk.filnex.baby##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?alpn=http%2F1.1&encryption=none&host=falmero.store&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=falmero.store&type=ws&fp=edge##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?alpn=http%2F1.1&encryption=none&host=falmero.store&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=falmero.store&type=ws&fp=ios##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?alpn=http%2F1.1&encryption=none&host=falmero.store&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=falmero.store&type=ws&fp=random##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?alpn=http%2F1.1&encryption=none&host=falmero.store&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=falmero.store&type=ws&fp=safari##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&type=ws&host=canvas.merlano.monster&path=%2Fapi%2Fde7%2Fstream&packetEncoding=xudp&fp=firefox##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&type=ws&host=canvas.merlano.monster&path=%2Fapi%2Fde7%2Fstream&packetEncoding=xudp&fp=safari##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&type=ws&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&security=tls&sni=falmero.store&alpn=http%2F1.1&fp=firefox##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&type=ws&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&security=tls&sni=falmero.store&alpn=http%2F1.1&fp=qq##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?security=tls&type=ws&sni=falmero.store&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&alpn=http%2F1.1##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?security=tls&type=ws&sni=falmero.store&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&fp=firefox##🇩🇪
-DROP duplicate :: vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?type=ws&security=tls&path=/api/de1/stream&sni=falmero.store&fp=edge##🇩🇪
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=chrome##🇮🇷
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nguyxejonb.flowersgood.top&type=ws&allowInsecure=0&sni=nguyxejonb.flowersgood.top&fp=chrome##🇮🇷
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&spx=%2F&type=grpc&fp=ios##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?security=reality&encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&fp=firefox&spx=%2F&type=grpc&serviceName=204adda7e3da&sni=717252g.nl8.h1clayd.click&sid=d3bd772514c87d28##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?security=reality&type=grpc&sni=717252g.nl8.h1clayd.click&fp=random&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&serviceName=204adda7e3da##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=717252g.nl8.h1clayd.click&fp=chrome&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&spx=%2F&serviceName=204adda7e3da&mode=gun##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?type=grpc&security=reality&fp=edge&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&serviceName=204adda7e3da&spx=/##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@fc82dfx.nl8.h1clayd.click:443?encryption=none&mode=auto&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&spx=%2F&type=xhttp##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@fc82dfx.nl8.h1clayd.click:443?mode=auto&path=/0616f2d729aa&security=reality&encryption=none&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&fp=chrome&spx=/&type=xhttp&sni=fc82dfx.nl8.h1clayd.click&sid=7b2b1a14a6e0630d##🇮🇱
-DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@fc82dfx.nl8.h1clayd.click:443?security=reality&type=xhttp&path=%2F0616f2d729aa&packetEncoding=xudp&sni=fc82dfx.nl8.h1clayd.click&fp=firefox&sid=7b2b1a14a6e0630d&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&mode=auto&encryption=none##🇮🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?encryption=none&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&allowInsecure=0&insecure=0&fp=android##.𖥔
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=firefox##.𖥔
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?encryption=none&security=tls&type=ws&path=/service/telemetry/0294da469190/&host=nguyxejonb.flowersgood.top&sni=nguyxejonb.flowersgood.top&fp=chrome&alpn=http/1.1##🇮🇷
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?security=tls&type=ws&sni=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&host=nguyxejonb.flowersgood.top&fp=ios##🇮🇷
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp##🇮🇱
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp&fp=edge##🇮🇱
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp&fp=ios##🇮🇱
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&path=%2F0616f2d729aa&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&security=reality&sid=7b2b1a14a6e0630d&sni=fc82dfx.nl8.h1clayd.click&type=xhttp&fp=safari##🇮🇱
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=edge##🇮🇱
+DROP duplicate :: vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@83.171.241.146:443?encryption=none&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=safari##🇮🇱
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252525252525252525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252525252525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252525252F1.1&fp=android##🇱🇹
@@ -206,6 +141,7 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252525252525252F1.1&fp=chrome##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252525252525252F1.1&fp=ios##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252525252525252F1.1&fp=qq##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252F1.1&fp=edge##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252F1.1&fp=ios##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252525252F1.1&fp=safari##🇱🇹
@@ -221,6 +157,7 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252F1.1&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252525252F1.1&fp=ios##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252525252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252525252F1.1&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252525252F1.1&fp=safari##🇱🇹
@@ -228,6 +165,7 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=ios##🇱🇹
+DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=ios##🇱🇹
@@ -248,7 +186,6 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=edge##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=ios##🇱🇹
-DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=android##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=chrome##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=edge##🇱🇹
@@ -257,29 +194,49 @@ DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=ios##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2F1.1&fp=safari##🇱🇹
-DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&fp=firefox##🇱🇹
 DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&fp=qq##🇱🇹
-DROP duplicate :: vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.177.111.184:443?security=tls&sni=zry9ocg43w.flowersgood.top&alpn=http%2F1.1&fp=firefox&type=ws&host=zry9ocg43w.flowersgood.top&path=%2Fstatic%2Fcollect%2F9412171e8a3a%2F##🇳🇱
-DROP duplicate :: vless://a6c58c10-183e-4278-bdcd-ffc07220e7e2@195.24.67.154:8443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=firefox&mode=auto&path=%2F9f2c7a4e1b6d8053&security=tls&sni=eu88.cdn77.icu&type=xhttp##🇳🇱
-DROP duplicate :: vless://a6c58c10-183e-4278-bdcd-ffc07220e7e2@eu88.cdn77.icu:8443?encryption=none&type=xhttp&security=tls&sni=eu88.cdn77.icu&alpn=h2%2Chttp%2F1.1&fp=firefox&path=%2F9f2c7a4e1b6d8053&mode=auto##🇳🇱
-DROP duplicate :: vless://a6c58c10-183e-4278-bdcd-ffc07220e7e2@eu88.cdn77.icu:8443?type=xhttp&security=tls&fp=firefox&sni=eu88.cdn77.icu&path=/9f2c7a4e1b6d8053&mode=auto&vcn=eu88.cdn77.icu##🇳🇱
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&encryption=none&insecure=0&host=bhjolq0d0l.flowersgood.top&type=ws&allowInsecure=0&sni=bhjolq0d0l.flowersgood.top&fp=safari##🇳🇱
+DROP duplicate :: vless://FastKey_632672@46.29.161.126:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=/service/telemetry/045d381f1166/&host=bhjolq0d0l.flowersgood.top&fp=chrome##🇳🇱
 DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&allowInsecure=0&insecure=0&fp=qq##🇳🇱
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=android##🇳🇱
-DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=ios##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?type=ws&encryption=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=android##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?encryption=none&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&allowInsecure=0&insecure=0&fp=ios##🇳🇱
+DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=ios##🇳🇱
 DROP duplicate :: vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=ios##🇳🇱
-DROP duplicate :: vless://2f03861a-157e-48dc-9ad6-3dddb3e7234a@185.86.147.172:7490?security=tls&sni=wn-us4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud&mode=gun##🇺🇸
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=chrome&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=edge&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=ios&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=random&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=safari&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=firefox##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=ios##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=random##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=safari##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?encryption=none&extra=null&fp=firefox&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?encryption=none&extra=null&fp=chrome&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=edge##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=ios##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp&fp=random##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&mode=auto&fp=firefox##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?type=xhttp&headerType=none&security=tls&encryption=none&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&mode=auto&fp=safari##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?encryption=none&type=xhttp&security=tls&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&host=windytrout.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=firefox##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?encryption=none&type=xhttp&security=tls&sni=windytrout.net&alpn=h2%2Chttp%2F1.1&host=windytrout.net&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=safari##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?security=tls&type=xhttp&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&packetEncoding=none&alpn=h2%2Chttp%2F1.1&sni=windytrout.net&fp=chrome&mode=auto##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?type=xhttp&security=tls&fp=chrome&sni=windytrout.net&path=/api/v1/upload&host=windytrout.net&mode=auto&packetEncoding=none##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?type=xhttp&security=tls&fp=firefox&sni=windytrout.net&path=/api/v1/upload&host=windytrout.net&mode=auto##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@46.243.234.17:2053?encryption=none&extra=null&fp=firefox&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@windytrout.net:2053?type=xhttp&security=tls&sni=windytrout.net&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&mode=auto&fp=ios##🇷🇺
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=firefox##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=glush.de3.v1&allowInsecure=0&sni=luminexorizon.ink##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?mode=gun&security=tls&serviceName=glush.de3.v1&sni=luminexorizon.ink&type=grpc&fp=edge##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&allowInsecure=0&type=grpc&alpn=h2&insecure=0&serviceName=glush.de3.v1&fp=chrome&sni=luminexorizon.ink&encryption=none&mode=gun##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=ios##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?type=grpc&security=tls&fp=firefox&sni=luminexorizon.ink&mode=gun&serviceName=glush.de3.v1##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?type=grpc&security=tls&sni=luminexorizon.ink&mode=gun&serviceName=glush.de3.v1&fp=safari##🌐
+DROP duplicate :: vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&alpn=h2&serviceName=glush.de3.v1##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=edge##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=safari##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?encryption=none&fp=firefox&host=kfx7q.bakarova-top.ru&path=/api/v2/events&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&encryption=none&extra=null&fp=firefox&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=ios##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?encryption=none&extra=null&fp=firefox&host=kfx7q.bakarova-top.ru&mode=packet-up&path=/api/v2/events&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp##🌐
+DROP duplicate :: vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?encryption=none&extra=null&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=edge##🌐
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: #profile-title:🍏 CID VPN 🍏
@@ -294,34 +251,36 @@ DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWN
 DROP unsupported/blocked :: #profile-title: WL RUS (wl.txt)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: # Обновлено: 14:59 | 13.11.2026
-DROP unsupported/blocked :: # Всего конфигов: 820
+DROP unsupported/blocked :: # Обновлено: 11:46 | 14.11.2026
+DROP unsupported/blocked :: # Всего конфигов: 821
 DROP unsupported/blocked :: ##################################################
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#185.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#186.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#572.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#573.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#574.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#575.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#576.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#577.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#578.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#579.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#604.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#605.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#606.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#607.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#608.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#609.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#610.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#611.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#612.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#613.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#614.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#615.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#698.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#81.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#82.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#83.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#84.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#85.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#86.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#87.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#88.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#89.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#113.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#114.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#115.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#116.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#117.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#118.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#119.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#120.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#121.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#122.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#123.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#124.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#125.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#230.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#231.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#699.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 02:03 (Moscow)
-DROP unsupported/blocked :: # Количество: 132
+DROP unsupported/blocked :: # Date/Time: 2026-11-14 / 12:37 (Moscow)
+DROP unsupported/blocked :: # Количество: 104
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
