@@ -1,37 +1,46 @@
-OK 176ms 95.163.211.237:8080 cached
-OK 172ms 95.163.211.237:80 cached
-OK 180ms 78.159.250.83:443 cached
-OK 218ms 78.159.250.83:8443
-OK 180ms 176.108.240.45:443 cached
-OK 183ms 178.176.128.128:443 cached
-OK 154ms 89.208.113.16:443 cached
-OK 144ms 185.177.229.95:1270 cached
-OK 153ms 109.120.179.99:443 cached
-OK 174ms 37.139.34.90:443 cached
-OK 175ms 5.188.141.139:443 cached
+OK 150ms 95.163.211.237:8080
+OK 157ms 95.163.211.237:80
+OK 154ms 78.159.250.83:443
+OK 218ms 78.159.250.83:8443 cached
+OK 157ms 5.188.141.139:443
 OK 188ms 51.250.86.102:443 cached
-OK 174ms 51.250.74.50:443 cached
-OK 135ms 78.159.111.14:443 cached
-OK 176ms 51.250.84.253:443 cached
-OK 170ms 51.250.117.30:443 cached
-OK 173ms 84.201.174.250:443 cached
-OK 171ms 51.250.70.163:443 cached
+OK 161ms 51.250.74.50:443
+OK 117ms 78.159.111.14:443
+OK 162ms 51.250.84.253:443
+OK 151ms 51.250.117.30:443
+OK 157ms 51.250.70.163:443
 OK 187ms 176.108.241.183:443 cached
-OK 170ms 84.201.181.141:443 cached
-OK 170ms 51.250.90.142:443 cached
-OK 176ms 95.163.251.110:443 cached
-OK 379ms my.nehtar.ru:443
-OK 310ms nguyxejonb.flowersgood.top:443 cached
-OK 144ms 2.26.8.1:443
-OK 130ms 189.74.117.30:443
-OK 121ms api.videodolina.cc:443
-OK 336ms cdn.snyalby.ru:17014
+OK 156ms 84.201.181.141:443
+OK 155ms 51.250.92.100:443
+OK 152ms 51.250.90.142:443
+OK 155ms 95.163.251.110:443
+OK 183ms 178.176.128.128:443 cached
+OK 122ms 89.208.113.16:443
+OK 121ms 109.120.179.99:443
+OK 156ms 37.139.34.90:443
+OK 139ms 165.231.157.148:8443
+OK 336ms cdn.snyalby.ru:17014 cached
 OK 179ms 31.192.106.192:443 cached
-OK 504ms luminexorizon.ink:443 cached
-OK 76ms 185.178.208.167:443
+OK 148ms 158.255.6.203:443
+OK 566ms node2.shakalchk.ru:443
+OK 239ms 212.41.8.76:11443 cached
+OK 76ms 185.178.208.167:443 cached
 OK 258ms 717252g.nl8.h1clayd.click:443 cached
+OK 217ms 83.171.241.166:443
+OK 233ms 83.171.241.180:443 cached
+OK 206ms 83.171.241.192:443
 OK 251ms fc82dfx.nl8.h1clayd.click:443 cached
-OK 161ms lorettmay.top:443 cached
-OK 181ms 185.86.145.55:10470
-OK 145ms 185.178.208.140:443 cached
-OK 261ms bhjolq0d0l.flowersgood.top:443 cached
+OK 300ms lorettmay.top:443
+OK 346ms api.mediatropa.cc:443
+OK 181ms 185.86.145.55:10470 cached
+OK 118ms 49930ag.es8.h1clayd.click:443 cached
+OK 124ms 230b29t.es8.h1clayd.click:443 cached
+OK 238ms 83.171.241.220:443
+OK 120ms 189.74.114.100:443
+OK 335ms nl-next.mediastvor.cc:443
+OK 120ms 196.240.125.10:8443
+OK 116ms 196.240.125.250:8443
+OK 178ms 195.24.67.154:8443
+OK 405ms speakpro.lol:443
+OK 145ms 212.41.8.76:14443
+OK 180ms sub-edge-14-1g.whitenw.net:10454
