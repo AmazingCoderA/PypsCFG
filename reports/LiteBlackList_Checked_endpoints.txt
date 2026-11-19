@@ -147,11 +147,10 @@ OK 91ms 89.125.175.24:8443 cached
 OK 221ms 139.84.231.142:443 cached
 OK 98ms 79.182.70.199:443 cached
 OK 112ms 138.124.80.29:443 cached
-OK 176ms 213.171.26.51:23444 cached
 OK 132ms 185.86.147.211:443 cached
 OK 88ms 185.176.9.26:443 cached
 OK 116ms 195.123.226.21:443 cached
-OK 164ms 89.221.203.29:443 cached
+OK 153ms 89.221.203.29:443
 OK 180ms app.streamru14.net:443 cached
 OK 130ms 83.141.93.191:443 cached
 OK 191ms alb1.angelsleep9.com:443 cached
@@ -166,12 +165,12 @@ OK 137ms plaindune.com:8443 cached
 OK 507ms 510.150333.xyz:21003 cached
 OK 92ms 200.96.106.2:9889 cached
 OK 93ms 93.190.9.85:3090 cached
-OK 44ms chess.com:443
+OK 44ms chess.com:443 cached
 OK 163ms 168.138.43.75:80 cached
 OK 85ms 164.37.224.238:443 cached
 OK 81ms 50.7.95.230:443 cached
 OK 90ms 31.76.106.92:8443 cached
-OK 229ms zfapi.zalolink.com:43149
+OK 229ms zfapi.zalolink.com:43149 cached
 OK 184ms app.streamru3.net:443 cached
 OK 85ms 5.253.86.3:443 cached
 OK 92ms 93.190.9.142:3090 cached

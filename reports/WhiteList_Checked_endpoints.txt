@@ -46,17 +46,51 @@ OK 140ms md2.univesalsrv.com:443 cached
 OK 115ms du-rov.secureservice.top:8443 cached
 OK 93ms 64.188.70.56:443 cached
 OK 93ms 130.49.161.70:443 cached
-OK 135ms 94.139.250.226:443 cached
-OK 172ms 109.248.59.59:443
-OK 416ms bookend.filnex.baby:443
-OK 179ms driftwood.elvano.website:443
-OK 177ms ledger.filnex.baby:443
-OK 243ms marsh.moltex.click:443
-OK 230ms vellum.merlano.monster:443
-OK 203ms willow.filnex.baby:443
-OK 172ms woodgrain.filnex.baby:443
-OK 214ms ws3.falmero.store:443
-OK 302ms 71b840t.de7.h1clayd.click:443
-OK 163ms 46.17.47.121:8080
-OK 133ms 95.129.236.50:443
-OK 231ms 66.90.92.186:443
+OK 132ms 158.160.231.108:8443 cached
+OK 90ms 109.69.218.165:443 cached
+OK 88ms 109.69.218.167:443 cached
+OK 91ms 109.69.218.166:443 cached
+OK 2ms 104.26.12.31:80 cached
+OK 3ms 104.18.3.108:8443 cached
+OK 2ms 104.31.16.158:443 cached
+OK 2ms 172.67.204.84:443 cached
+OK 13ms 188.114.96.3:443
+OK 2ms 104.21.61.58:443 cached
+OK 3ms 185.148.107.253:8880 cached
+OK 132ms test.firm-tower.test-cdn-kkk.com:443 cached
+OK 2ms 45.130.125.253:8880 cached
+OK 131ms 84.201.131.34:443 cached
+OK 146ms 103.213.249.46:443 cached
+OK 107ms test.vast-mesa.test-cdn-kkk.com:443 cached
+OK 3ms 104.18.2.108:8443 cached
+OK 84ms 193.24.235.214:443 cached
+OK 94ms 159.65.125.162:2087 cached
+OK 105ms 82.38.65.91:10086 cached
+OK 3ms 104.18.2.26:2083 cached
+OK 3ms 104.21.25.157:443 cached
+OK 2ms 198.177.56.253:8880 cached
+OK 3ms 141.101.123.253:8880 cached
+OK 3ms 92.53.191.253:8880 cached
+OK 111ms 109.69.218.164:443
+OK 3ms 104.18.3.150:443 cached
+OK 169ms 185.177.219.186:443 cached
+OK 3ms 104.18.3.26:2083 cached
+OK 26ms cdn.prostovpn.website:2087 cached
+OK 170ms test.grey-lance.test-cdn-kkk.com:443 cached
+OK 219ms 38.147.187.14:443 cached
+OK 96ms test.red-blaze.test-cdn-kkk.com:443 cached
+OK 216ms test.soft-blade.test-cdn-kkk.com:443 cached
+OK 354ms hu.chocolatemango.live:443 cached
+OK 35ms square-sea-36d2.sendconfig.workers.dev:443 cached
+OK 185ms test.raw-maple.test-cdn-kkk.com:443 cached
+OK 169ms test.bold-stone.test-cdn-kkk.com:443 cached
+OK 219ms nl.normbot.ru:443 cached
+OK 136ms test.iron-coral.test-cdn-kkk.com:443 cached
+OK 255ms www.visaeurope.ch:2083 cached
+OK 77ms cf.008500.xyz:443
+OK 103ms www.visasoutheasteurope.com:2096 cached
+OK 192ms test.wide-frost.test-cdn-kkk.com:8443 cached
+OK 252ms srv31.towersflowerss.com:443 cached
+OK 158ms 168.113.143.5:443
+OK 434ms rsk3.betust.net:443
+OK 133ms 95.129.236.50:443 cached
