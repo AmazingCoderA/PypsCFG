@@ -133,7 +133,6 @@ OK 191ms 138.124.80.29:443 cached
 OK 164ms 185.86.147.211:443 cached
 OK 108ms 185.176.9.26:443 cached
 OK 150ms 195.123.226.21:443 cached
-OK 153ms 89.221.203.29:443 cached
 OK 195ms app.streamru14.net:443 cached
 OK 169ms 83.141.93.191:443 cached
 OK 222ms alb1.angelsleep9.com:443 cached
