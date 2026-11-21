@@ -1,19 +1,7 @@
-OK 176ms 160.5.218.130:443
-OK 208ms 37.9.13.40:443
-OK 161ms 5.178.87.50:443
-OK 164ms 95.213.143.124:443
-OK 205ms 5.188.159.42:443
-OK 198ms 83.166.237.124:8444
-OK 205ms eu90.cdn77.icu:20028
-OK 179ms 95.163.2.47:443
-OK 202ms eu90.cdn77.icu:20034
-OK 235ms eu90.cdn77.icu:20036
-OK 217ms send.idkinc.net:443
-OK 165ms 168.113.254.183:443 cached
-OK 449ms eu90.cdn77.icu:20058
-OK 434ms eu90.cdn77.icu:20084
-OK 167ms 31.184.218.139:443
-OK 204ms eu90.cdn77.icu:20017
-OK 159ms 139.100.197.164:443
-OK 185ms 91.206.14.204:443
-OK 202ms eu90.cdn77.icu:20029
+OK 651ms almanac.filnex.baby:443
+OK 223ms 147.45.97.130:2066 cached
+OK 198ms 83.166.237.124:8444 cached
+OK 182ms sunfield.moltex.click:443
+OK 216ms willowbank.moltex.click:443
+OK 542ms ledger.filnex.baby:443
+OK 146ms 168.113.254.183:443
