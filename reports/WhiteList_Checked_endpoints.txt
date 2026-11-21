@@ -1,108 +1,98 @@
-OK 265ms saas.sin.fan:443
-OK 228ms bg5.univesalsrv.com:443
-OK 7ms 188.114.98.0:443
-OK 228ms bg2.univesalsrv.com:443
-OK 7ms 104.17.147.22:443
-OK 275ms yoy-api.bachidze.com:443
-OK 6ms 172.64.150.43:443
-OK 6ms 162.159.135.234:443
-OK 249ms md3.univesalsrv.com:443
-OK 296ms qq.utiltools.site:443
-OK 27ms www.speedtest.net:443
-OK 6ms 188.114.97.6:443
-OK 215ms rs1.univesalsrv.com:443
-OK 186ms rs4.univesalsrv.com:443
-OK 178ms rs5.univesalsrv.com:443
-OK 9ms 172.64.153.61:443
-OK 154ms 89.35.14.32:443
-OK 216ms rs3.univesalsrv.com:443
-OK 174ms edge.bookmai.com:443
-OK 9ms 162.159.130.234:443
-OK 413ms studio.10media.top:443
-OK 6ms 188.114.99.0:8880
-OK 582ms reaza.localip.ir:443
-OK 428ms 36a466g.fi1.h1clayd.click:443
-OK 174ms bg4.univesalsrv.com:443
-OK 182ms bg3.univesalsrv.com:443
-OK 412ms cl-glb6e059ee.gcdn.co:443
-OK 445ms samgeez.online:8443
-OK 192ms freede.aiage.work:443
-OK 190ms tg1.cdnphotos.org:443
-OK 202ms rs2.univesalsrv.com:443
-OK 12ms 151.101.173.81:443
-OK 7ms 188.114.98.0:2053
-OK 223ms 13.140.56.100:14430
-OK 226ms nl2.balancer.vbuste-bot.com:443
-OK 96ms www.epicgames.com:2095
-OK 258ms us2-2.998998.best:443
-OK 117ms 193.233.82.201:443
-OK 197ms 95.174.68.188:14430
-OK 415ms de2.balancer.vbuste-bot.com:443
-OK 390ms cmfree-hkt.leyali.kdns.fr:443
-OK 119ms 185.125.50.181:443
-OK 155ms 146.56.45.96:443
-OK 162ms 89.35.14.34:443
-OK 129ms 140.225.199.234:443
-OK 151ms 72.56.241.230:443
-OK 234ms fl1.balancer.vbuste-bot.com:443
-OK 7ms 172.64.229.129:2052
-OK 436ms de1.balancer.vbuste-bot.com:443
-OK 160ms 89.35.14.31:443
-OK 307ms md2.univesalsrv.com:443
-OK 347ms du-rov.secureservice.top:8443
-OK 120ms 64.188.70.56:443
-OK 109ms 130.49.161.70:443
-OK 159ms 158.160.231.108:8443
-OK 116ms 109.69.218.165:443
-OK 116ms 109.69.218.167:443
-OK 119ms 109.69.218.166:443
-OK 6ms 104.26.12.31:80
-OK 14ms 104.18.3.108:8443
-OK 8ms 104.31.16.158:443
-OK 6ms 172.67.204.84:443
-OK 7ms 188.114.96.3:443
-OK 8ms 104.21.61.58:443
-OK 7ms 185.148.107.253:8880
-OK 192ms test.firm-tower.test-cdn-kkk.com:443
-OK 19ms 45.130.125.253:8880
-OK 174ms 84.201.131.34:443
-OK 189ms 103.213.249.46:443
-OK 161ms test.vast-mesa.test-cdn-kkk.com:443
-OK 6ms 104.18.2.108:8443
-OK 127ms 193.24.235.214:443
-OK 132ms 159.65.125.162:2087
-OK 129ms 82.38.65.91:10086
-OK 9ms 104.18.2.26:2083
-OK 7ms 104.21.25.157:443
-OK 8ms 198.177.56.253:8880
-OK 15ms 141.101.123.253:8880
-OK 34ms 92.53.191.253:8880
-OK 121ms 109.69.218.164:443
-OK 7ms 104.18.3.150:443
-OK 197ms 185.177.219.186:443
-OK 53ms 104.18.3.26:2083
-OK 56ms cdn.prostovpn.website:2087
-OK 144ms test.grey-lance.test-cdn-kkk.com:443
-OK 195ms test.red-blaze.test-cdn-kkk.com:443
-OK 222ms test.soft-blade.test-cdn-kkk.com:443
-OK 208ms hu.chocolatemango.live:443
-OK 96ms square-sea-36d2.sendconfig.workers.dev:443
-OK 218ms test.raw-maple.test-cdn-kkk.com:443
-OK 160ms test.bold-stone.test-cdn-kkk.com:443
-OK 420ms nl.normbot.ru:443
-OK 220ms test.iron-coral.test-cdn-kkk.com:443
-OK 189ms www.visaeurope.ch:2083
-OK 51ms cf.008500.xyz:443
-OK 110ms www.visasoutheasteurope.com:2096
-OK 161ms test.wide-frost.test-cdn-kkk.com:8443
-OK 339ms srv31.towersflowerss.com:443
+OK 158ms 78.159.245.147:445 cached
+OK 155ms 178.176.128.203:443
+OK 147ms 178.176.128.128:443
+OK 125ms 37.139.42.179:443
+OK 128ms 78.159.250.83:443
+OK 198ms 78.159.250.83:8443
+OK 160ms 51.250.87.28:443
+OK 125ms 5.188.141.139:443
+OK 150ms 51.250.86.102:443 cached
+OK 123ms 51.250.74.50:443
+OK 162ms 51.250.72.20:443
+OK 162ms 51.250.13.243:443
+OK 101ms 78.159.111.14:443
+OK 161ms 51.250.84.253:443
+OK 134ms 51.250.117.30:443
+OK 162ms 51.250.70.163:443
+OK 162ms 176.108.241.183:443 cached
+OK 121ms 84.201.181.141:443
+OK 157ms 51.250.92.100:443
+OK 161ms 51.250.90.142:443
+OK 127ms 95.163.251.110:443
+OK 110ms 109.120.179.99:443
+OK 129ms 37.139.34.90:443
+OK 129ms 78.159.250.155:8443
+OK 147ms 176.108.244.162:443
+OK 123ms 37.139.42.37:443
 OK 198ms 83.166.237.124:8444 cached
-OK 152ms 185.86.145.173:443
-OK 651ms almanac.filnex.baby:443
-OK 223ms 147.45.97.130:2066 cached
-OK 182ms sunfield.moltex.click:443
-OK 216ms willowbank.moltex.click:443
-OK 542ms ledger.filnex.baby:443
-OK 146ms 168.113.254.183:443
-OK 26ms 185.178.208.167:443 cached
-OK 62ms tochkacdn.top:443 cached
+OK 107ms 89.208.113.16:443
+OK 179ms 95.163.2.47:443 cached
+OK 121ms 95.163.211.237:8080
+OK 123ms 95.163.211.237:80
+OK 265ms saas.sin.fan:443 cached
+OK 228ms bg5.univesalsrv.com:443 cached
+OK 7ms 188.114.98.0:443 cached
+OK 228ms bg2.univesalsrv.com:443 cached
+OK 7ms 104.17.147.22:443 cached
+OK 275ms yoy-api.bachidze.com:443 cached
+OK 6ms 172.64.150.43:443 cached
+OK 6ms 162.159.135.234:443 cached
+OK 249ms md3.univesalsrv.com:443 cached
+OK 296ms qq.utiltools.site:443 cached
+OK 27ms www.speedtest.net:443 cached
+OK 6ms 188.114.97.6:443 cached
+OK 215ms rs1.univesalsrv.com:443 cached
+OK 186ms rs4.univesalsrv.com:443 cached
+OK 178ms rs5.univesalsrv.com:443 cached
+OK 9ms 172.64.153.61:443 cached
+OK 154ms 89.35.14.32:443 cached
+OK 216ms rs3.univesalsrv.com:443 cached
+OK 174ms edge.bookmai.com:443 cached
+OK 9ms 162.159.130.234:443 cached
+OK 413ms studio.10media.top:443 cached
+OK 6ms 188.114.99.0:8880 cached
+OK 582ms reaza.localip.ir:443 cached
+OK 428ms 36a466g.fi1.h1clayd.click:443 cached
+OK 174ms bg4.univesalsrv.com:443 cached
+OK 182ms bg3.univesalsrv.com:443 cached
+OK 412ms cl-glb6e059ee.gcdn.co:443 cached
+OK 445ms samgeez.online:8443 cached
+OK 192ms freede.aiage.work:443 cached
+OK 190ms tg1.cdnphotos.org:443 cached
+OK 202ms rs2.univesalsrv.com:443 cached
+OK 12ms 151.101.173.81:443 cached
+OK 7ms 188.114.98.0:2053 cached
+OK 223ms 13.140.56.100:14430 cached
+OK 226ms nl2.balancer.vbuste-bot.com:443 cached
+OK 96ms www.epicgames.com:2095 cached
+OK 258ms us2-2.998998.best:443 cached
+OK 117ms 193.233.82.201:443 cached
+OK 197ms 95.174.68.188:14430 cached
+OK 415ms de2.balancer.vbuste-bot.com:443 cached
+OK 390ms cmfree-hkt.leyali.kdns.fr:443 cached
+OK 119ms 185.125.50.181:443 cached
+OK 155ms 146.56.45.96:443 cached
+OK 162ms 89.35.14.34:443 cached
+OK 129ms 140.225.199.234:443 cached
+OK 151ms 72.56.241.230:443 cached
+OK 234ms fl1.balancer.vbuste-bot.com:443 cached
+OK 7ms 172.64.229.129:2052 cached
+OK 436ms de1.balancer.vbuste-bot.com:443 cached
+OK 160ms 89.35.14.31:443 cached
+OK 307ms md2.univesalsrv.com:443 cached
+OK 347ms du-rov.secureservice.top:8443 cached
+OK 120ms 64.188.70.56:443 cached
+OK 109ms 130.49.161.70:443 cached
+OK 138ms 46.243.233.194:443
+OK 165ms pssdwynorv.newwl.pro:443
+OK 152ms 185.86.145.173:443 cached
+OK 114ms 82.202.142.227:23444
+OK 131ms 109.107.189.69:8443
+OK 106ms 107.150.93.43:443
+OK 32ms files-qzgs.login.opendns.stream:443
+OK 279ms lt-tcp.h1.vpnprime.ru:443
+OK 135ms 77.232.40.206:443
+OK 117ms 66.90.91.122:443
+OK 158ms 176.108.243.24:443
+OK 44ms tochkacdn.top:443
+OK 26ms 185.178.208.167:443
