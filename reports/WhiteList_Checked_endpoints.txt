@@ -1,34 +1,3 @@
-OK 158ms 78.159.245.147:445 cached
-OK 155ms 178.176.128.203:443
-OK 147ms 178.176.128.128:443
-OK 125ms 37.139.42.179:443
-OK 128ms 78.159.250.83:443
-OK 198ms 78.159.250.83:8443
-OK 160ms 51.250.87.28:443
-OK 125ms 5.188.141.139:443
-OK 150ms 51.250.86.102:443 cached
-OK 123ms 51.250.74.50:443
-OK 162ms 51.250.72.20:443
-OK 162ms 51.250.13.243:443
-OK 101ms 78.159.111.14:443
-OK 161ms 51.250.84.253:443
-OK 134ms 51.250.117.30:443
-OK 162ms 51.250.70.163:443
-OK 162ms 176.108.241.183:443 cached
-OK 121ms 84.201.181.141:443
-OK 157ms 51.250.92.100:443
-OK 161ms 51.250.90.142:443
-OK 127ms 95.163.251.110:443
-OK 110ms 109.120.179.99:443
-OK 129ms 37.139.34.90:443
-OK 129ms 78.159.250.155:8443
-OK 147ms 176.108.244.162:443
-OK 123ms 37.139.42.37:443
-OK 198ms 83.166.237.124:8444 cached
-OK 107ms 89.208.113.16:443
-OK 179ms 95.163.2.47:443 cached
-OK 121ms 95.163.211.237:8080
-OK 123ms 95.163.211.237:80
 OK 265ms saas.sin.fan:443 cached
 OK 228ms bg5.univesalsrv.com:443 cached
 OK 7ms 188.114.98.0:443 cached
@@ -83,16 +52,95 @@ OK 307ms md2.univesalsrv.com:443 cached
 OK 347ms du-rov.secureservice.top:8443 cached
 OK 120ms 64.188.70.56:443 cached
 OK 109ms 130.49.161.70:443 cached
-OK 138ms 46.243.233.194:443
-OK 165ms pssdwynorv.newwl.pro:443
+OK 159ms 158.160.231.108:8443 cached
+OK 116ms 109.69.218.165:443 cached
+OK 116ms 109.69.218.167:443 cached
+OK 119ms 109.69.218.166:443 cached
+OK 6ms 104.26.12.31:80 cached
+OK 14ms 104.18.3.108:8443 cached
+OK 8ms 104.31.16.158:443 cached
+OK 6ms 172.67.204.84:443 cached
+OK 7ms 188.114.96.3:443 cached
+OK 8ms 104.21.61.58:443 cached
+OK 7ms 185.148.107.253:8880 cached
+OK 192ms test.firm-tower.test-cdn-kkk.com:443 cached
+OK 19ms 45.130.125.253:8880 cached
+OK 174ms 84.201.131.34:443 cached
+OK 189ms 103.213.249.46:443 cached
+OK 161ms test.vast-mesa.test-cdn-kkk.com:443 cached
+OK 6ms 104.18.2.108:8443 cached
+OK 127ms 193.24.235.214:443 cached
+OK 132ms 159.65.125.162:2087 cached
+OK 129ms 82.38.65.91:10086 cached
+OK 9ms 104.18.2.26:2083 cached
+OK 7ms 104.21.25.157:443 cached
+OK 8ms 198.177.56.253:8880 cached
+OK 15ms 141.101.123.253:8880 cached
+OK 34ms 92.53.191.253:8880 cached
+OK 121ms 109.69.218.164:443 cached
+OK 7ms 104.18.3.150:443 cached
+OK 197ms 185.177.219.186:443 cached
+OK 53ms 104.18.3.26:2083 cached
+OK 56ms cdn.prostovpn.website:2087 cached
+OK 144ms test.grey-lance.test-cdn-kkk.com:443 cached
+OK 195ms test.red-blaze.test-cdn-kkk.com:443 cached
+OK 222ms test.soft-blade.test-cdn-kkk.com:443 cached
+OK 208ms hu.chocolatemango.live:443 cached
+OK 96ms square-sea-36d2.sendconfig.workers.dev:443 cached
+OK 218ms test.raw-maple.test-cdn-kkk.com:443 cached
+OK 160ms test.bold-stone.test-cdn-kkk.com:443 cached
+OK 420ms nl.normbot.ru:443 cached
+OK 220ms test.iron-coral.test-cdn-kkk.com:443 cached
+OK 189ms www.visaeurope.ch:2083 cached
+OK 51ms cf.008500.xyz:443 cached
+OK 110ms www.visasoutheasteurope.com:2096 cached
+OK 161ms test.wide-frost.test-cdn-kkk.com:8443 cached
+OK 339ms srv31.towersflowerss.com:443 cached
+OK 138ms 46.243.233.194:443 cached
+OK 165ms pssdwynorv.newwl.pro:443 cached
 OK 152ms 185.86.145.173:443 cached
-OK 114ms 82.202.142.227:23444
-OK 131ms 109.107.189.69:8443
-OK 106ms 107.150.93.43:443
-OK 32ms files-qzgs.login.opendns.stream:443
-OK 279ms lt-tcp.h1.vpnprime.ru:443
-OK 135ms 77.232.40.206:443
-OK 117ms 66.90.91.122:443
-OK 158ms 176.108.243.24:443
-OK 44ms tochkacdn.top:443
-OK 26ms 185.178.208.167:443
+OK 106ms 107.150.93.43:443 cached
+OK 26ms 185.178.208.167:443 cached
+OK 443ms sw-api.telemetryapi.org:443
+OK 32ms files-qzgs.login.opendns.stream:443 cached
+OK 122ms 185.178.208.140:443 cached
+OK 144ms arbor.elvano.website:443 cached
+OK 145ms archive.filnex.baby:443 cached
+OK 145ms bayleaf.elvano.website:443 cached
+OK 147ms birchbark.gerqix.online:443 cached
+OK 152ms brookside.moltex.click:443 cached
+OK 144ms cabinet.filnex.baby:443 cached
+OK 147ms cedar.filnex.baby:443 cached
+OK 145ms clearing.moltex.click:443 cached
+OK 148ms fresco.merlano.monster:443 cached
+OK 155ms garden.elvano.website:443 cached
+OK 198ms gesso.merlano.monster:443
+OK 207ms greenhouse.elvano.website:443
+OK 151ms grovewood.moltex.click:443 cached
+OK 144ms heatherfield.moltex.click:443 cached
+OK 149ms lowland.moltex.click:443 cached
+OK 195ms mosaic.merlano.monster:443
+OK 147ms ochre.merlano.monster:443 cached
+OK 143ms palette.merlano.monster:443 cached
+OK 147ms rainwater.elvano.website:443 cached
+OK 224ms reedbank.moltex.click:443
+OK 144ms riverstone.gerqix.online:443 cached
+OK 142ms rowanberry.moltex.click:443 cached
+OK 144ms seaglass.gerqix.online:443 cached
+OK 149ms seedling.elvano.website:443 cached
+OK 149ms tealeaf.elvano.website:443 cached
+OK 142ms terrace.elvano.website:443 cached
+OK 363ms wildflower.elvano.website:443
+OK 169ms 91.185.83.43:443
+OK 135ms 77.232.40.206:443 cached
+OK 116ms 31.177.111.225:443 cached
+OK 354ms alt.edge-assets.ru:443
+OK 158ms 176.108.243.24:443 cached
+OK 159ms 191.44.46.255:443
+OK 172ms 195.209.217.111:443
+OK 196ms 195.209.217.67:443
+OK 176ms 195.209.221.165:443
+OK 141ms 195.209.221.235:443 cached
+OK 190ms moonstone.gerqix.online:443
+OK 142ms parchment.merlano.monster:443 cached
+OK 131ms 109.107.189.69:8443 cached

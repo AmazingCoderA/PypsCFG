@@ -1,10 +1,46 @@
-OK 114ms 82.202.142.227:23444
-OK 131ms 109.107.189.69:8443
-OK 106ms 107.150.93.43:443
-OK 32ms files-qzgs.login.opendns.stream:443
-OK 138ms 46.243.233.194:443
-OK 165ms pssdwynorv.newwl.pro:443
-OK 279ms lt-tcp.h1.vpnprime.ru:443
-OK 135ms 77.232.40.206:443
-OK 117ms 66.90.91.122:443
-OK 158ms 176.108.243.24:443
+OK 121ms 95.163.211.237:8080 cached
+OK 123ms 95.163.211.237:80 cached
+OK 106ms 107.150.93.43:443 cached
+OK 26ms 185.178.208.167:443 cached
+OK 443ms sw-api.telemetryapi.org:443
+OK 32ms files-qzgs.login.opendns.stream:443 cached
+OK 122ms 185.178.208.140:443 cached
+OK 144ms arbor.elvano.website:443 cached
+OK 145ms archive.filnex.baby:443 cached
+OK 145ms bayleaf.elvano.website:443 cached
+OK 147ms birchbark.gerqix.online:443 cached
+OK 152ms brookside.moltex.click:443 cached
+OK 144ms cabinet.filnex.baby:443 cached
+OK 147ms cedar.filnex.baby:443 cached
+OK 145ms clearing.moltex.click:443 cached
+OK 148ms fresco.merlano.monster:443 cached
+OK 155ms garden.elvano.website:443 cached
+OK 198ms gesso.merlano.monster:443
+OK 207ms greenhouse.elvano.website:443
+OK 151ms grovewood.moltex.click:443 cached
+OK 144ms heatherfield.moltex.click:443 cached
+OK 149ms lowland.moltex.click:443 cached
+OK 195ms mosaic.merlano.monster:443
+OK 147ms ochre.merlano.monster:443 cached
+OK 143ms palette.merlano.monster:443 cached
+OK 147ms rainwater.elvano.website:443 cached
+OK 224ms reedbank.moltex.click:443
+OK 144ms riverstone.gerqix.online:443 cached
+OK 142ms rowanberry.moltex.click:443 cached
+OK 144ms seaglass.gerqix.online:443 cached
+OK 149ms seedling.elvano.website:443 cached
+OK 149ms tealeaf.elvano.website:443 cached
+OK 142ms terrace.elvano.website:443 cached
+OK 363ms wildflower.elvano.website:443
+OK 169ms 91.185.83.43:443
+OK 138ms 46.243.233.194:443 cached
+OK 165ms pssdwynorv.newwl.pro:443 cached
+OK 135ms 77.232.40.206:443 cached
+OK 116ms 31.177.111.225:443 cached
+OK 354ms alt.edge-assets.ru:443
+OK 158ms 176.108.243.24:443 cached
+OK 159ms 191.44.46.255:443
+OK 172ms 195.209.217.111:443
+OK 196ms 195.209.217.67:443
+OK 176ms 195.209.221.165:443
+OK 141ms 195.209.221.235:443 cached
