@@ -69,32 +69,13 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | VLESS
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-23 / 07:12 (Moscow)
-DROP unsupported/blocked :: # Количество: 894
+DROP unsupported/blocked :: # Date/Time: 2026-11-24 / 01:56 (Moscow)
+DROP unsupported/blocked :: # Количество: 176
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?security=reality&type=tcp&sni=swdist.apple.com&host=swdist.apple.com&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&allowInsecure=1&fp=ios##🇩🇪
-DROP duplicate :: vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?security=reality&type=tcp&sni=swdist.apple.com&host=swdist.apple.com&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&allowInsecure=1&fp=random##🇩🇪
-DROP duplicate :: vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F&fp=qq##🇸🇬
-DROP duplicate :: vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F&fp=safari##🇸🇬
-DROP unsupported/blocked :: #profile-title: WL RUS (wl.txt)
+DROP unsupported/blocked :: #profile-title: WL RUS (selected)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: # Обновлено: 02:26 | 23.11.2026
-DROP unsupported/blocked :: # Всего конфигов: 821
-DROP unsupported/blocked :: ##################################################
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#199.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#221.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#222.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#223.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#224.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#225.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#226.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#227.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#228.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#229.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#230.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#231.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#699.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#106.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: #announce: Обновлено: 2026-10-18 14:05:51
 DROP unsupported/blocked :: #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
 DROP unsupported/blocked :: #profile-title: WhiteKeys
@@ -107,13 +88,13 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-23 / 06:27 (Moscow)
-DROP unsupported/blocked :: # Количество: 24
+DROP unsupported/blocked :: # Date/Time: 2026-11-24 / 00:49 (Moscow)
+DROP unsupported/blocked :: # Количество: 21
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-23 / 06:27 (Moscow)
-DROP unsupported/blocked :: # Количество: 128
+DROP unsupported/blocked :: # Date/Time: 2026-11-24 / 00:49 (Moscow)
+DROP unsupported/blocked :: # Количество: 69
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
@@ -122,161 +103,90 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-23 / 06:27 (Moscow)
-DROP unsupported/blocked :: # Количество: 157
+DROP unsupported/blocked :: # Date/Time: 2026-11-24 / 00:49 (Moscow)
+DROP unsupported/blocked :: # Количество: 90
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://72522396-5408-4767-b134-70ca09cdfe36@ronaldo.foxprox.uk:443?extra=%7B&mode=auto&path=%2Fv1%2Fapi%2Fdownload&pbk=f20b2EABHC76o4CnIBsc8PTnnyPeLKK-y6xnRkrorAc&security=reality&sid=97419a452e2a7201&sni=ronaldo.foxprox.uk&type=xhttp&encryption=none##.𖥔
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?encryption=none&security=tls&sni=sw-api.telemetryapi.org&type=ws&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=android##.𖥔
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?encryption=none&security=tls&sni=sw-api.telemetryapi.org&type=ws&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=chrome##.𖥔
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?encryption=none&security=tls&sni=sw-api.telemetryapi.org&type=ws&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=safari##.𖥔
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%2525252F1.1&fp=android##.𖥔
 DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%2525252F1.1&fp=edge##.𖥔
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?security=tls&sni=atd1.tunnely.space&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fxhttp%2F&mode=packet-up&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&encryption=none&fp=chrome##🇦🇹
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=atd1.tunnely.space&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fxhttp%2F&mode=packet-up&extra=%7B%22xmux%22%3A##🇦🇹
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?type=xhttp&security=tls&fp=firefox&sni=atd1.tunnely.space&path=/xhttp/&mode=packet-up&extra={"headers":{},"noGRPCHeader":false,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"16-32","maxConnections":0}}##🇦🇹
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?type=xhttp&security=tls&sni=atd1.tunnely.space&path=%2Fxhttp%2F&mode=packet-up&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&fp=chrome&encryption=none##🇦🇹
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?type=xhttp&security=tls&sni=atd1.tunnely.space&path=%2Fxhttp%2F&mode=packet-up&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&fp=edge##🇦🇹
-DROP duplicate :: vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@185.244.182.162:443?type=xhttp&security=tls&sni=atd1.tunnely.space&path=%2Fxhttp%2F&mode=packet-up&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D&fp=qq##🇦🇹
-DROP duplicate :: vless://cde5d3ef-7d14-2ee0-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇦🇹
-DROP duplicate :: vless://cde5d3ef-7d14-3a98-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇧🇾
-DROP duplicate :: vless://cde5d3ef-7d14-2328-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇪🇪
-DROP duplicate :: vless://cde5d3ef-7d14-0bb8-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇫🇮
-DROP duplicate :: vless://cde5d3ef-7d14-0bb8-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=st.sdohnite.org##🇫🇮
-DROP duplicate :: vless://a0c7266e-0357-423e-b696-0fe11e0fe85c@189.74.117.14:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc##🇫🇷
-DROP duplicate :: vless://a5b36e51-15a7-4c33-bc8a-accfaabd3cc6@189.74.117.14:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc##🇫🇷
-DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&fp=firefox&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws##🇩🇪
-DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws&fp=android##🇩🇪
-DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?encryption=none&security=tls&sni=sw-api.telemetryapi.org&fp=qq&type=ws&path=/api/v2/client/session/connect##🇩🇪
-DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect##🇩🇪
-DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%2525252F1.1##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%2525252F1.1&fp=ios##.𖥔
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.111:443?security=tls&type=xhttp&path=%2F&host=mama1455.baklajann.ru&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=mama1455.baklajann.ru&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=edge##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?security=tls&sni=mama1472.baklajann.ru&alpn=h2%2Ch3%2Chttp%2F1.1&type=xhttp&path=%2F&mode=auto&fp=ios##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?security=tls&sni=mama1472.baklajann.ru&alpn=h2%2Ch3%2Chttp%2F1.1&type=xhttp&path=%2F&mode=auto&fp=qq##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?security=tls&sni=mama1472.baklajann.ru&alpn=h2%2Ch3%2Chttp%2F1.1&type=xhttp&path=%2F&mode=auto&fp=safari##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?type=xhttp&security=tls&sni=mama1472.baklajann.ru&mode=auto&fp=edge##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?type=xhttp&security=tls&sni=mama1472.baklajann.ru&mode=auto&fp=ios##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.111:443?security=tls&type=xhttp&path=%2F&host=mama1455.baklajann.ru&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=mama1455.baklajann.ru&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=android##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.111:443?security=tls&type=xhttp&path=%2F&host=mama1455.baklajann.ru&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&sni=mama1455.baklajann.ru&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome##🇫🇷
+DROP duplicate :: vless://2b7a122f-f6ff-4860-a919-7bf51be03c02@45.67.215.20:443?type=xhttp&security=tls&sni=mama1472.baklajann.ru&mode=auto&fp=firefox##🇫🇷
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws&fp=ios##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%25252F1.1&fp=chrome##🇩🇪
 DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%252F1.1&fp=edge##🇩🇪
-DROP duplicate :: vless://a5b36e51-15a7-4c33-bc8a-accfaabd3cc6@189.74.106.121:443?security=reality&flow=xtls-rprx-vision&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.setevoypriliv.cc##🇩🇪
-DROP duplicate :: vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@185.178.208.140:443?encryption=none&fp=qq&host=drive.dev.fosonmine.site&path=%2Fcollector%2Fruntime%2Fchannel%2Fopen&security=tls&sni=drive.dev.fosonmine.site&type=ws##🇩🇪
-DROP duplicate :: vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@185.178.208.140:443?encryption=none&host=drive.dev.fosonmine.site&path=%2Fcollector%2Fruntime%2Fchannel%2Fopen&security=tls&sni=drive.dev.fosonmine.site&type=ws&fp=chrome##🇩🇪
-DROP duplicate :: vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@185.178.208.140:443?encryption=none&host=drive.dev.fosonmine.site&path=%2Fcollector%2Fruntime%2Fchannel%2Fopen&security=tls&sni=drive.dev.fosonmine.site&type=ws&fp=firefox##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@amber.filnex.baby:443?encryption=none&type=ws&security=tls&sni=brackenpath.elvano.website&fp=firefox&alpn=http/1.1&path=/api/de3/stream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=elmharbor.gerqix.online&fp=firefox&alpn=h2&serviceName=glush.de7.v1##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=firefox##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&serviceName=glush.de7.v1&sni=elmharbor.gerqix.online&type=grpc&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?security=tls&type=grpc&sni=elmharbor.gerqix.online&serviceName=glush.de7.v1&alpn=h2&allowInsecure=0&insecure=0##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?sni=elmharbor.gerqix.online&alpn=h2&type=grpc&serviceName=glush.de7.v1&fp=random&security=tls##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=claywick.elvano.website&type=ws&headerType=none&host=cabinet.filnex.baby&path=%2Fapi%2Fde7%2Fstream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?alpn=http%2F1.1&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=claywick.elvano.website&type=ws&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?encryption=none&type=ws&security=tls&sni=claywick.elvano.website&fp=firefox&alpn=http/1.1&path=/api/de7/stream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?host=cabinet.filnex.baby&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=claywick.elvano.website&type=ws##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?security=tls&type=ws&sni=claywick.elvano.website&path=%2Fapi%2Fde7%2Fstream&alpn=http%2F1.1##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?security=tls&type=ws&sni=claywick.elvano.website&path=%2Fapi%2Fde7%2Fstream&host=cabinet.filnex.baby&alpn=http%2F1.1##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?security=tls&type=ws&sni=claywick.elvano.website&path=%2Fapi%2Fde7%2Fstream&host=claywick.elvano.website&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=fieldstone.moltex.click&type=ws&headerType=none&host=cedar.filnex.baby&path=%2Fapi%2Fde7%2Fstream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?alpn=http%2F1.1&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=fieldstone.moltex.click&type=ws&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?encryption=none&type=ws&security=tls&sni=fieldstone.moltex.click&fp=firefox&alpn=http/1.1&path=/api/de7/stream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?security=tls&type=ws&sni=fieldstone.moltex.click&path=%2Fapi%2Fde7%2Fstream&alpn=http%2F1.1##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?security=tls&type=ws&sni=fieldstone.moltex.click&path=%2Fapi%2Fde7%2Fstream&host=cedar.filnex.baby&alpn=http%2F1.1##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?security=tls&type=ws&sni=fieldstone.moltex.click&path=%2Fapi%2Fde7%2Fstream&host=fieldstone.moltex.click&alpn=http%2F1.1&allowInsecure=0&insecure=0##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?security=tls&type=ws&sni=fieldstone.moltex.click&path=%2Fapi%2Fde7%2Fstream&host=fieldstone.moltex.click&fp=chrome##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cedar.filnex.baby:443?type=ws&security=tls&path=/api/de7/stream&sni=fieldstone.moltex.click&fp=chrome##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@clearing.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=clearing.moltex.click&mode=auto&path=%2Fapi%2Fde5%2Fsync&security=tls&sni=clearing.moltex.click&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@clearing.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=clearing.moltex.click&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fde5%2Fsync&host=clearing.moltex.click&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@clearing.moltex.click:443?type=xhttp&security=tls&fp=firefox&sni=clearing.moltex.click&path=/api/de5/sync&host=clearing.moltex.click&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=fresco.merlano.monster&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=fresco.merlano.monster&type=xhttp&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=fresco.merlano.monster&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=fresco.merlano.monster&type=xhttp&fp=firefox##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=fresco.merlano.monster&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=fresco.merlano.monster&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=fresco.merlano.monster&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=fresco.merlano.monster&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=fresco.merlano.monster&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=fresco.merlano.monster&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@fresco.merlano.monster:443?type=xhttp&security=tls&fp=firefox&sni=fresco.merlano.monster&path=/api/de4/sync&host=fresco.merlano.monster&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=garden.elvano.website&mode=auto&path=%2Fapi%2Fde3%2Fsync&security=tls&sni=garden.elvano.website&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=garden.elvano.website&mode=auto&path=%2Fapi%2Fde3%2Fsync&security=tls&sni=garden.elvano.website&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=garden.elvano.website&mode=auto&path=%2Fapi%2Fde3%2Fsync&security=tls&sni=garden.elvano.website&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?encryption=none&type=xhttp&security=tls&sni=garden.elvano.website&fp=firefox&alpn=h2%2Chttp/1.1&path=/api/de3/sync&host=garden.elvano.website&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@garden.elvano.website:443?type=xhttp&security=tls&fp=firefox&sni=garden.elvano.website&path=/api/de3/sync&host=garden.elvano.website&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=grovewood.moltex.click&mode=auto&path=%2Fapi%2Fde5%2Fsync&security=tls&sni=grovewood.moltex.click&type=xhttp&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=grovewood.moltex.click&mode=auto&path=%2Fapi%2Fde5%2Fsync&security=tls&sni=grovewood.moltex.click&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=grovewood.moltex.click&mode=auto&path=%2Fapi%2Fde5%2Fsync&security=tls&sni=grovewood.moltex.click&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?encryption=none&type=xhttp&security=tls&sni=grovewood.moltex.click&fp=firefox&alpn=h2%2Chttp/1.1&path=/api/de5/sync&host=grovewood.moltex.click&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@grovewood.moltex.click:443?type=xhttp&security=tls&fp=chrome&sni=grovewood.moltex.click&path=/api/de5/sync&host=grovewood.moltex.click&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@moonstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=moonstone.gerqix.online&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=moonstone.gerqix.online&type=xhttp&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@moonstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=moonstone.gerqix.online&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=moonstone.gerqix.online&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@moonstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=moonstone.gerqix.online&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=moonstone.gerqix.online&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@moonstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=moonstone.gerqix.online&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=moonstone.gerqix.online&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@moonstone.gerqix.online:443?type=xhttp&security=tls&fp=firefox&sni=moonstone.gerqix.online&path=/api/de4/sync&host=moonstone.gerqix.online&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@paperclip.filnex.baby:443?encryption=none&type=ws&security=tls&sni=candlebark.gerqix.online&fp=firefox&alpn=http/1.1&path=/api/de3/stream##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@reedbank.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=reedbank.moltex.click&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=reedbank.moltex.click&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@reedbank.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=reedbank.moltex.click&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=reedbank.moltex.click&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@reedbank.moltex.click:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=reedbank.moltex.click&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=reedbank.moltex.click&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@riverstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=riverstone.gerqix.online&mode=auto&path=%2Fapi%2Fde7%2Fsync&security=tls&sni=riverstone.gerqix.online&type=xhttp&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@riverstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=riverstone.gerqix.online&mode=auto&path=%2Fapi%2Fde7%2Fsync&security=tls&sni=riverstone.gerqix.online&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@riverstone.gerqix.online:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=riverstone.gerqix.online&mode=auto&path=%2Fapi%2Fde7%2Fsync&security=tls&sni=riverstone.gerqix.online&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@riverstone.gerqix.online:443?type=xhttp&security=tls&fp=firefox&sni=riverstone.gerqix.online&path=/api/de7/sync&host=riverstone.gerqix.online&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@seedling.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=seedling.elvano.website&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=seedling.elvano.website&type=xhttp&fp=edge##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@seedling.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=seedling.elvano.website&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=seedling.elvano.website&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@tealeaf.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=tealeaf.elvano.website&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=tealeaf.elvano.website&type=xhttp&fp=ios##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@tealeaf.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=tealeaf.elvano.website&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=tealeaf.elvano.website&type=xhttp&fp=random##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@tealeaf.elvano.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=tealeaf.elvano.website&mode=auto&path=%2Fapi%2Fde4%2Fsync&security=tls&sni=tealeaf.elvano.website&type=xhttp&fp=safari##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@tealeaf.elvano.website:443?type=xhttp&security=tls&fp=firefox&sni=tealeaf.elvano.website&path=/api/de4/sync&host=tealeaf.elvano.website&mode=auto##🇩🇪
-DROP duplicate :: vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=rookery.moltex.click&fp=firefox&alpn=h2&serviceName=glush.de3.v1##🇩🇪
-DROP duplicate :: vless://cde5d3ef-7d14-36b0-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇰🇿
-DROP duplicate :: vless://cde5d3ef-7d14-2af8-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇱🇻
-DROP duplicate :: vless://a0c7266e-0357-423e-b696-0fe11e0fe85c@189.74.116.29:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediatropa.cc##🇵🇱
-DROP duplicate :: vless://a5b36e51-15a7-4c33-bc8a-accfaabd3cc6@189.74.116.29:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediatropa.cc##🇵🇱
-DROP duplicate :: vless://cde5d3ef-7d14-2710-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇵🇱
-DROP duplicate :: vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇸🇬
-DROP duplicate :: vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=st.sdohnite.org##🇸🇬
-DROP duplicate :: vless://cde5d3ef-7d14-32c8-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=firefox##🇸🇪
-DROP duplicate :: vless://cde5d3ef-7d14-32c8-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=st.sdohnite.org##🇸🇪
-DROP duplicate :: vless://cde5d3ef-7d14-1f40-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=qq##🇳🇱
-DROP duplicate :: vless://cde5d3ef-7d14-1f40-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=qq&sni=st.sdohnite.org##🇳🇱
-DROP duplicate :: vless://52d0c9b1-80aa-4b20-bcb1-849991560498@66.90.91.122:443?security=tls&sni=6b02f2a1-52d0c9b1.ferrin.uk&alpn=h2&fp=safari&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D##🇳🇱
-DROP duplicate :: vless://52d0c9b1-80aa-4b20-bcb1-849991560498@66.90.91.122:443?type=xhttp&security=tls&fp=safari&sni=6b02f2a1-52d0c9b1.ferrin.uk&mode=stream-one&extra={"xmux":{"hMaxReusableSecs":"1140-1260","maxConnections":3}}##🇳🇱
-DROP duplicate :: vless://cde5d3ef-7d14-0fa0-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=http%2F1.1&fp=firefox##🇹🇷
-DROP duplicate :: vless://cde5d3ef-7d14-1770-a74d-ac98e39bf9ec@136.234.10.226:52006?flow=xtls-rprx-vision&security=tls&sni=st.sdohnite.org&alpn=h2%2Chttp%2F1.1&fp=qq##🇺🇸
-DROP duplicate :: vless://cde5d3ef-7d14-1770-a74d-ac98e39bf9ec@136.234.10.226:52006?security=tls&flow=xtls-rprx-vision&fp=qq&sni=st.sdohnite.org##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@31.177.111.225:443?encryption=none&extra=null&fp=chrome&host=alt.edge-assets.ru&mode=packet-up&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&security=tls&sni=alt.edge-assets.ru&type=xhttp##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@31.177.111.225:443?encryption=none&extra=null&host=alt.edge-assets.ru&mode=packet-up&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&security=tls&sni=alt.edge-assets.ru&type=xhttp&fp=qq##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@31.177.111.225:443?encryption=none&extra=null&host=alt.edge-assets.ru&mode=packet-up&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&security=tls&sni=alt.edge-assets.ru&type=xhttp&fp=safari##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@alt.edge-assets.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=alt.edge-assets.ru&fp=chrome&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&host=alt.edge-assets.ru&mode=packet-up##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@alt.edge-assets.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=alt.edge-assets.ru&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&host=alt.edge-assets.ru&mode=packet-up&fp=edge##🇺🇸
-DROP duplicate :: vless://fdd8114b-977d-4bb1-b675-a20af8ad41f5@alt.edge-assets.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=alt.edge-assets.ru&path=%2Fe%2F82tjjqcl-zc2ywbqi-6v0lp8td-u9yssr5w%2Fapi%2Fv1%2Fnhde5se4%2Fsync%2F&host=alt.edge-assets.ru&mode=packet-up&fp=firefox##🇺🇸
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=chrome&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=edge&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=firefox&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=ios&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=random&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=safari&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=chrome&host=wholebeam.com&mode=auto&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=edge&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=edge&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=edge&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=firefox&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=ios&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=ios&host=wholebeam.com&path=api%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=ios&path=/api/v1/upload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=qq&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=qq&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=qq&host=wholebeam.com&path=api%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@95.129.236.239:443?encryption=none&host=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=ios##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?alpn=http%2F1.1&encryption=none&headerType=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=edge##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?encryption=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=firefox##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%252F1.1&fp=edge##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws&fp=chrome##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws&fp=safari##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%25252F1.1&fp=qq##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%25252F1.1&fp=safari##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%252F1.1&fp=firefox##🇩🇪
+DROP duplicate :: vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?security=tls&type=ws&sni=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&alpn=http%252F1.1&fp=qq##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@95.129.236.239:443?encryption=none&host=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=qq##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@95.129.236.239:443?encryption=none&host=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=safari##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?alpn=http%2F1.1&encryption=none&headerType=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=android##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?alpn=http%2F1.1&encryption=none&headerType=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=ios##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?encryption=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=ios##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?encryption=none&path=%2Forigin%2F246825491%2Ffetch&security=tls&sni=files-qzgs.login.opendns.stream&type=ws&fp=qq##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%252F1.1&fp=android##🇩🇪
+DROP duplicate :: vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%252F1.1&fp=ios##🇩🇪
+DROP duplicate :: vless://52d0c9b1-80aa-4b20-bcb1-849991560498@td.vmagnum.win:443?alpn=h2&encryption=none&extra=%7B%22xmux%22%3A&headerType=none&mode=stream-one&path=%2Fai&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp&fp=edge##🇵🇱
+DROP duplicate :: vless://52d0c9b1-80aa-4b20-bcb1-849991560498@td.vmagnum.win:443?alpn=h2&encryption=none&extra=%7B%22xmux%22%3A&headerType=none&mode=stream-one&path=%2Fai&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp&fp=ios##🇵🇱
+DROP duplicate :: vless://52d0c9b1-80aa-4b20-bcb1-849991560498@td.vmagnum.win:443?alpn=h2&encryption=none&extra=%7B%22xmux%22%3A&headerType=none&mode=stream-one&path=%2Fai&security=tls&sni=52d0c9b1.ferrin.uk&type=xhttp&fp=chrome##🇵🇱
+DROP duplicate :: vless://d3863595-3afe-4a74-8305-612ab69cd21c@0ef47cx.se4.h1clayd.click:443?encryption=none&security=reality&sni=0ef47cx.se4.h1clayd.click&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&type=xhttp&mode=auto&path=%2F444de120fb2d&fp=chrome##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@9ed8a8t.se4.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp&fp=qq##🇸🇪
+DROP duplicate :: vless://d3863595-3afe-4a74-8305-612ab69cd21c@0ef47cx.se4.h1clayd.click:443?encryption=none&security=reality&sni=0ef47cx.se4.h1clayd.click&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&type=xhttp&mode=auto&path=%2F444de120fb2d&fp=firefox##🇸🇪
+DROP duplicate :: vless://d3863595-3afe-4a74-8305-612ab69cd21c@0ef47cx.se4.h1clayd.click:443?encryption=none&security=reality&sni=0ef47cx.se4.h1clayd.click&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&type=xhttp&mode=auto&path=%2F444de120fb2d&fp=safari##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.234.20.130:443?security=reality&flow=xtls-rprx-vision&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&fp=edge##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.234.20.130:443?security=reality&flow=xtls-rprx-vision&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&fp=firefox##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.234.20.130:443?security=reality&flow=xtls-rprx-vision&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&fp=safari##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@9ed8a8t.se4.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp&fp=android##🇸🇪
+DROP duplicate :: vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@9ed8a8t.se4.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp&fp=chrome##🇸🇪
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=171.22.183.166&fp=edge##🇳🇱
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=firefox##🇳🇱
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=safari##🇳🇱
+DROP duplicate :: vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=qq##🇳🇱
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=171.22.183.166&fp=chrome##🇳🇱
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&sni=171.22.183.166&fp=ios##🇳🇱
+DROP duplicate :: vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&allowInsecure=0&insecure=0&fp=ios##🇳🇱
+DROP duplicate :: vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=edge##🇳🇱
+DROP duplicate :: vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?type=grpc&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&mode=gun&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com&fp=firefox##🇳🇱
+DROP duplicate :: vless://b432a23a-acff-425c-bf69-70480cd6ed09@e3.cdnwh.icu:443?type=ws&headerType=none&security=tls&encryption=none&sni=e3.cdnwh.icu&alpn=http%2F1.1&path=%2Fedge%2Fchunk%2Fb2265efffa29%2F&host=e3.cdnwh.icu&fp=chrome##🇺🇸
+DROP duplicate :: vless://b432a23a-acff-425c-bf69-70480cd6ed09@e3.cdnwh.icu:443?type=ws&headerType=none&security=tls&encryption=none&sni=e3.cdnwh.icu&alpn=http%2F1.1&path=%2Fedge%2Fchunk%2Fb2265efffa29%2F&host=e3.cdnwh.icu&fp=firefox##🇺🇸
+DROP duplicate :: vless://b432a23a-acff-425c-bf69-70480cd6ed09@e3.cdnwh.icu:443?type=ws&headerType=none&security=tls&encryption=none&sni=e3.cdnwh.icu&alpn=http%2F1.1&path=%2Fedge%2Fchunk%2Fb2265efffa29%2F&host=e3.cdnwh.icu&fp=safari##🇺🇸
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=firefox##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=random##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=safari##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=chrome##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=edge##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=qq##🇷🇺
 DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api%2Fv1%2Fupload&security=tls&encryption=none&insecure=0&host=wholebeam.com&type=xhttp&allowInsecure=0&sni=wholebeam.com&fp=chrome##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api/v1/upload&security=tls&encryption=none&insecure=0&host=wholebeam.com&fp=firefox&type=xhttp&allowInsecure=0&sni=wholebeam.com##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&encryption=none&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&host=185.86.145.173&fp=chrome##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&fp=firefox&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&host=wholebeam.com&mode=auto&encryption=none##🇷🇺
-DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=ios&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp##🇷🇺
-DROP duplicate :: vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=ios##🌐
-DROP duplicate :: vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari##🌐
-DROP duplicate :: vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&fp=chrome&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp##🌐
-DROP duplicate :: vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=android##🌐
-DROP duplicate :: vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=qq##🌐
-DROP duplicate :: vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=chrome&encryption=none&type=tcp##🌐
-DROP duplicate :: vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari##🌐
-DROP duplicate :: vless://9838332e-2ec6-4467-a070-d6de028262ce@188.225.56.157:443?security=tls&sni=cdn.quantum.vodka&fp=firefox&type=ws&path=%2Fapi%2Fv1%2Fpipe%2Fb1bb509248##🌐
-DROP duplicate :: vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site##🌐
-DROP duplicate :: vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=chrome&encryption=none&type=tcp##🌐
-DROP duplicate :: vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=android##🌐
-DROP duplicate :: vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=chrome&encryption=none&type=tcp##🌐
-DROP duplicate :: vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari##🌐
-DROP duplicate :: vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@188.225.56.157:443?security=tls&sni=cdn.quantum.vodka&alpn=http%2F1.1&fp=firefox&type=ws&host=cdn.quantum.vodka&path=%2Fapi%2Fv1%2Ffeed%2Fb597b53d57##🌐
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api%2Fv1%2Fupload&security=tls&encryption=none&insecure=0&host=wholebeam.com&type=xhttp&allowInsecure=0&sni=wholebeam.com&fp=ios##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api%2Fv1%2Fupload&security=tls&encryption=none&insecure=0&host=wholebeam.com&type=xhttp&allowInsecure=0&sni=wholebeam.com&fp=qq##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=chrome##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=edge##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=firefox##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=ios##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=qq##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?path=api%2Fv1%2Fupload&security=tls&encryption=none&insecure=0&host=wholebeam.com&type=xhttp&allowInsecure=0&sni=wholebeam.com&fp=firefox##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=chrome##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=edge##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=firefox##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?type=xhttp&security=tls&sni=wholebeam.com&path=%2Fapi%2Fv1%2Fupload&mode=auto&fp=ios##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=ios##🇷🇺
+DROP duplicate :: vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&host=185.86.145.173&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp&fp=ios##🇷🇺
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: #profile-title:🍏 CID VPN 🍏
@@ -315,33 +225,33 @@ DROP unsupported/blocked :: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aG5OUTh
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.9:19999#Notorgames_0
 DROP unsupported/blocked :: ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bWxySWhlU25HOGp5M1luVUpLS2JlSnhuZEg4TCtYdmkwUUZGQnU3UG5QVT0@129.221.234.229:56927#Notorgames_0
 DROP unsupported/blocked :: ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NU9obnhaUTAwV0hLN3FreDlqQ1NIQkxOTXhzODUyOGdzNnRyOHlzUzdmMD06UTFCR2VqTmllV2R5ZW5OQmFrMUtVRE5EUWxSQlpqZGxSazE2TTBabGRuUT0=@lte.most:50443#Notorgames_0
-DROP unsupported/blocked :: #profile-title: WL RUS (selected)
-DROP unsupported/blocked :: #profile-update-interval: 24
-DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#106.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: #profile-title: WL RUS (wl.txt)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: # Обновлено: 02:26 | 23.11.2026
-DROP unsupported/blocked :: # Всего конфигов: 821
+DROP unsupported/blocked :: # Обновлено: 22:58 | 23.11.2026
+DROP unsupported/blocked :: # Всего конфигов: 824
 DROP unsupported/blocked :: ##################################################
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#199.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#221.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#222.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#223.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#224.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#225.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#226.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#227.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@5.188.181.201:9020#196.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#197.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#198.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#199.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#200.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#201.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#202.%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#227.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#228.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#229.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#230.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#231.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#699.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#229.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#230.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#231.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#232.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#233.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#234.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#235.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#702.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-23 / 06:27 (Moscow)
-DROP unsupported/blocked :: # Количество: 128
+DROP unsupported/blocked :: # Date/Time: 2026-11-24 / 00:49 (Moscow)
+DROP unsupported/blocked :: # Количество: 69
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP dead endpoint :: 184.170.131.163:443
 DROP dead endpoint :: 79.137.203.200:443
@@ -512,9 +422,15 @@ DROP dead endpoint :: 47.80.14.130:443
 DROP dead endpoint :: 8.210.67.227:443
 DROP dead endpoint :: 8.218.127.13:443
 DROP dead endpoint :: 8.218.199.24:443
-DROP dead endpoint :: 8a2e72t.nl11.h1clayd.click:443
-DROP dead endpoint :: 8a2e72t.nl11.h1clayd.click:443
-DROP dead endpoint :: 8a2e72t.nl11.h1clayd.click:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
 DROP dead endpoint :: 72.56.34.155:9443
 DROP dead endpoint :: 150.241.70.2:5443
 DROP dead endpoint :: dl-google.hopto.org:443
@@ -729,6 +645,12 @@ DROP dead endpoint :: bero-3.bexum.fun:9443
 DROP dead endpoint :: ch-1.bexum.fun:443
 DROP dead endpoint :: nl-3.bexum.fun:443
 DROP dead endpoint :: nl-3.bexum.fun:443
+DROP dead endpoint :: 04535dt.us8.h1clayd.click:443
+DROP dead endpoint :: 04535dt.us8.h1clayd.click:443
+DROP dead endpoint :: 04535dt.us8.h1clayd.click:443
+DROP dead endpoint :: 04535dt.us8.h1clayd.click:443
+DROP dead endpoint :: 0592efg.us8.h1clayd.click:443
+DROP dead endpoint :: 0592efg.us8.h1clayd.click:443
 DROP dead endpoint :: 112.171.78.221:13579
 DROP dead endpoint :: 31.128.35.216:2053
 DROP dead endpoint :: 31.128.35.216:2053
@@ -780,25 +702,14 @@ DROP dead endpoint :: 0.0.0.0:1
 DROP dead endpoint :: 0.0.0.0:2
 DROP dead endpoint :: 0.0.0.0:3
 DROP dead endpoint :: 0.0.0.0:4
-DROP dead endpoint :: 46.28.71.247:443
-DROP dead endpoint :: 46.28.71.247:443
-DROP dead endpoint :: 46.28.71.247:443
-DROP dead endpoint :: 145.223.68.58:443
-DROP dead endpoint :: 145.223.68.58:443
-DROP dead endpoint :: 145.223.68.58:443
-DROP dead endpoint :: 83.147.18.3:443
-DROP dead endpoint :: 83.147.18.3:443
-DROP dead endpoint :: 195.123.213.28:443
-DROP dead endpoint :: 195.123.213.28:443
-DROP dead endpoint :: 213.178.155.234:8443
-DROP dead endpoint :: 150.251.113.34:443
+DROP dead endpoint :: 209.200.246.148:443
+DROP dead endpoint :: 209.200.246.148:443
+DROP dead endpoint :: 209.200.246.148:443
+DROP dead endpoint :: 209.200.246.148:443
 DROP dead endpoint :: 185.86.145.78:443
 DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 195.123.240.65:443
-DROP dead endpoint :: 195.123.240.65:443
-DROP dead endpoint :: 195.123.240.65:443
-DROP dead endpoint :: 195.123.240.65:443
-DROP dead endpoint :: 195.123.240.65:443
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 185.86.145.78:443
 DROP dead endpoint :: arranged-samuel-cradle-hayes.trycloudflare.com:443
 DROP dead endpoint :: 16.106.7.232:20086
 DROP dead endpoint :: 16.106.7.232:20086
@@ -813,6 +724,7 @@ DROP dead endpoint :: 83.147.19.242:8448
 DROP dead endpoint :: 91.211.27.217:58509
 DROP dead endpoint :: 152.32.254.68:5010
 DROP dead endpoint :: 194.58.60.228:443
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 31.56.222.141:8080
 DROP dead endpoint :: 1.160.3.170:19482
 DROP dead endpoint :: dns.linllc.site:443
@@ -821,6 +733,7 @@ DROP dead endpoint :: 31.77.158.21:443
 DROP dead endpoint :: 159.13.55.48:20000
 DROP dead endpoint :: 77.73.20.134:2100
 DROP dead endpoint :: 48.102.130.17:443
+DROP dead endpoint :: 156.245.234.97:2096
 DROP dead endpoint :: 129.101.98.60:443
 DROP dead endpoint :: 150.230.229.100:20000
 DROP dead endpoint :: 83.141.79.238:8443
@@ -829,11 +742,13 @@ DROP dead endpoint :: 31.177.111.107:443
 DROP dead endpoint :: 31.59.148.132:443
 DROP dead endpoint :: 185.86.145.78:443
 DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 91.185.83.4:8444
 DROP dead endpoint :: 91.211.27.217:58509
 DROP dead endpoint :: 13.140.253.35:443
 DROP dead endpoint :: 31.57.185.176:443
 DROP dead endpoint :: 193.122.106.29:20000
+DROP dead endpoint :: 37.233.80.144:8443
 DROP dead endpoint :: 161.120.223.62:8443
 DROP dead endpoint :: 91.108.247.47:15443
 DROP dead endpoint :: 212.102.227.131:12443
@@ -847,14 +762,17 @@ DROP dead endpoint :: 129.101.99.221:443
 DROP dead endpoint :: 103.88.243.142:11592
 DROP dead endpoint :: 83.141.79.238:8443
 DROP dead endpoint :: 77.73.20.134:2099
+DROP dead endpoint :: 91.132.190.161:443
 DROP dead endpoint :: 48.102.229.114:443
 DROP dead endpoint :: 82.40.63.138:443
 DROP dead endpoint :: 77.73.20.131:2099
 DROP dead endpoint :: 86.53.207.113:443
 DROP dead endpoint :: 48.102.172.114:443
+DROP dead endpoint :: 37.233.80.144:2095
 DROP dead endpoint :: 116.202.184.184:27181
 DROP dead endpoint :: 129.101.98.60:443
 DROP dead endpoint :: 179.43.140.24:42831
+DROP dead endpoint :: 2.26.93.106:443
 DROP dead endpoint :: 116.202.184.184:27181
 DROP dead endpoint :: 176.98.178.163:443
 DROP dead endpoint :: 129.101.98.60:443
@@ -869,6 +787,9 @@ DROP dead endpoint :: 82.148.14.100:52006
 DROP dead endpoint :: 179.254.127.211:25700
 DROP dead endpoint :: 152.234.245.97:8443
 DROP dead endpoint :: 2.56.127.202:17101
+DROP dead endpoint :: 37.233.80.144:2087
+DROP dead endpoint :: 109.107.189.69:8443
+DROP dead endpoint :: lt-tcp.h1.vpnprime.ru:443
 DROP dead endpoint :: 103.88.243.142:11592
 DROP dead endpoint :: 212.102.227.131:15443
 DROP dead endpoint :: 185.229.9.169:443
@@ -890,15 +811,14 @@ DROP dead endpoint :: 2.56.127.202:17101
 DROP dead endpoint :: 31.76.116.145:7443
 DROP dead endpoint :: 136.148.213.129:443
 DROP dead endpoint :: 188.225.36.108:443
-DROP dead endpoint :: 152.67.8.205:80
+DROP dead endpoint :: 212.87.190.249:443
 DROP dead endpoint :: 43.103.2.53:443
 DROP dead endpoint :: 193.233.199.94:443
 DROP dead endpoint :: 46.8.210.33:8446
-DROP dead endpoint :: cdn19.sharfvpn.top:443
+DROP dead endpoint :: 2.26.93.106:443
 DROP dead endpoint :: 136.234.9.24:443
 DROP dead endpoint :: 84.32.51.135:443
 DROP dead endpoint :: 48.102.174.164:37443
-DROP dead endpoint :: 83.141.92.168:443
 DROP dead endpoint :: cloudehouse24.ru:8443
 DROP dead endpoint :: 201.58.142.38:443
 DROP dead endpoint :: pol5.angelsleep9.com:443
@@ -907,27 +827,28 @@ DROP dead endpoint :: cloud-de01.dynv6.net:443
 DROP dead endpoint :: cloudehouse24.ru:8443
 DROP dead endpoint :: app.streamru17.net:443
 DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:443
-DROP dead endpoint :: chcdn.fius.dev:443
+DROP dead endpoint :: 195.209.221.235:443
+DROP dead endpoint :: 195.206.235.232:443
+DROP dead endpoint :: 156.245.234.97:2096
 DROP dead endpoint :: 48.102.167.110:61374
 DROP dead endpoint :: 177.3.217.3:443
 DROP dead endpoint :: 127.0.0.1:443
-DROP dead endpoint :: 195.123.226.21:443
+DROP dead endpoint :: 196.245.153.92:443
 DROP dead endpoint :: 185.102.75.145:12242
 DROP dead endpoint :: 213.171.26.51:23444
 DROP dead endpoint :: k6t8wxun3s.schoolbag.top:443
 DROP dead endpoint :: 203.57.82.106:443
 DROP dead endpoint :: 177.202.64.13:61374
 DROP dead endpoint :: cdn13.sharfvpn.top:443
+DROP dead endpoint :: 201.58.139.66:443
 DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:61374
 DROP dead endpoint :: 5.161.131.202:2083
 DROP dead endpoint :: 84.32.154.74:443
 DROP dead endpoint :: 206.245.152.137:37443
-DROP dead endpoint :: vks2.grafna.shop:443
 DROP dead endpoint :: 195.63.138.212:6443
 DROP dead endpoint :: 16.192.175.172:2053
 DROP dead endpoint :: 201.58.139.144:443
 DROP dead endpoint :: 23.237.202.254:443
-DROP dead endpoint :: 132.243.67.210:25035
 DROP dead endpoint :: app.streamru17.net:443
 DROP dead endpoint :: 94.26.35.241:25035
 DROP dead endpoint :: 89.125.175.24:8443
@@ -942,8 +863,11 @@ DROP dead endpoint :: 89.125.175.204:8443
 DROP dead endpoint :: 82.27.77.74:443
 DROP dead endpoint :: 48.102.201.70:37443
 DROP dead endpoint :: static-se.snobmenu.xyz:36443
+DROP dead endpoint :: 48.102.173.125:444
+DROP dead endpoint :: 213.176.92.168:10444
 DROP dead endpoint :: 201.24.50.81:443
-DROP dead endpoint :: 201.58.186.140:443
+DROP dead endpoint :: 89.125.175.54:8443
+DROP dead endpoint :: lt-tcp.h1.vpnprime.ru:443
 DROP dead endpoint :: pl9.h1cloud.net:25700
 DROP dead endpoint :: 151.241.128.46:443
 DROP dead endpoint :: cloudehouse24.ru:8443
@@ -951,24 +875,25 @@ DROP dead endpoint :: 94.139.250.226:443
 DROP dead endpoint :: 136.234.25.220:12443
 DROP dead endpoint :: 2.26.52.121:61374
 DROP dead endpoint :: 2.27.40.12:443
+DROP dead endpoint :: cdn16.sharfvpn.top:443
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 195.63.138.212:15443
 DROP dead endpoint :: 212.113.116.78:443
 DROP dead endpoint :: srv-17e124.21freedom.net:11592
 DROP dead endpoint :: 182.16.69.178:443
+DROP dead endpoint :: r5.pythonmakemigreat.wiki:8443
 DROP dead endpoint :: 79.182.70.199:443
 DROP dead endpoint :: 195.63.138.212:9444
 DROP dead endpoint :: 87.228.101.3:443
 DROP dead endpoint :: de7.angelsleep9.com:443
 DROP dead endpoint :: fl7.angelsleep9.com:443
-DROP dead endpoint :: 147.45.153.29:443
 DROP dead endpoint :: 200.96.106.2:9889
 DROP dead endpoint :: 88.216.214.159:443
 DROP dead endpoint :: 138.124.80.29:443
-DROP dead endpoint :: 213.178.155.234:8443
-DROP dead endpoint :: 48.102.205.89:22444
 DROP dead endpoint :: 88.216.214.159:443
 DROP dead endpoint :: 0.0.0.0:9872
 DROP dead endpoint :: 94.228.117.93:443
+DROP dead endpoint :: 185.242.247.177:8443
 DROP dead endpoint :: cloudehouse24.ru:8443
 DROP dead endpoint :: 185.86.145.78:443
 DROP dead endpoint :: 85.14.243.91:8443
@@ -976,24 +901,23 @@ DROP dead endpoint :: 171.22.114.62:443
 DROP dead endpoint :: 2.27.40.12:443
 DROP dead endpoint :: 48.103.120.22:443
 DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 93.123.101.198:443
 DROP dead endpoint :: 85.14.243.91:8443
 DROP dead endpoint :: 2.27.40.12:443
+DROP dead endpoint :: 164.37.224.238:443
 DROP dead endpoint :: 193.233.208.179:777
+DROP dead endpoint :: 195.206.235.202:443
 DROP dead endpoint :: 87.242.95.170:443
 DROP dead endpoint :: 168.138.43.75:80
 DROP dead endpoint :: 50.7.95.230:443
-DROP dead endpoint :: 193.233.127.76:40189
 DROP dead endpoint :: 84.32.154.74:443
 DROP dead endpoint :: 80.96.108.29:8443
 DROP dead endpoint :: 87.242.94.42:443
 DROP dead endpoint :: 195.63.138.212:10444
 DROP dead endpoint :: zfapi.zalolink.com:43149
-DROP dead endpoint :: 77.232.40.206:443
 DROP dead endpoint :: 31.177.111.107:443
+DROP dead endpoint :: 4c980ft.fi15.h1clayd.click:443
 DROP dead endpoint :: 0.0.0.0:1
 DROP dead endpoint :: 195.63.138.212:16443
-DROP dead endpoint :: 164.37.224.245:443
 DROP dead endpoint :: 31.76.31.75:4443
 DROP dead endpoint :: 37.49.225.52:443
 DROP dead endpoint :: 196.245.217.70:443
@@ -1001,8 +925,10 @@ DROP dead endpoint :: 93.190.9.142:3090
 DROP dead endpoint :: 136.148.213.129:443
 DROP dead endpoint :: 83.171.241.155:25191
 DROP dead endpoint :: eecdn.fius.dev:443
+DROP dead endpoint :: 109.107.189.69:8443
 DROP dead endpoint :: 94.184.22.9:4343
 DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 4c980ft.fi15.h1clayd.click:443
 DROP dead endpoint :: 31.59.150.180:443
 DROP dead endpoint :: 103.88.243.142:11592
 DROP dead endpoint :: 94.139.250.226:443
@@ -1181,1391 +1107,19 @@ DROP dead endpoint :: lol-rou-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: 167.253.153.147:443
 DROP dead endpoint :: 72.56.34.155:9443
 DROP dead endpoint :: 218.152.227.25:12000
-DROP dead endpoint :: 51.250.64.186:443
-DROP dead endpoint :: 84.201.131.144:443
-DROP dead endpoint :: 158.160.105.121:51102
-DROP dead endpoint :: 51.250.51.104:443
-DROP dead endpoint :: 158.160.105.121:8443
-DROP dead endpoint :: 158.160.105.121:51102
-DROP dead endpoint :: 51.250.65.209:443
-DROP dead endpoint :: 158.160.221.132:51102
-DROP dead endpoint :: 37.18.15.192:2056
-DROP dead endpoint :: 51.250.0.147:443
-DROP dead endpoint :: 217.16.25.180:9090
-DROP dead endpoint :: 217.16.25.180:8443
-DROP dead endpoint :: 78.159.246.134:443
-DROP dead endpoint :: 37.18.14.235:443
-DROP dead endpoint :: 217.16.26.35:8443
-DROP dead endpoint :: 51.250.92.246:7443
-DROP dead endpoint :: 84.201.159.179:443
-DROP dead endpoint :: 51.250.91.154:8443
-DROP dead endpoint :: 84.201.176.83:8443
-DROP dead endpoint :: 84.201.159.179:8090
-DROP dead endpoint :: 178.154.223.188:8090
-DROP dead endpoint :: 89.208.230.52:7443
-DROP dead endpoint :: 89.208.230.52:8443
-DROP dead endpoint :: 51.250.65.209:443
-DROP dead endpoint :: 109.120.191.248:8443
-DROP dead endpoint :: 109.120.191.40:8443
-DROP dead endpoint :: 109.120.188.154:8443
-DROP dead endpoint :: 109.120.191.63:8443
-DROP dead endpoint :: 109.120.191.65:8443
-DROP dead endpoint :: 109.120.188.206:8443
-DROP dead endpoint :: 95.163.213.208:443
-DROP dead endpoint :: 84.201.139.164:8443
-DROP dead endpoint :: 217.16.26.35:4249
-DROP dead endpoint :: 109.120.182.130:443
-DROP dead endpoint :: 84.201.130.25:8090
-DROP dead endpoint :: 95.163.208.119:5443
-DROP dead endpoint :: 95.163.208.119:3443
-DROP dead endpoint :: 95.163.208.119:4443
-DROP dead endpoint :: 217.16.23.232:3443
-DROP dead endpoint :: 217.16.23.39:3443
-DROP dead endpoint :: 109.120.188.214:3443
-DROP dead endpoint :: 217.16.23.39:4443
-DROP dead endpoint :: 109.120.188.214:4443
-DROP dead endpoint :: 5.188.140.201:4443
-DROP dead endpoint :: 37.18.14.235:143
-DROP dead endpoint :: 89.208.87.118:3443
-DROP dead endpoint :: 217.16.25.180:5443
-DROP dead endpoint :: 217.16.26.158:7443
-DROP dead endpoint :: 217.16.26.158:8443
-DROP dead endpoint :: 89.208.222.191:4443
-DROP dead endpoint :: 51.250.86.118:443
-DROP dead endpoint :: 217.16.25.180:443
-DROP dead endpoint :: 217.16.16.51:8443
-DROP dead endpoint :: 217.16.25.180:8443
-DROP dead endpoint :: 217.16.25.180:9090
-DROP dead endpoint :: 84.201.158.43:443
-DROP dead endpoint :: 51.250.108.190:443
-DROP dead endpoint :: 84.201.143.23:443
-DROP dead endpoint :: 178.154.196.80:7443
-DROP dead endpoint :: 217.16.25.129:8443
-DROP dead endpoint :: 217.16.25.129:7443
-DROP dead endpoint :: 95.163.213.208:443
-DROP dead endpoint :: 109.120.189.30:40443
-DROP dead endpoint :: 109.120.189.30:9443
-DROP dead endpoint :: 5.188.143.238:40443
-DROP dead endpoint :: 5.188.143.238:50445
-DROP dead endpoint :: 89.208.229.149:8443
-DROP dead endpoint :: 217.16.20.219:7443
-DROP dead endpoint :: 212.233.74.61:443
-DROP dead endpoint :: 217.16.16.51:5443
-DROP dead endpoint :: 217.16.25.180:5443
-DROP dead endpoint :: 217.16.21.35:7443
-DROP dead endpoint :: 37.139.34.145:443
-DROP dead endpoint :: 37.139.34.145:8443
-DROP dead endpoint :: 95.163.212.112:443
-DROP dead endpoint :: 217.16.27.216:8443
-DROP dead endpoint :: 109.120.132.6:443
-DROP dead endpoint :: 89.208.230.173:443
-DROP dead endpoint :: 185.241.195.144:443
-DROP dead endpoint :: 89.208.231.102:1488
-DROP dead endpoint :: 212.233.72.45:4013
-DROP dead endpoint :: 89.208.229.144:443
-DROP dead endpoint :: 109.120.189.133:443
-DROP dead endpoint :: 109.120.189.133:443
-DROP dead endpoint :: 109.120.189.133:443
-DROP dead endpoint :: 109.120.188.115:443
-DROP dead endpoint :: 109.120.189.133:443
-DROP dead endpoint :: 109.120.188.115:443
-DROP dead endpoint :: 109.120.188.115:443
-DROP dead endpoint :: 95.163.211.101:7433
-DROP dead endpoint :: 89.208.229.144:443
-DROP dead endpoint :: 37.139.35.141:443
-DROP dead endpoint :: 109.120.188.201:443
-DROP dead endpoint :: 89.208.229.144:443
-DROP dead endpoint :: 89.208.231.133:443
-DROP dead endpoint :: 89.208.231.133:443
-DROP dead endpoint :: 89.208.231.225:443
-DROP dead endpoint :: 89.208.231.91:443
-DROP dead endpoint :: 109.120.188.201:443
-DROP dead endpoint :: 89.208.231.133:443
-DROP dead endpoint :: 89.208.231.133:443
-DROP dead endpoint :: 89.208.231.225:443
-DROP dead endpoint :: 89.208.231.91:443
-DROP dead endpoint :: 109.120.188.201:443
-DROP dead endpoint :: 89.208.231.133:443
-DROP dead endpoint :: 89.208.231.225:443
-DROP dead endpoint :: 89.208.231.91:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 109.120.180.65:443
-DROP dead endpoint :: 109.120.188.160:443
-DROP dead endpoint :: 109.120.188.225:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 89.208.198.189:443
-DROP dead endpoint :: 89.208.230.167:443
-DROP dead endpoint :: 89.208.230.167:443
-DROP dead endpoint :: 109.120.188.27:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 109.120.188.27:443
-DROP dead endpoint :: 89.208.223.111:443
-DROP dead endpoint :: 109.120.188.27:443
-DROP dead endpoint :: 109.120.188.27:443
-DROP dead endpoint :: 89.208.230.145:443
-DROP dead endpoint :: 89.208.230.145:443
-DROP dead endpoint :: 89.208.85.78:7443
-DROP dead endpoint :: 89.208.84.23:443
-DROP dead endpoint :: 5.188.141.186:443
-DROP dead endpoint :: 89.208.230.167:443
-DROP dead endpoint :: 89.208.231.198:443
-DROP dead endpoint :: 89.208.211.253:443
-DROP dead endpoint :: 146.185.209.27:2053
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 89.208.231.198:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 89.208.230.167:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.189.174:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 37.139.32.100:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 109.120.191.199:443
-DROP dead endpoint :: 146.185.209.95:443
-DROP dead endpoint :: 5.188.142.9:443
-DROP dead endpoint :: 176.108.243.192:9880
-DROP dead endpoint :: 45.129.124.16:2066
-DROP dead endpoint :: 78.159.245.75:9002
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 176.108.246.58:9881
-DROP dead endpoint :: 176.108.246.58:9881
-DROP dead endpoint :: 176.108.246.73:9873
-DROP dead endpoint :: 78.159.246.179:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 95.163.209.106:443
-DROP dead endpoint :: 95.163.209.106:8443
-DROP dead endpoint :: 109.120.177.84:443
-DROP dead endpoint :: 78.159.245.51:6443
-DROP dead endpoint :: 176.122.188.184:443
-DROP dead endpoint :: 5.188.190.252:22324
-DROP dead endpoint :: 158.160.221.132:8443
-DROP dead endpoint :: 178.154.254.238:443
-DROP dead endpoint :: 89.208.198.240:443
-DROP dead endpoint :: 89.208.209.90:443
-DROP dead endpoint :: 178.154.247.39:443
-DROP dead endpoint :: 217.16.16.12:443
-DROP dead endpoint :: 217.16.16.12:443
-DROP dead endpoint :: 217.16.27.96:443
-DROP dead endpoint :: 217.16.27.96:443
-DROP dead endpoint :: 51.250.108.137:443
-DROP dead endpoint :: 84.201.179.21:443
-DROP dead endpoint :: 89.208.199.147:443
-DROP dead endpoint :: 89.208.199.147:443
-DROP dead endpoint :: 89.208.231.82:443
-DROP dead endpoint :: 89.208.231.82:443
-DROP dead endpoint :: 89.208.84.172:443
-DROP dead endpoint :: 89.208.84.172:443
-DROP dead endpoint :: 178.154.201.203:443
-DROP dead endpoint :: 83.166.255.97:48444
-DROP dead endpoint :: 212.233.72.45:4013
-DROP dead endpoint :: 212.233.75.220:443
-DROP dead endpoint :: 37.139.33.216:443
-DROP dead endpoint :: 51.250.96.145:8444
-DROP dead endpoint :: 51.250.96.145:4433
-DROP dead endpoint :: 84.201.179.46:8081
-DROP dead endpoint :: 109.120.180.172:9443
-DROP dead endpoint :: 109.120.188.201:443
-DROP dead endpoint :: 109.120.189.243:443
-DROP dead endpoint :: 109.120.190.254:443
-DROP dead endpoint :: 5.188.140.178:443
-DROP dead endpoint :: 5.188.140.217:443
-DROP dead endpoint :: 5.188.140.217:443
-DROP dead endpoint :: 5.188.142.221:443
-DROP dead endpoint :: 5.188.143.51:443
-DROP dead endpoint :: 5.188.141.137:443
-DROP dead endpoint :: 5.188.142.210:443
-DROP dead endpoint :: 5.188.142.210:443
-DROP dead endpoint :: 5.188.142.5:443
-DROP dead endpoint :: 5.188.142.81:443
-DROP dead endpoint :: 89.208.229.10:443
-DROP dead endpoint :: 89.208.229.10:443
-DROP dead endpoint :: 5.188.141.170:443
-DROP dead endpoint :: 5.188.143.244:443
-DROP dead endpoint :: 51.250.15.61:443
-DROP dead endpoint :: 51.250.0.147:443
-DROP dead endpoint :: 51.250.65.209:443
-DROP dead endpoint :: 51.250.87.167:443
-DROP dead endpoint :: 51.250.87.167:443
-DROP dead endpoint :: 51.250.87.167:443
-DROP dead endpoint :: 84.201.159.219:443
-DROP dead endpoint :: 84.201.159.219:443
-DROP dead endpoint :: 109.120.188.177:443
-DROP dead endpoint :: 217.16.24.128:443
-DROP dead endpoint :: 37.139.32.42:443
-DROP dead endpoint :: 5.188.115.63:443
-DROP dead endpoint :: 5.188.141.21:443
-DROP dead endpoint :: 5.188.141.21:443
-DROP dead endpoint :: 89.208.231.84:443
-DROP dead endpoint :: 91.219.227.114:443
-DROP dead endpoint :: 95.163.211.31:443
-DROP dead endpoint :: 84.201.20.217:443
-DROP dead endpoint :: 130.193.59.133:443
-DROP dead endpoint :: 185.241.195.144:443
-DROP dead endpoint :: 158.160.113.44:443
-DROP dead endpoint :: 84.201.157.48:443
-DROP dead endpoint :: 217.16.30.69:443
-DROP dead endpoint :: 217.16.30.69:443
-DROP dead endpoint :: 217.16.30.69:443
-DROP dead endpoint :: 217.16.30.69:443
-DROP dead endpoint :: 158.160.46.69:443
-DROP dead endpoint :: 178.154.197.222:8443
-DROP dead endpoint :: 83.166.254.49:8443
-DROP dead endpoint :: 5.188.115.111:443
-DROP dead endpoint :: 51.250.5.237:443
-DROP dead endpoint :: 84.201.132.179:443
-DROP dead endpoint :: 185.141.216.163:8443
-DROP dead endpoint :: 158.160.226.71:443
-DROP dead endpoint :: 51.250.102.190:443
-DROP dead endpoint :: 51.250.102.191:443
-DROP dead endpoint :: 51.250.22.108:443
-DROP dead endpoint :: 84.201.176.174:443
-DROP dead endpoint :: 176.122.27.118:5443
-DROP dead endpoint :: 176.122.27.145:5443
-DROP dead endpoint :: 176.122.27.147:5443
-DROP dead endpoint :: 176.122.27.154:5443
-DROP dead endpoint :: 176.122.27.160:5443
-DROP dead endpoint :: 176.122.27.167:5443
-DROP dead endpoint :: 176.122.27.183:5443
-DROP dead endpoint :: 176.122.27.188:5443
-DROP dead endpoint :: 176.122.27.190:5443
-DROP dead endpoint :: 176.122.27.198:5443
-DROP dead endpoint :: 176.122.27.205:5443
-DROP dead endpoint :: 176.122.27.206:5443
-DROP dead endpoint :: 176.122.27.212:5443
-DROP dead endpoint :: 51.250.15.171:5443
-DROP dead endpoint :: 51.250.6.195:5443
-DROP dead endpoint :: 51.250.81.118:5443
-DROP dead endpoint :: 51.250.89.192:5443
-DROP dead endpoint :: 51.250.92.168:5443
-DROP dead endpoint :: 51.250.92.168:5443
-DROP dead endpoint :: 95.163.209.12:5443
-DROP dead endpoint :: 95.163.209.12:5443
-DROP dead endpoint :: 95.163.209.33:5443
-DROP dead endpoint :: 95.163.210.104:5443
-DROP dead endpoint :: 95.163.210.8:5443
-DROP dead endpoint :: 51.250.1.111:443
-DROP dead endpoint :: 51.250.111.240:443
-DROP dead endpoint :: 51.250.31.108:443
-DROP dead endpoint :: 178.154.222.55:8080
-DROP dead endpoint :: 178.154.222.55:8443
-DROP dead endpoint :: 51.250.43.209:8080
-DROP dead endpoint :: 51.250.43.209:8443
-DROP dead endpoint :: 51.250.43.209:8443
-DROP dead endpoint :: 95.163.208.234:8443
-DROP dead endpoint :: 95.163.210.159:443
-DROP dead endpoint :: 95.163.210.159:8080
-DROP dead endpoint :: 95.163.210.159:80
-DROP dead endpoint :: 95.163.210.159:80
-DROP dead endpoint :: 95.163.210.159:8443
-DROP dead endpoint :: 89.208.228.139:52006
-DROP dead endpoint :: 178.154.253.80:443
-DROP dead endpoint :: 178.154.253.80:443
-DROP dead endpoint :: 51.250.119.97:443
-DROP dead endpoint :: 51.250.0.147:443
-DROP dead endpoint :: 51.250.83.255:443
-DROP dead endpoint :: 51.250.83.255:443
-DROP dead endpoint :: 37.139.35.32:10443
-DROP dead endpoint :: 37.139.35.32:11443
-DROP dead endpoint :: 37.139.35.32:12443
-DROP dead endpoint :: 37.139.35.32:8443
-DROP dead endpoint :: 37.139.35.32:9443
-DROP dead endpoint :: 95.163.182.92:10443
-DROP dead endpoint :: 95.163.182.92:11443
-DROP dead endpoint :: 95.163.182.92:12443
-DROP dead endpoint :: 95.163.182.92:443
-DROP dead endpoint :: 95.163.182.92:8443
-DROP dead endpoint :: 95.163.182.92:9443
-DROP dead endpoint :: 51.250.26.75:443
-DROP dead endpoint :: 84.201.174.250:443
-DROP dead endpoint :: 130.193.59.133:8443
-DROP dead endpoint :: 84.201.179.202:9443
-DROP dead endpoint :: 84.201.158.43:443
-DROP dead endpoint :: 158.160.6.208:443
-DROP dead endpoint :: 51.250.25.11:443
-DROP dead endpoint :: 84.201.164.180:443
-DROP dead endpoint :: 212.233.79.76:443
-DROP dead endpoint :: 51.250.26.75:443
-DROP dead endpoint :: 176.109.109.58:8443
-DROP dead endpoint :: 95.163.210.213:444
-DROP dead endpoint :: 95.163.211.37:444
-DROP dead endpoint :: 158.160.149.4:443
-DROP dead endpoint :: 158.160.64.93:443
-DROP dead endpoint :: 158.160.64.93:443
-DROP dead endpoint :: 158.160.64.93:443
-DROP dead endpoint :: 158.160.64.93:443
-DROP dead endpoint :: 178.154.206.7:443
-DROP dead endpoint :: 51.250.38.225:443
-DROP dead endpoint :: 89.208.228.139:443
-DROP dead endpoint :: 89.208.230.26:443
-DROP dead endpoint :: 5.188.141.137:443
-DROP dead endpoint :: 89.208.230.171:443
-DROP dead endpoint :: 5.188.143.107:443
-DROP dead endpoint :: 51.250.75.192:7445
-DROP dead endpoint :: 158.160.76.189:443
-DROP dead endpoint :: 51.250.94.185:443
-DROP dead endpoint :: 51.250.31.8:443
-DROP dead endpoint :: 51.250.90.142:1443
-DROP dead endpoint :: 51.250.90.142:2443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 109.120.183.58:443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 130.193.37.175:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 158.160.225.116:4443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 176.108.241.219:443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 178.154.199.123:4443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.113.29:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.130.114.120:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 185.241.195.159:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 212.233.76.155:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 37.139.33.50:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:443
-DROP dead endpoint :: 5.188.138.88:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 51.250.44.75:4443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.232.26:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 83.166.254.4:443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 84.201.150.52:4443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 91.219.227.131:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.210.200:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.212.39:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.214.226:443
-DROP dead endpoint :: 95.163.181.208:2085
-DROP dead endpoint :: 217.16.21.98:27472
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 185.73.193.68:4355
-DROP dead endpoint :: 95.163.211.240:8444
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 95.163.61.73:4359
-DROP dead endpoint :: 95.163.211.237:7433
-DROP dead endpoint :: 91.219.227.200:8083
-DROP dead endpoint :: 91.219.227.189:7443
-DROP dead endpoint :: 95.163.215.196:443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.240:8080
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 91.219.227.200:80
-DROP dead endpoint :: 91.219.227.200:8083
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 91.219.227.200:8444
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 91.219.227.189:8444
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.215.196:443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 91.219.227.189:7443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.240:80
-DROP dead endpoint :: 5.188.140.166:443
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 91.219.227.189:8181
-DROP dead endpoint :: 95.163.61.31:4356
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:7443
-DROP dead endpoint :: 95.163.211.240:8181
-DROP dead endpoint :: 91.219.227.189:80
-DROP dead endpoint :: 91.219.227.189:8083
-DROP dead endpoint :: 89.208.231.81:443
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 217.12.104.100:4355
-DROP dead endpoint :: 93.186.225.194:4436
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 95.163.211.240:80
-DROP dead endpoint :: 87.240.137.164:4357
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.240:8444
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 89.208.231.52:443
-DROP dead endpoint :: 91.219.227.200:8083
-DROP dead endpoint :: 95.163.211.240:8081
-DROP dead endpoint :: 79.174.95.135:5446
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 91.219.227.189:80
-DROP dead endpoint :: 95.163.211.240:8444
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 95.163.211.237:7443
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 87.250.251.10:4424
-DROP dead endpoint :: 91.219.227.200:80
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 87.250.250.16:4359
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 91.219.227.189:80
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 178.248.239.157:4357
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 95.163.211.240:8081
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 91.219.227.200:80
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:7433
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 87.240.132.78:4424
-DROP dead endpoint :: 87.250.250.22:4436
-DROP dead endpoint :: 95.163.211.237:8181
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 185.73.195.98:4424
-DROP dead endpoint :: 91.219.227.189:8444
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 91.219.227.189:8081
-DROP dead endpoint :: 91.219.227.189:8083
-DROP dead endpoint :: 95.163.211.240:8181
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 91.219.227.200:8080
-DROP dead endpoint :: 95.163.211.240:7443
-DROP dead endpoint :: 95.163.211.237:7433
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 185.73.194.82:4436
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.92.31:3449
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 95.163.211.240:8083
-DROP dead endpoint :: 95.163.211.237:8083
-DROP dead endpoint :: 95.163.211.240:8081
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 91.219.227.189:8444
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 87.250.250.50:4355
-DROP dead endpoint :: 95.163.211.240:8083
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 91.219.227.189:8083
-DROP dead endpoint :: 91.219.227.189:7433
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 87.240.132.67:4356
-DROP dead endpoint :: 95.163.211.240:8181
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.61.74:4355
-DROP dead endpoint :: 89.208.231.81:443
-DROP dead endpoint :: 87.240.129.133:4359
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 79.174.92.31:3443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:8444
-DROP dead endpoint :: 217.12.98.129:4359
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 87.240.132.72:4355
-DROP dead endpoint :: 91.219.227.189:8444
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 91.219.227.200:8444
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 185.73.194.82:4357
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 91.219.227.200:7443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:7443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 95.163.211.237:7443
-DROP dead endpoint :: 91.219.227.189:8083
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 95.163.211.237:8081
-DROP dead endpoint :: 91.219.227.200:7443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 79.174.95.135:5443
-DROP dead endpoint :: 79.174.95.135:5447
-DROP dead endpoint :: 185.126.93.225:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 163.245.42.48:443
-DROP dead endpoint :: 45.9.156.42:443
-DROP dead endpoint :: 45.12.63.96:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 150.40.126.21:443
-DROP dead endpoint :: 163.245.42.48:443
-DROP dead endpoint :: 84.32.100.149:443
-DROP dead endpoint :: randomquaint.net:2053
-DROP dead endpoint :: freetg.ghost-service.cc:443
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 150.40.126.18:443
-DROP dead endpoint :: 45.9.156.27:443
-DROP dead endpoint :: 77.110.105.122:443
-DROP dead endpoint :: fitindoor.net:2053
-DROP dead endpoint :: 84.32.100.149:443
-DROP dead endpoint :: fitindoor.net:2053
-DROP dead endpoint :: 45.9.156.42:443
-DROP dead endpoint :: 78.159.246.179:2053
-DROP dead endpoint :: 45.9.156.24:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 163.245.42.48:443
-DROP dead endpoint :: 150.40.126.22:443
-DROP dead endpoint :: 150.40.126.24:443
-DROP dead endpoint :: 185.126.93.227:443
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 163.245.42.48:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 201.7.25.100:24446
-DROP dead endpoint :: 78.159.250.84:2053
-DROP dead endpoint :: 78.159.250.214:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 150.40.126.19:443
-DROP dead endpoint :: 78.159.250.84:2053
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 147.45.187.188:8443
-DROP dead endpoint :: 31.77.251.29:8443
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 91.210.169.181:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: fitindoor.net:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: freede.aiage.work:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 150.40.126.21:443
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: 78.159.246.179:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 45.133.151.187:443
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 91.210.169.181:443
-DROP dead endpoint :: 45.9.156.28:443
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.250.84:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: fitindoor.net:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 78.159.246.85:2053
-DROP dead endpoint :: 78.159.250.84:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 194.93.61.143:443
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.126.93.226:443
-DROP dead endpoint :: 152.69.195.67:47878
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 109.176.19.244:8443
-DROP dead endpoint :: summerculture.net:2053
-DROP dead endpoint :: 47.237.74.17:16263
-DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
-DROP dead endpoint :: 154.19.187.190:443
-DROP dead endpoint :: dismissaltree.net:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 185.141.227.180:2053
-DROP dead endpoint :: 47.237.74.17:16263
-DROP dead endpoint :: 134.185.100.238:8443
-DROP dead endpoint :: 47.237.74.17:16263
-DROP dead endpoint :: 154.21.203.106:51279
-DROP dead endpoint :: 154.21.203.106:51279
-DROP dead endpoint :: 154.21.203.106:51279
-DROP dead endpoint :: 154.21.203.106:21033
-DROP dead endpoint :: 72.56.241.230:443
-DROP dead endpoint :: 72.56.241.230:443
-DROP dead endpoint :: 213.165.56.102:443
-DROP dead endpoint :: de1.balancer.vbuste-bot.com:443
-DROP dead endpoint :: 47.237.74.17:16263
-DROP dead endpoint :: 154.21.203.106:21033
-DROP dead endpoint :: milo.rubinaz.xyz:8080
-DROP dead endpoint :: 152.32.254.68:5010
-DROP dead endpoint :: 152.32.254.68:5010
-DROP dead endpoint :: 158.160.235.223:993
-DROP dead endpoint :: 51.250.90.34:443
-DROP dead endpoint :: 51.250.39.162:443
-DROP dead endpoint :: 217.16.30.235:443
-DROP dead endpoint :: 51.250.27.109:2053
-DROP dead endpoint :: 158.160.12.31:443
-DROP dead endpoint :: 217.16.16.72:443
-DROP dead endpoint :: 51.250.24.230:443
-DROP dead endpoint :: 109.120.191.233:7443
-DROP dead endpoint :: 158.160.235.223:993
-DROP dead endpoint :: 109.120.191.233:80
-DROP dead endpoint :: 109.120.191.233:8080
-DROP dead endpoint :: 109.120.191.233:8080
-DROP dead endpoint :: 158.160.101.240:443
-DROP dead endpoint :: 51.250.67.51:443
-DROP dead endpoint :: 84.201.159.228:443
-DROP dead endpoint :: 158.160.101.240:443
-DROP dead endpoint :: 51.250.9.177:443
-DROP dead endpoint :: 111.88.146.74:25462
-DROP dead endpoint :: 5.183.253.171:443
-DROP dead endpoint :: 51.250.0.177:5555
-DROP dead endpoint :: 178.104.118.247:2087
-DROP dead endpoint :: 217.16.23.28:443
-DROP dead endpoint :: srv80.towersflowerss.com:443
-DROP dead endpoint :: freetg.strettenvpn.com:443
-DROP dead endpoint :: srv120.towersflowerss.com:65000
-DROP dead endpoint :: 144.31.171.182:443
-DROP dead endpoint :: 212.41.28.109:4443
-DROP dead endpoint :: eep.musicperec.ru:443
-DROP dead endpoint :: 212.46.33.7:443
-DROP dead endpoint :: 185.100.157.171:443
-DROP dead endpoint :: 130.12.242.182:443
-DROP dead endpoint :: 5.188.156.138:4443
-DROP dead endpoint :: 185.100.157.60:443
-DROP dead endpoint :: 130.12.242.122:443
-DROP dead endpoint :: 185.16.36.164:443
-DROP dead endpoint :: 3.123.40.223:7500
-DROP dead endpoint :: 72.56.34.155:9443
-DROP dead endpoint :: 8.210.175.100:443
-DROP dead endpoint :: 87.228.124.196:4443
-DROP dead endpoint :: ru7.frostmotiveseed.net:4443
-DROP dead endpoint :: 130.12.242.182:443
-DROP dead endpoint :: 45.146.89.35:443
-DROP dead endpoint :: 185.100.157.173:443
-DROP dead endpoint :: 8.218.199.24:443
-DROP dead endpoint :: 8.217.78.216:443
-DROP dead endpoint :: ru8.frostmotiveseed.net:4443
-DROP dead endpoint :: ru2.frostmotiveseed.net:4443
-DROP dead endpoint :: lol-nld-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: ru3.frostmotiveseed.net:4443
-DROP dead endpoint :: 89.125.37.138:7443
-DROP dead endpoint :: nlp.musicperec.ru:443
-DROP dead endpoint :: 5.188.77.163:443
-DROP dead endpoint :: 158.160.102.236:443
-DROP dead endpoint :: 51.250.9.177:443
-DROP dead endpoint :: 141.98.7.174:1443
-DROP dead endpoint :: 51.250.83.190:5555
-DROP dead endpoint :: lol-sgp-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: srv174.towersflowerss.com:65000
-DROP dead endpoint :: 104.224.157.40:443
-DROP dead endpoint :: 38.147.187.14:443
-DROP dead endpoint :: ch-gt-01.com:8443
-DROP dead endpoint :: flp.musicperec.ru:443
-DROP dead endpoint :: swp.musicperec.ru:443
-DROP dead endpoint :: fi.appav.online:2083
-DROP dead endpoint :: fi.appav.online:2083
-DROP dead endpoint :: ru.appav.net:2083
-DROP dead endpoint :: brp.perecmus.ru:443
-DROP dead endpoint :: srv162.towersflowerss.com:443
-DROP dead endpoint :: srv2.towersflowerss.com:443
-DROP dead endpoint :: srv189.towersflowerss.com:65000
-DROP dead endpoint :: new-de.vcfco.ir:7500
-DROP dead endpoint :: srv192.towersflowerss.com:64534
-DROP dead endpoint :: srv190.towersflowerss.com:443
-DROP dead endpoint :: test.dry-moose.test-cdn-kkk.com:443
-DROP dead endpoint :: fr2.appav.net:2083
-DROP dead endpoint :: plp.musicperec.ru:443
-DROP dead endpoint :: srv152.towersflowerss.com:64534
-DROP dead endpoint :: frp.musicperec.ru:443
-DROP dead endpoint :: srv168.towersflowerss.com:443
-DROP dead endpoint :: kz.appav.online:2083
-DROP dead endpoint :: usp.musicperec.ru:443
-DROP dead endpoint :: hk.chinablog.xyz:8080
-DROP dead endpoint :: 85.136.80.77:443
-DROP dead endpoint :: ru.fatvenv.space:8443
-DROP dead endpoint :: 85.136.81.101:8443
-DROP dead endpoint :: nld.pink-service.ru:443
-DROP dead endpoint :: nl.fatvenv.space:443
-DROP dead endpoint :: usa.fatvenv.space:443
-DROP dead endpoint :: dem.fatvenv.space:443
-DROP dead endpoint :: 138.16.204.78:8443
-DROP dead endpoint :: fr.safepass.click:443
-DROP dead endpoint :: kz.keepsecurevpn.com:443
-DROP dead endpoint :: tr.safepass.click:443
-DROP dead endpoint :: gb.safepass.click:443
-DROP dead endpoint :: 45.67.32.243:443
-DROP dead endpoint :: 5.181.202.113:443
-DROP dead endpoint :: fine3.keepsecured.net:8443
-DROP dead endpoint :: czu.ksnodes.net:443
-DROP dead endpoint :: lol-can-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-can-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: fine3.keepsecured.net:8443
-DROP dead endpoint :: node-fi.dostup-est.info:8443
-DROP dead endpoint :: 107.149.184.246:10501
-DROP dead endpoint :: 150.241.70.2:5443
-DROP dead endpoint :: bero-3.bexum.fun:9443
-DROP dead endpoint :: bero-2.bexum.fun:9443
-DROP dead endpoint :: bero-2.bexum.fun:9443
-DROP dead endpoint :: de5.safepass.click:443
-DROP dead endpoint :: 501.rushrushnode.org:10501
-DROP dead endpoint :: 138.124.32.188:30047
-DROP dead endpoint :: 138.124.32.188:30047
-DROP dead endpoint :: 138.124.32.188:30047
-DROP dead endpoint :: bero-1.bexum.fun:9443
-DROP dead endpoint :: bero-1.bexum.fun:9443
-DROP dead endpoint :: 138.124.32.188:30047
-DROP dead endpoint :: 8.218.199.24:443
-DROP dead endpoint :: 8.218.127.13:443
-DROP dead endpoint :: ind8.keepsecured.net:8443
-DROP dead endpoint :: ee.keepsecured.net:8443
-DROP dead endpoint :: ee.keepsecured.net:443
-DROP dead endpoint :: ee.keepsecured.net:443
-DROP dead endpoint :: cl-oth-1.edgeflux.ru:52006
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: cl-oth-1.edgeflux.ru:52006
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443
-DROP dead endpoint :: pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443
-DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: bero-3.bexum.fun:9443
-DROP dead endpoint :: yul3r.stream-room.com:8443
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: 176.123.8.28:443
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
-DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
-DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
-DROP dead endpoint :: s5.db-link.in:17820
-DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: node-de.dostup-est.info:8444
-DROP dead endpoint :: lol-kor-0002.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-kor-0002.api.neuralrelay.stream:443
-DROP dead endpoint :: 8.210.67.227:443
-DROP dead endpoint :: lol-che-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: vruaz.mostserv.xyz:443
-DROP dead endpoint :: lol-ind-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: ee.keepsecured.net:8443
-DROP dead endpoint :: vruaz.mostserv.xyz:443
-DROP dead endpoint :: fast.safepass.click:443
-DROP dead endpoint :: 62.50.146.35:9443
-DROP dead endpoint :: nl5.safepass.click:443
-DROP dead endpoint :: 62.50.146.35:9443
-DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: nl-3.bexum.fun:443
-DROP dead endpoint :: nl-3.bexum.fun:443
-DROP dead endpoint :: 47.80.14.130:443
-DROP dead endpoint :: ch-1.bexum.fun:443
-DROP dead endpoint :: nlety.ksnodes.net:443
-DROP dead endpoint :: nlety.ksnodes.net:443
-DROP dead endpoint :: nlety.ksnodes.net:443
-DROP dead endpoint :: nlety.ksnodes.net:443
-DROP dead endpoint :: lol-are-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-are-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: ukos.ksnodes.net:443
-DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: 87.120.219.56:443
-DROP dead endpoint :: dl-google.hopto.org:443
-DROP dead endpoint :: 87.120.219.56:443
-DROP dead endpoint :: zz.manbo8.site:8005
-DROP dead endpoint :: 2.26.123.64:443
-DROP dead endpoint :: vleapp-nl01.freenets.store:8443
-DROP dead endpoint :: vleapp-nl01.freenets.store:8443
-DROP dead endpoint :: lol-usa-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: lol-usa-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: 77.105.162.153:443
-DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
-DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
-DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
-DROP dead endpoint :: cl-ru-2.edgeflux.ru:52006
-DROP dead endpoint :: cl-ru-2.edgeflux.ru:52006
-DROP dead endpoint :: 8.222.85.166:443
-DROP dead endpoint :: 46.243.211.17:8443
-DROP dead endpoint :: 115.22.218.151:12195
-DROP dead endpoint :: 175.199.174.127:30016
-DROP dead endpoint :: 103.192.179.132:443
-DROP dead endpoint :: 194.87.10.241:443
-DROP dead endpoint :: 219.76.13.183:443
-DROP dead endpoint :: 219.76.13.183:443
-DROP dead endpoint :: 43.160.251.110:443
-DROP dead endpoint :: 103.167.134.29:39738
-DROP dead endpoint :: 125.137.92.241:10088
-DROP dead endpoint :: 14.42.199.13:36398
-DROP dead endpoint :: 151.242.164.33:443
-DROP dead endpoint :: 172.208.36.45:443
-DROP dead endpoint :: 185.31.200.45:8443
-DROP dead endpoint :: 188.253.123.71:7228
-DROP dead endpoint :: 194.87.10.241:443
-DROP dead endpoint :: 207.57.128.3:443
-DROP dead endpoint :: 211.218.123.54:37810
-DROP dead endpoint :: 211.229.78.252:10333
-DROP dead endpoint :: cl-de-2.edgeflux.ru:52006
-DROP dead endpoint :: cl-de-2.edgeflux.ru:52006
-DROP dead endpoint :: 35.212.225.131:443
-DROP dead endpoint :: 221.146.107.49:10030
-DROP dead endpoint :: 47.253.133.106:443
-DROP dead endpoint :: 58.152.13.239:443
-DROP dead endpoint :: 72.249.204.18:443
-DROP dead endpoint :: 8.212.4.124:443
-DROP dead endpoint :: 89.110.125.45:443
-DROP dead endpoint :: 8.212.4.124:443
-DROP dead endpoint :: 104.129.164.201:8880
-DROP dead endpoint :: 104.129.164.201:8880
-DROP dead endpoint :: 104.129.164.201:8880
-DROP dead endpoint :: 104.129.164.253:8880
-DROP dead endpoint :: 104.129.166.253:8880
-DROP dead endpoint :: 104.129.167.253:8880
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 138.124.32.78:443
-DROP dead endpoint :: 139.28.96.83:8443
-DROP dead endpoint :: 139.28.96.83:8443
-DROP dead endpoint :: 139.28.96.83:8443
-DROP dead endpoint :: 194.87.71.102:443
-DROP dead endpoint :: 37.1.194.220:8443
-DROP dead endpoint :: 37.1.194.220:8443
-DROP dead endpoint :: 37.1.194.220:8443
-DROP dead endpoint :: 37.1.198.128:8443
-DROP dead endpoint :: 37.1.198.128:8443
-DROP dead endpoint :: 45.194.11.253:8880
-DROP dead endpoint :: 45.194.11.253:8880
-DROP dead endpoint :: 45.8.211.253:8880
-DROP dead endpoint :: 45.8.211.253:8880
-DROP dead endpoint :: 77.75.199.253:8880
-DROP dead endpoint :: 77.75.199.253:8880
-DROP dead endpoint :: 92.243.74.253:8880
-DROP dead endpoint :: 92.243.75.253:8880
-DROP dead endpoint :: 92.243.75.253:8880
-DROP dead endpoint :: 92.243.75.253:8880
-DROP dead endpoint :: 46.243.211.17:7000
-DROP dead endpoint :: 167.253.153.108:443
-DROP dead endpoint :: 151.242.69.198:2053
-DROP dead endpoint :: 46.243.211.17:7000
-DROP dead endpoint :: 69.143.174.201:8443
-DROP dead endpoint :: 31.128.35.216:2053
-DROP dead endpoint :: 31.128.35.216:2053
-DROP dead endpoint :: 112.171.78.221:13579
-DROP dead endpoint :: 84.22.149.236:8443
-DROP dead endpoint :: 84.22.149.236:8443
-DROP dead endpoint :: 69.63.202.30:25564
-DROP dead endpoint :: lol-rou-0001.api.neuralrelay.stream:443
-DROP dead endpoint :: 167.253.153.147:443
-DROP dead endpoint :: 72.56.34.155:9443
-DROP dead endpoint :: 218.152.227.25:12000
-DROP dead endpoint :: 143.246.41.238:443
-DROP dead endpoint :: 129.154.61.196:800
-DROP dead endpoint :: 37.18.15.192:2056
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 176.98.178.163:443
-DROP dead endpoint :: 168.113.132.167:52006
-DROP dead endpoint :: 177.202.78.111:444
-DROP dead endpoint :: 83.147.19.242:8448
-DROP dead endpoint :: 91.211.27.217:58509
-DROP dead endpoint :: 152.32.254.68:5010
-DROP dead endpoint :: 194.58.60.228:443
-DROP dead endpoint :: 31.56.222.141:8080
-DROP dead endpoint :: 1.160.3.170:19482
-DROP dead endpoint :: dns.linllc.site:443
-DROP dead endpoint :: 77.73.20.131:2100
-DROP dead endpoint :: 31.77.158.21:443
-DROP dead endpoint :: 159.13.55.48:20000
-DROP dead endpoint :: 77.73.20.134:2100
-DROP dead endpoint :: 48.102.130.17:443
-DROP dead endpoint :: 129.101.98.60:443
-DROP dead endpoint :: 150.230.229.100:20000
-DROP dead endpoint :: 83.141.79.238:8443
-DROP dead endpoint :: 77.73.20.131:8444
-DROP dead endpoint :: 31.177.111.107:443
-DROP dead endpoint :: 31.59.148.132:443
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 91.185.83.4:8444
-DROP dead endpoint :: 91.211.27.217:58509
-DROP dead endpoint :: 13.140.253.35:443
-DROP dead endpoint :: 31.57.185.176:443
-DROP dead endpoint :: 193.122.106.29:20000
-DROP dead endpoint :: 161.120.223.62:8443
-DROP dead endpoint :: 91.108.247.47:15443
-DROP dead endpoint :: 212.102.227.131:12443
-DROP dead endpoint :: 91.108.247.47:15443
-DROP dead endpoint :: 94.228.166.160:8443
-DROP dead endpoint :: 179.254.191.251:4444
-DROP dead endpoint :: ru7e2bab87cc39.eu-cdn539.com:443
-DROP dead endpoint :: 168.113.132.167:52006
-DROP dead endpoint :: 194.58.60.228:443
-DROP dead endpoint :: 129.101.99.221:443
-DROP dead endpoint :: 103.88.243.142:11592
-DROP dead endpoint :: 83.141.79.238:8443
-DROP dead endpoint :: 77.73.20.134:2099
-DROP dead endpoint :: 48.102.229.114:443
-DROP dead endpoint :: 82.40.63.138:443
-DROP dead endpoint :: 77.73.20.131:2099
-DROP dead endpoint :: 86.53.207.113:443
-DROP dead endpoint :: 48.102.172.114:443
-DROP dead endpoint :: 116.202.184.184:27181
-DROP dead endpoint :: 129.101.98.60:443
-DROP dead endpoint :: 179.43.140.24:42831
-DROP dead endpoint :: 116.202.184.184:27181
-DROP dead endpoint :: 176.98.178.163:443
-DROP dead endpoint :: 129.101.98.60:443
-DROP dead endpoint :: 91.211.27.231:42848
-DROP dead endpoint :: 77.73.20.131:2099
-DROP dead endpoint :: 0.0.0.0:1
-DROP dead endpoint :: 185.246.155.91:10103
-DROP dead endpoint :: 189.24.101.243:443
-DROP dead endpoint :: 185.246.155.91:10403
-DROP dead endpoint :: 77.73.20.131:8446
-DROP dead endpoint :: 82.148.14.100:52006
-DROP dead endpoint :: 179.254.127.211:25700
-DROP dead endpoint :: 152.234.245.97:8443
-DROP dead endpoint :: 2.56.127.202:17101
-DROP dead endpoint :: 103.88.243.142:11592
-DROP dead endpoint :: 212.102.227.131:15443
-DROP dead endpoint :: 185.229.9.169:443
-DROP dead endpoint :: 187.52.44.79:443
-DROP dead endpoint :: 201.58.139.254:25191
-DROP dead endpoint :: 77.73.20.134:2099
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 51.170.191.10:63286
-DROP dead endpoint :: 77.73.20.131:8444
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 82.40.63.149:8443
-DROP dead endpoint :: srv-17e124.21freedom.net:11592
-DROP dead endpoint :: 91.211.27.231:42848
-DROP dead endpoint :: 152.234.245.97:8443
-DROP dead endpoint :: 37.202.244.120:8888
-DROP dead endpoint :: 31.76.116.145:7443
-DROP dead endpoint :: 201.58.139.254:25191
-DROP dead endpoint :: 2.56.127.202:17101
-DROP dead endpoint :: 31.76.116.145:7443
-DROP dead endpoint :: 136.148.213.129:443
-DROP dead endpoint :: 188.225.36.108:443
-DROP dead endpoint :: 152.67.8.205:80
-DROP dead endpoint :: 43.103.2.53:443
-DROP dead endpoint :: 193.233.199.94:443
-DROP dead endpoint :: 46.8.210.33:8446
-DROP dead endpoint :: cdn19.sharfvpn.top:443
-DROP dead endpoint :: 136.234.9.24:443
-DROP dead endpoint :: 84.32.51.135:443
-DROP dead endpoint :: 48.102.174.164:37443
-DROP dead endpoint :: 83.141.92.168:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 201.58.142.38:443
-DROP dead endpoint :: pol5.angelsleep9.com:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: cloud-de01.dynv6.net:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: app.streamru17.net:443
-DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:443
-DROP dead endpoint :: chcdn.fius.dev:443
-DROP dead endpoint :: 48.102.167.110:61374
-DROP dead endpoint :: 177.3.217.3:443
-DROP dead endpoint :: 127.0.0.1:443
-DROP dead endpoint :: 195.123.226.21:443
-DROP dead endpoint :: 185.102.75.145:12242
-DROP dead endpoint :: 213.171.26.51:23444
-DROP dead endpoint :: k6t8wxun3s.schoolbag.top:443
-DROP dead endpoint :: 203.57.82.106:443
-DROP dead endpoint :: 177.202.64.13:61374
-DROP dead endpoint :: cdn13.sharfvpn.top:443
-DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:61374
-DROP dead endpoint :: 5.161.131.202:2083
-DROP dead endpoint :: 84.32.154.74:443
-DROP dead endpoint :: 206.245.152.137:37443
-DROP dead endpoint :: vks2.grafna.shop:443
-DROP dead endpoint :: 195.63.138.212:6443
-DROP dead endpoint :: 16.192.175.172:2053
-DROP dead endpoint :: 201.58.139.144:443
-DROP dead endpoint :: 23.237.202.254:443
-DROP dead endpoint :: 132.243.67.210:25035
-DROP dead endpoint :: app.streamru17.net:443
-DROP dead endpoint :: 94.26.35.241:25035
-DROP dead endpoint :: 89.125.175.24:8443
-DROP dead endpoint :: zynerio.com:3443
-DROP dead endpoint :: app.streamru17.net:443
-DROP dead endpoint :: pl9.h1cloud.net:25700
-DROP dead endpoint :: 138.124.80.29:443
-DROP dead endpoint :: 13.141.51.100:25700
-DROP dead endpoint :: 179.254.127.211:25700
-DROP dead endpoint :: 80.243.228.13:2085
-DROP dead endpoint :: 89.125.175.204:8443
-DROP dead endpoint :: 82.27.77.74:443
-DROP dead endpoint :: 48.102.201.70:37443
-DROP dead endpoint :: static-se.snobmenu.xyz:36443
-DROP dead endpoint :: 201.24.50.81:443
-DROP dead endpoint :: 201.58.186.140:443
-DROP dead endpoint :: pl9.h1cloud.net:25700
-DROP dead endpoint :: 151.241.128.46:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 94.139.250.226:443
-DROP dead endpoint :: 136.234.25.220:12443
-DROP dead endpoint :: 2.26.52.121:61374
-DROP dead endpoint :: 2.27.40.12:443
-DROP dead endpoint :: 195.63.138.212:15443
-DROP dead endpoint :: 212.113.116.78:443
-DROP dead endpoint :: srv-17e124.21freedom.net:11592
-DROP dead endpoint :: 182.16.69.178:443
-DROP dead endpoint :: 79.182.70.199:443
-DROP dead endpoint :: 195.63.138.212:9444
-DROP dead endpoint :: 87.228.101.3:443
-DROP dead endpoint :: de7.angelsleep9.com:443
-DROP dead endpoint :: fl7.angelsleep9.com:443
-DROP dead endpoint :: 147.45.153.29:443
-DROP dead endpoint :: 200.96.106.2:9889
-DROP dead endpoint :: 88.216.214.159:443
-DROP dead endpoint :: 138.124.80.29:443
-DROP dead endpoint :: 213.178.155.234:8443
-DROP dead endpoint :: 48.102.205.89:22444
-DROP dead endpoint :: 88.216.214.159:443
-DROP dead endpoint :: 0.0.0.0:9872
-DROP dead endpoint :: 94.228.117.93:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 185.86.145.78:443
-DROP dead endpoint :: 85.14.243.91:8443
-DROP dead endpoint :: 171.22.114.62:443
-DROP dead endpoint :: 2.27.40.12:443
-DROP dead endpoint :: 48.103.120.22:443
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 93.123.101.198:443
-DROP dead endpoint :: 85.14.243.91:8443
-DROP dead endpoint :: 2.27.40.12:443
-DROP dead endpoint :: 193.233.208.179:777
-DROP dead endpoint :: 87.242.95.170:443
-DROP dead endpoint :: 168.138.43.75:80
-DROP dead endpoint :: 50.7.95.230:443
-DROP dead endpoint :: 193.233.127.76:40189
-DROP dead endpoint :: 84.32.154.74:443
-DROP dead endpoint :: 80.96.108.29:8443
-DROP dead endpoint :: 87.242.94.42:443
-DROP dead endpoint :: 195.63.138.212:10444
-DROP dead endpoint :: zfapi.zalolink.com:43149
-DROP dead endpoint :: 77.232.40.206:443
-DROP dead endpoint :: 31.177.111.107:443
-DROP dead endpoint :: 0.0.0.0:1
-DROP dead endpoint :: 195.63.138.212:16443
-DROP dead endpoint :: 164.37.224.245:443
-DROP dead endpoint :: 31.76.31.75:4443
-DROP dead endpoint :: 37.49.225.52:443
-DROP dead endpoint :: 196.245.217.70:443
-DROP dead endpoint :: 93.190.9.142:3090
-DROP dead endpoint :: 136.148.213.129:443
-DROP dead endpoint :: 83.171.241.155:25191
-DROP dead endpoint :: eecdn.fius.dev:443
-DROP dead endpoint :: 94.184.22.9:4343
-DROP dead endpoint :: cloudehouse24.ru:8443
-DROP dead endpoint :: 31.59.150.180:443
-DROP dead endpoint :: 103.88.243.142:11592
-DROP dead endpoint :: 94.139.250.226:443
-DROP dead endpoint :: 80.243.228.4:2085
-DROP dead endpoint :: 48.103.120.22:443
-DROP dead endpoint :: ai.smrtai.top:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
+DROP dead endpoint :: 8a2e72t.nl20.h1clayd.shop:443
 DROP dead endpoint :: 84.252.149.198:4436
 DROP dead endpoint :: 176.114.122.24:4436
 DROP dead endpoint :: 217.16.21.98:27472
@@ -2810,6 +1364,673 @@ DROP dead endpoint :: 91.219.227.200:7443
 DROP dead endpoint :: 79.174.95.135:5447
 DROP dead endpoint :: 79.174.95.135:5443
 DROP dead endpoint :: 79.174.95.135:5447
+DROP dead endpoint :: 185.126.93.225:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 163.245.42.48:443
+DROP dead endpoint :: 45.9.156.42:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 163.245.42.48:443
+DROP dead endpoint :: 84.32.100.149:443
+DROP dead endpoint :: randomquaint.net:2053
+DROP dead endpoint :: freetg.ghost-service.cc:443
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 150.40.126.18:443
+DROP dead endpoint :: 45.9.156.27:443
+DROP dead endpoint :: 77.110.105.122:443
+DROP dead endpoint :: rs3.univesalsrv.com:443
+DROP dead endpoint :: fitindoor.net:2053
+DROP dead endpoint :: 84.32.100.149:443
+DROP dead endpoint :: fitindoor.net:2053
+DROP dead endpoint :: 45.9.156.42:443
+DROP dead endpoint :: 78.159.246.179:2053
+DROP dead endpoint :: 45.9.156.24:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 163.245.42.48:443
+DROP dead endpoint :: 185.126.93.227:443
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 163.245.42.48:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 201.7.25.100:24446
+DROP dead endpoint :: 78.159.250.84:2053
+DROP dead endpoint :: 78.159.250.214:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 150.40.126.19:443
+DROP dead endpoint :: 78.159.250.84:2053
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 147.45.187.188:8443
+DROP dead endpoint :: 31.77.251.29:8443
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 91.210.169.181:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: fitindoor.net:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: 78.159.246.179:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: 45.133.151.187:443
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 91.210.169.181:443
+DROP dead endpoint :: 45.9.156.28:443
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.250.84:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: fitindoor.net:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 78.159.250.84:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: 194.93.61.143:443
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.126.93.226:443
+DROP dead endpoint :: 152.69.195.67:47878
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: tg1.cdnphotos.org:443
+DROP dead endpoint :: 109.176.19.244:8443
+DROP dead endpoint :: summerculture.net:2053
+DROP dead endpoint :: 47.237.74.17:16263
+DROP dead endpoint :: finkawwwbroy5.qcloud.surf:20324
+DROP dead endpoint :: 154.19.187.190:443
+DROP dead endpoint :: dismissaltree.net:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 185.141.227.180:2053
+DROP dead endpoint :: 47.237.74.17:16263
+DROP dead endpoint :: 146.56.45.96:443
+DROP dead endpoint :: 134.185.100.238:8443
+DROP dead endpoint :: 47.237.74.17:16263
+DROP dead endpoint :: 154.21.203.106:51279
+DROP dead endpoint :: 154.21.203.106:51279
+DROP dead endpoint :: 154.21.203.106:51279
+DROP dead endpoint :: 154.21.203.106:21033
+DROP dead endpoint :: 213.165.56.102:443
+DROP dead endpoint :: de1.balancer.vbuste-bot.com:443
+DROP dead endpoint :: 47.237.74.17:16263
+DROP dead endpoint :: 154.21.203.106:21033
+DROP dead endpoint :: milo.rubinaz.xyz:8080
+DROP dead endpoint :: 152.32.254.68:5010
+DROP dead endpoint :: 152.32.254.68:5010
+DROP dead endpoint :: 158.160.235.223:993
+DROP dead endpoint :: 51.250.90.34:443
+DROP dead endpoint :: 51.250.39.162:443
+DROP dead endpoint :: 217.16.30.235:443
+DROP dead endpoint :: 51.250.27.109:2053
+DROP dead endpoint :: 158.160.12.31:443
+DROP dead endpoint :: 217.16.16.72:443
+DROP dead endpoint :: 51.250.24.230:443
+DROP dead endpoint :: 109.120.191.233:7443
+DROP dead endpoint :: 158.160.235.223:993
+DROP dead endpoint :: 109.120.191.233:80
+DROP dead endpoint :: 109.120.191.233:8080
+DROP dead endpoint :: 109.120.191.233:8080
+DROP dead endpoint :: 158.160.101.240:443
+DROP dead endpoint :: 51.250.67.51:443
+DROP dead endpoint :: 84.201.159.228:443
+DROP dead endpoint :: 158.160.101.240:443
+DROP dead endpoint :: 51.250.9.177:443
+DROP dead endpoint :: 111.88.146.74:25462
+DROP dead endpoint :: 5.183.253.171:443
+DROP dead endpoint :: 51.250.0.177:5555
+DROP dead endpoint :: 178.104.118.247:2087
+DROP dead endpoint :: 217.16.23.28:443
+DROP dead endpoint :: srv80.towersflowerss.com:443
+DROP dead endpoint :: freetg.strettenvpn.com:443
+DROP dead endpoint :: srv120.towersflowerss.com:65000
+DROP dead endpoint :: 144.31.171.182:443
+DROP dead endpoint :: 212.41.28.109:4443
+DROP dead endpoint :: eep.musicperec.ru:443
+DROP dead endpoint :: 212.46.33.7:443
+DROP dead endpoint :: 185.100.157.171:443
+DROP dead endpoint :: 130.12.242.182:443
+DROP dead endpoint :: 5.188.156.138:4443
+DROP dead endpoint :: 185.100.157.60:443
+DROP dead endpoint :: 130.12.242.122:443
+DROP dead endpoint :: 185.16.36.164:443
+DROP dead endpoint :: 3.123.40.223:7500
+DROP dead endpoint :: 72.56.34.155:9443
+DROP dead endpoint :: 8.210.175.100:443
+DROP dead endpoint :: 87.228.124.196:4443
+DROP dead endpoint :: ru7.frostmotiveseed.net:4443
+DROP dead endpoint :: 130.12.242.182:443
+DROP dead endpoint :: 45.146.89.35:443
+DROP dead endpoint :: 185.100.157.173:443
+DROP dead endpoint :: 8.218.199.24:443
+DROP dead endpoint :: 8.217.78.216:443
+DROP dead endpoint :: ru8.frostmotiveseed.net:4443
+DROP dead endpoint :: ru2.frostmotiveseed.net:4443
+DROP dead endpoint :: lol-nld-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: ru3.frostmotiveseed.net:4443
+DROP dead endpoint :: 89.125.37.138:7443
+DROP dead endpoint :: nlp.musicperec.ru:443
+DROP dead endpoint :: 5.188.77.163:443
+DROP dead endpoint :: 158.160.102.236:443
+DROP dead endpoint :: 51.250.9.177:443
+DROP dead endpoint :: 141.98.7.174:1443
+DROP dead endpoint :: 51.250.83.190:5555
+DROP dead endpoint :: lol-sgp-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: srv174.towersflowerss.com:65000
+DROP dead endpoint :: 104.224.157.40:443
+DROP dead endpoint :: 38.147.187.14:443
+DROP dead endpoint :: ch-gt-01.com:8443
+DROP dead endpoint :: flp.musicperec.ru:443
+DROP dead endpoint :: swp.musicperec.ru:443
+DROP dead endpoint :: fi.appav.online:2083
+DROP dead endpoint :: fi.appav.online:2083
+DROP dead endpoint :: ru.appav.net:2083
+DROP dead endpoint :: brp.perecmus.ru:443
+DROP dead endpoint :: srv162.towersflowerss.com:443
+DROP dead endpoint :: srv2.towersflowerss.com:443
+DROP dead endpoint :: srv189.towersflowerss.com:65000
+DROP dead endpoint :: new-de.vcfco.ir:7500
+DROP dead endpoint :: srv192.towersflowerss.com:64534
+DROP dead endpoint :: srv190.towersflowerss.com:443
+DROP dead endpoint :: test.dry-moose.test-cdn-kkk.com:443
+DROP dead endpoint :: fr2.appav.net:2083
+DROP dead endpoint :: plp.musicperec.ru:443
+DROP dead endpoint :: srv152.towersflowerss.com:64534
+DROP dead endpoint :: frp.musicperec.ru:443
+DROP dead endpoint :: srv168.towersflowerss.com:443
+DROP dead endpoint :: kz.appav.online:2083
+DROP dead endpoint :: usp.musicperec.ru:443
+DROP dead endpoint :: hk.chinablog.xyz:8080
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 85.136.80.77:443
+DROP dead endpoint :: ru.fatvenv.space:8443
+DROP dead endpoint :: 85.136.81.101:8443
+DROP dead endpoint :: nld.pink-service.ru:443
+DROP dead endpoint :: nl.fatvenv.space:443
+DROP dead endpoint :: usa.fatvenv.space:443
+DROP dead endpoint :: dem.fatvenv.space:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: fr.safepass.click:443
+DROP dead endpoint :: kz.keepsecurevpn.com:443
+DROP dead endpoint :: tr.safepass.click:443
+DROP dead endpoint :: gb.safepass.click:443
+DROP dead endpoint :: 45.67.32.243:443
+DROP dead endpoint :: 5.181.202.113:443
+DROP dead endpoint :: fine3.keepsecured.net:8443
+DROP dead endpoint :: czu.ksnodes.net:443
+DROP dead endpoint :: lol-can-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-can-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: fine3.keepsecured.net:8443
+DROP dead endpoint :: node-fi.dostup-est.info:8443
+DROP dead endpoint :: 107.149.184.246:10501
+DROP dead endpoint :: 150.241.70.2:5443
+DROP dead endpoint :: bero-3.bexum.fun:9443
+DROP dead endpoint :: bero-2.bexum.fun:9443
+DROP dead endpoint :: bero-2.bexum.fun:9443
+DROP dead endpoint :: de5.safepass.click:443
+DROP dead endpoint :: 501.rushrushnode.org:10501
+DROP dead endpoint :: 138.124.32.188:30047
+DROP dead endpoint :: 138.124.32.188:30047
+DROP dead endpoint :: 138.124.32.188:30047
+DROP dead endpoint :: bero-1.bexum.fun:9443
+DROP dead endpoint :: bero-1.bexum.fun:9443
+DROP dead endpoint :: 138.124.32.188:30047
+DROP dead endpoint :: 8.218.199.24:443
+DROP dead endpoint :: 8.218.127.13:443
+DROP dead endpoint :: ind8.keepsecured.net:8443
+DROP dead endpoint :: ee.keepsecured.net:8443
+DROP dead endpoint :: ee.keepsecured.net:443
+DROP dead endpoint :: ee.keepsecured.net:443
+DROP dead endpoint :: cl-oth-1.edgeflux.ru:52006
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: cl-oth-1.edgeflux.ru:52006
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443
+DROP dead endpoint :: pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443
+DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-kaz-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: bero-3.bexum.fun:9443
+DROP dead endpoint :: yul3r.stream-room.com:8443
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: 176.123.8.28:443
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: cluster-other-1.firstvideocdn.ru:52006
+DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
+DROP dead endpoint :: cl-de-1.edgeflux.ru:52006
+DROP dead endpoint :: s5.db-link.in:17820
+DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: node-de.dostup-est.info:8444
+DROP dead endpoint :: lol-kor-0002.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-kor-0002.api.neuralrelay.stream:443
+DROP dead endpoint :: 8.210.67.227:443
+DROP dead endpoint :: lol-che-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: vruaz.mostserv.xyz:443
+DROP dead endpoint :: lol-ind-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: ee.keepsecured.net:8443
+DROP dead endpoint :: vruaz.mostserv.xyz:443
+DROP dead endpoint :: fast.safepass.click:443
+DROP dead endpoint :: 62.50.146.35:9443
+DROP dead endpoint :: nl5.safepass.click:443
+DROP dead endpoint :: 62.50.146.35:9443
+DROP dead endpoint :: lol-zaf-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: nl-3.bexum.fun:443
+DROP dead endpoint :: nl-3.bexum.fun:443
+DROP dead endpoint :: 47.80.14.130:443
+DROP dead endpoint :: ch-1.bexum.fun:443
+DROP dead endpoint :: nlety.ksnodes.net:443
+DROP dead endpoint :: nlety.ksnodes.net:443
+DROP dead endpoint :: nlety.ksnodes.net:443
+DROP dead endpoint :: nlety.ksnodes.net:443
+DROP dead endpoint :: lol-are-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-are-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: ukos.ksnodes.net:443
+DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
+DROP dead endpoint :: dl-google.hopto.org:443
+DROP dead endpoint :: 87.120.219.56:443
+DROP dead endpoint :: zz.manbo8.site:8005
+DROP dead endpoint :: 2.26.123.64:443
+DROP dead endpoint :: vleapp-nl01.freenets.store:8443
+DROP dead endpoint :: vleapp-nl01.freenets.store:8443
+DROP dead endpoint :: lol-usa-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: lol-usa-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: 77.105.162.153:443
+DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
+DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
+DROP dead endpoint :: cl-ru-1.edgeflux.ru:52006
+DROP dead endpoint :: cl-ru-2.edgeflux.ru:52006
+DROP dead endpoint :: cl-ru-2.edgeflux.ru:52006
+DROP dead endpoint :: 8.222.85.166:443
+DROP dead endpoint :: 46.243.211.17:8443
+DROP dead endpoint :: 115.22.218.151:12195
+DROP dead endpoint :: 175.199.174.127:30016
+DROP dead endpoint :: 103.192.179.132:443
+DROP dead endpoint :: 194.87.10.241:443
+DROP dead endpoint :: 219.76.13.183:443
+DROP dead endpoint :: 219.76.13.183:443
+DROP dead endpoint :: 43.160.251.110:443
+DROP dead endpoint :: 103.167.134.29:39738
+DROP dead endpoint :: 125.137.92.241:10088
+DROP dead endpoint :: 14.42.199.13:36398
+DROP dead endpoint :: 151.242.164.33:443
+DROP dead endpoint :: 172.208.36.45:443
+DROP dead endpoint :: 185.31.200.45:8443
+DROP dead endpoint :: 188.253.123.71:7228
+DROP dead endpoint :: 194.87.10.241:443
+DROP dead endpoint :: 207.57.128.3:443
+DROP dead endpoint :: 211.218.123.54:37810
+DROP dead endpoint :: 211.229.78.252:10333
+DROP dead endpoint :: cl-de-2.edgeflux.ru:52006
+DROP dead endpoint :: cl-de-2.edgeflux.ru:52006
+DROP dead endpoint :: 35.212.225.131:443
+DROP dead endpoint :: 221.146.107.49:10030
+DROP dead endpoint :: 47.253.133.106:443
+DROP dead endpoint :: 58.152.13.239:443
+DROP dead endpoint :: 72.249.204.18:443
+DROP dead endpoint :: 8.212.4.124:443
+DROP dead endpoint :: 89.110.125.45:443
+DROP dead endpoint :: 8.212.4.124:443
+DROP dead endpoint :: 104.129.164.201:8880
+DROP dead endpoint :: 104.129.164.201:8880
+DROP dead endpoint :: 104.129.164.201:8880
+DROP dead endpoint :: 104.129.164.253:8880
+DROP dead endpoint :: 104.129.166.253:8880
+DROP dead endpoint :: 104.129.167.253:8880
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 138.124.32.78:443
+DROP dead endpoint :: 139.28.96.83:8443
+DROP dead endpoint :: 139.28.96.83:8443
+DROP dead endpoint :: 139.28.96.83:8443
+DROP dead endpoint :: 194.87.71.102:443
+DROP dead endpoint :: 37.1.194.220:8443
+DROP dead endpoint :: 37.1.194.220:8443
+DROP dead endpoint :: 37.1.194.220:8443
+DROP dead endpoint :: 37.1.198.128:8443
+DROP dead endpoint :: 37.1.198.128:8443
+DROP dead endpoint :: 45.194.11.253:8880
+DROP dead endpoint :: 45.194.11.253:8880
+DROP dead endpoint :: 45.8.211.253:8880
+DROP dead endpoint :: 45.8.211.253:8880
+DROP dead endpoint :: 77.75.199.253:8880
+DROP dead endpoint :: 77.75.199.253:8880
+DROP dead endpoint :: 92.243.74.253:8880
+DROP dead endpoint :: 92.243.75.253:8880
+DROP dead endpoint :: 92.243.75.253:8880
+DROP dead endpoint :: 92.243.75.253:8880
+DROP dead endpoint :: 46.243.211.17:7000
+DROP dead endpoint :: 167.253.153.108:443
+DROP dead endpoint :: 151.242.69.198:2053
+DROP dead endpoint :: 46.243.211.17:7000
+DROP dead endpoint :: 69.143.174.201:8443
+DROP dead endpoint :: 31.128.35.216:2053
+DROP dead endpoint :: 31.128.35.216:2053
+DROP dead endpoint :: 112.171.78.221:13579
+DROP dead endpoint :: 84.22.149.236:8443
+DROP dead endpoint :: 84.22.149.236:8443
+DROP dead endpoint :: 69.63.202.30:25564
+DROP dead endpoint :: lol-rou-0001.api.neuralrelay.stream:443
+DROP dead endpoint :: 167.253.153.147:443
+DROP dead endpoint :: 72.56.34.155:9443
+DROP dead endpoint :: 218.152.227.25:12000
+DROP dead endpoint :: 143.246.41.238:443
+DROP dead endpoint :: 129.154.61.196:800
+DROP dead endpoint :: 37.18.15.192:2056
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 176.98.178.163:443
+DROP dead endpoint :: 168.113.132.167:52006
+DROP dead endpoint :: 177.202.78.111:444
+DROP dead endpoint :: 83.147.19.242:8448
+DROP dead endpoint :: 91.211.27.217:58509
+DROP dead endpoint :: 152.32.254.68:5010
+DROP dead endpoint :: 194.58.60.228:443
+DROP dead endpoint :: 78.159.245.147:445
+DROP dead endpoint :: 31.56.222.141:8080
+DROP dead endpoint :: 1.160.3.170:19482
+DROP dead endpoint :: dns.linllc.site:443
+DROP dead endpoint :: 77.73.20.131:2100
+DROP dead endpoint :: 31.77.158.21:443
+DROP dead endpoint :: 159.13.55.48:20000
+DROP dead endpoint :: 77.73.20.134:2100
+DROP dead endpoint :: 48.102.130.17:443
+DROP dead endpoint :: 156.245.234.97:2096
+DROP dead endpoint :: 129.101.98.60:443
+DROP dead endpoint :: 150.230.229.100:20000
+DROP dead endpoint :: 83.141.79.238:8443
+DROP dead endpoint :: 77.73.20.131:8444
+DROP dead endpoint :: 31.177.111.107:443
+DROP dead endpoint :: 31.59.148.132:443
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 78.159.245.147:445
+DROP dead endpoint :: 91.185.83.4:8444
+DROP dead endpoint :: 91.211.27.217:58509
+DROP dead endpoint :: 13.140.253.35:443
+DROP dead endpoint :: 31.57.185.176:443
+DROP dead endpoint :: 193.122.106.29:20000
+DROP dead endpoint :: 37.233.80.144:8443
+DROP dead endpoint :: 161.120.223.62:8443
+DROP dead endpoint :: 91.108.247.47:15443
+DROP dead endpoint :: 212.102.227.131:12443
+DROP dead endpoint :: 91.108.247.47:15443
+DROP dead endpoint :: 94.228.166.160:8443
+DROP dead endpoint :: 179.254.191.251:4444
+DROP dead endpoint :: ru7e2bab87cc39.eu-cdn539.com:443
+DROP dead endpoint :: 168.113.132.167:52006
+DROP dead endpoint :: 194.58.60.228:443
+DROP dead endpoint :: 129.101.99.221:443
+DROP dead endpoint :: 103.88.243.142:11592
+DROP dead endpoint :: 83.141.79.238:8443
+DROP dead endpoint :: 77.73.20.134:2099
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 48.102.229.114:443
+DROP dead endpoint :: 82.40.63.138:443
+DROP dead endpoint :: 77.73.20.131:2099
+DROP dead endpoint :: 86.53.207.113:443
+DROP dead endpoint :: 48.102.172.114:443
+DROP dead endpoint :: 37.233.80.144:2095
+DROP dead endpoint :: 116.202.184.184:27181
+DROP dead endpoint :: 129.101.98.60:443
+DROP dead endpoint :: 179.43.140.24:42831
+DROP dead endpoint :: 2.26.93.106:443
+DROP dead endpoint :: 116.202.184.184:27181
+DROP dead endpoint :: 176.98.178.163:443
+DROP dead endpoint :: 129.101.98.60:443
+DROP dead endpoint :: 91.211.27.231:42848
+DROP dead endpoint :: 77.73.20.131:2099
+DROP dead endpoint :: 0.0.0.0:1
+DROP dead endpoint :: 185.246.155.91:10103
+DROP dead endpoint :: 189.24.101.243:443
+DROP dead endpoint :: 185.246.155.91:10403
+DROP dead endpoint :: 77.73.20.131:8446
+DROP dead endpoint :: 82.148.14.100:52006
+DROP dead endpoint :: 179.254.127.211:25700
+DROP dead endpoint :: 152.234.245.97:8443
+DROP dead endpoint :: 2.56.127.202:17101
+DROP dead endpoint :: 37.233.80.144:2087
+DROP dead endpoint :: 109.107.189.69:8443
+DROP dead endpoint :: lt-tcp.h1.vpnprime.ru:443
+DROP dead endpoint :: 103.88.243.142:11592
+DROP dead endpoint :: 212.102.227.131:15443
+DROP dead endpoint :: 185.229.9.169:443
+DROP dead endpoint :: 187.52.44.79:443
+DROP dead endpoint :: 201.58.139.254:25191
+DROP dead endpoint :: 77.73.20.134:2099
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 51.170.191.10:63286
+DROP dead endpoint :: 77.73.20.131:8444
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 82.40.63.149:8443
+DROP dead endpoint :: srv-17e124.21freedom.net:11592
+DROP dead endpoint :: 91.211.27.231:42848
+DROP dead endpoint :: 152.234.245.97:8443
+DROP dead endpoint :: 37.202.244.120:8888
+DROP dead endpoint :: 31.76.116.145:7443
+DROP dead endpoint :: 201.58.139.254:25191
+DROP dead endpoint :: 2.56.127.202:17101
+DROP dead endpoint :: 31.76.116.145:7443
+DROP dead endpoint :: 136.148.213.129:443
+DROP dead endpoint :: 188.225.36.108:443
+DROP dead endpoint :: 212.87.190.249:443
+DROP dead endpoint :: 43.103.2.53:443
+DROP dead endpoint :: 193.233.199.94:443
+DROP dead endpoint :: 46.8.210.33:8446
+DROP dead endpoint :: 2.26.93.106:443
+DROP dead endpoint :: 136.234.9.24:443
+DROP dead endpoint :: 84.32.51.135:443
+DROP dead endpoint :: 48.102.174.164:37443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 201.58.142.38:443
+DROP dead endpoint :: pol5.angelsleep9.com:443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: cloud-de01.dynv6.net:443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: app.streamru17.net:443
+DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:443
+DROP dead endpoint :: 195.209.221.235:443
+DROP dead endpoint :: 195.206.235.232:443
+DROP dead endpoint :: 156.245.234.97:2096
+DROP dead endpoint :: 48.102.167.110:61374
+DROP dead endpoint :: 177.3.217.3:443
+DROP dead endpoint :: 127.0.0.1:443
+DROP dead endpoint :: 196.245.153.92:443
+DROP dead endpoint :: 185.102.75.145:12242
+DROP dead endpoint :: 213.171.26.51:23444
+DROP dead endpoint :: k6t8wxun3s.schoolbag.top:443
+DROP dead endpoint :: 203.57.82.106:443
+DROP dead endpoint :: 177.202.64.13:61374
+DROP dead endpoint :: cdn13.sharfvpn.top:443
+DROP dead endpoint :: 201.58.139.66:443
+DROP dead endpoint :: nl-s-2-b1.pythonmakemigreat.wiki:61374
+DROP dead endpoint :: 5.161.131.202:2083
+DROP dead endpoint :: 84.32.154.74:443
+DROP dead endpoint :: 206.245.152.137:37443
+DROP dead endpoint :: 195.63.138.212:6443
+DROP dead endpoint :: 16.192.175.172:2053
+DROP dead endpoint :: 201.58.139.144:443
+DROP dead endpoint :: 23.237.202.254:443
+DROP dead endpoint :: app.streamru17.net:443
+DROP dead endpoint :: 94.26.35.241:25035
+DROP dead endpoint :: 89.125.175.24:8443
+DROP dead endpoint :: zynerio.com:3443
+DROP dead endpoint :: app.streamru17.net:443
+DROP dead endpoint :: pl9.h1cloud.net:25700
+DROP dead endpoint :: 138.124.80.29:443
+DROP dead endpoint :: 13.141.51.100:25700
+DROP dead endpoint :: 179.254.127.211:25700
+DROP dead endpoint :: 80.243.228.13:2085
+DROP dead endpoint :: 89.125.175.204:8443
+DROP dead endpoint :: 82.27.77.74:443
+DROP dead endpoint :: 48.102.201.70:37443
+DROP dead endpoint :: static-se.snobmenu.xyz:36443
+DROP dead endpoint :: 48.102.173.125:444
+DROP dead endpoint :: 213.176.92.168:10444
+DROP dead endpoint :: 201.24.50.81:443
+DROP dead endpoint :: 89.125.175.54:8443
+DROP dead endpoint :: lt-tcp.h1.vpnprime.ru:443
+DROP dead endpoint :: pl9.h1cloud.net:25700
+DROP dead endpoint :: 151.241.128.46:443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 94.139.250.226:443
+DROP dead endpoint :: 136.234.25.220:12443
+DROP dead endpoint :: 2.26.52.121:61374
+DROP dead endpoint :: 2.27.40.12:443
+DROP dead endpoint :: cdn16.sharfvpn.top:443
+DROP dead endpoint :: 78.159.245.147:445
+DROP dead endpoint :: 195.63.138.212:15443
+DROP dead endpoint :: 212.113.116.78:443
+DROP dead endpoint :: srv-17e124.21freedom.net:11592
+DROP dead endpoint :: 182.16.69.178:443
+DROP dead endpoint :: r5.pythonmakemigreat.wiki:8443
+DROP dead endpoint :: 79.182.70.199:443
+DROP dead endpoint :: 195.63.138.212:9444
+DROP dead endpoint :: 87.228.101.3:443
+DROP dead endpoint :: de7.angelsleep9.com:443
+DROP dead endpoint :: fl7.angelsleep9.com:443
+DROP dead endpoint :: 200.96.106.2:9889
+DROP dead endpoint :: 88.216.214.159:443
+DROP dead endpoint :: 138.124.80.29:443
+DROP dead endpoint :: 88.216.214.159:443
+DROP dead endpoint :: 0.0.0.0:9872
+DROP dead endpoint :: 94.228.117.93:443
+DROP dead endpoint :: 185.242.247.177:8443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 185.86.145.78:443
+DROP dead endpoint :: 85.14.243.91:8443
+DROP dead endpoint :: 171.22.114.62:443
+DROP dead endpoint :: 2.27.40.12:443
+DROP dead endpoint :: 48.103.120.22:443
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 85.14.243.91:8443
+DROP dead endpoint :: 2.27.40.12:443
+DROP dead endpoint :: 164.37.224.238:443
+DROP dead endpoint :: 193.233.208.179:777
+DROP dead endpoint :: 195.206.235.202:443
+DROP dead endpoint :: 87.242.95.170:443
+DROP dead endpoint :: 168.138.43.75:80
+DROP dead endpoint :: 50.7.95.230:443
+DROP dead endpoint :: 84.32.154.74:443
+DROP dead endpoint :: 80.96.108.29:8443
+DROP dead endpoint :: 87.242.94.42:443
+DROP dead endpoint :: 195.63.138.212:10444
+DROP dead endpoint :: zfapi.zalolink.com:43149
+DROP dead endpoint :: 31.177.111.107:443
+DROP dead endpoint :: 4c980ft.fi15.h1clayd.click:443
+DROP dead endpoint :: 0.0.0.0:1
+DROP dead endpoint :: 195.63.138.212:16443
+DROP dead endpoint :: 31.76.31.75:4443
+DROP dead endpoint :: 37.49.225.52:443
+DROP dead endpoint :: 196.245.217.70:443
+DROP dead endpoint :: 93.190.9.142:3090
+DROP dead endpoint :: 136.148.213.129:443
+DROP dead endpoint :: 83.171.241.155:25191
+DROP dead endpoint :: eecdn.fius.dev:443
+DROP dead endpoint :: 109.107.189.69:8443
+DROP dead endpoint :: 94.184.22.9:4343
+DROP dead endpoint :: cloudehouse24.ru:8443
+DROP dead endpoint :: 4c980ft.fi15.h1clayd.click:443
+DROP dead endpoint :: 31.59.150.180:443
+DROP dead endpoint :: 103.88.243.142:11592
+DROP dead endpoint :: 94.139.250.226:443
+DROP dead endpoint :: 80.243.228.4:2085
+DROP dead endpoint :: 48.103.120.22:443
+DROP dead endpoint :: ai.smrtai.top:443
 DROP dead endpoint :: 51.250.64.186:443
 DROP dead endpoint :: 84.201.131.144:443
 DROP dead endpoint :: 158.160.105.121:51102
@@ -2818,7 +2039,6 @@ DROP dead endpoint :: 158.160.105.121:8443
 DROP dead endpoint :: 158.160.105.121:51102
 DROP dead endpoint :: 51.250.65.209:443
 DROP dead endpoint :: 158.160.221.132:51102
-DROP dead endpoint :: 37.18.15.192:2056
 DROP dead endpoint :: 51.250.0.147:443
 DROP dead endpoint :: 217.16.25.180:9090
 DROP dead endpoint :: 217.16.25.180:8443
@@ -2886,6 +2106,8 @@ DROP dead endpoint :: 37.139.34.145:443
 DROP dead endpoint :: 37.139.34.145:8443
 DROP dead endpoint :: 95.163.212.112:443
 DROP dead endpoint :: 217.16.27.216:8443
+DROP dead endpoint :: 37.18.15.192:2056
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 109.120.132.6:443
 DROP dead endpoint :: 89.208.230.173:443
 DROP dead endpoint :: 185.241.195.144:443
@@ -2990,6 +2212,7 @@ DROP dead endpoint :: 176.108.243.192:9880
 DROP dead endpoint :: 45.129.124.16:2066
 DROP dead endpoint :: 78.159.245.75:9002
 DROP dead endpoint :: 78.159.246.85:2053
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 78.159.250.214:443
 DROP dead endpoint :: 176.108.246.58:9881
 DROP dead endpoint :: 176.108.246.58:9881
@@ -3555,3 +2778,12 @@ DROP dead endpoint :: 91.219.227.200:7443
 DROP dead endpoint :: 79.174.95.135:5447
 DROP dead endpoint :: 79.174.95.135:5443
 DROP dead endpoint :: 79.174.95.135:5447
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
+DROP dead endpoint :: 91.132.190.161:443
