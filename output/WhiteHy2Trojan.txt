@@ -1,8 +1,9 @@
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=qq#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=edge#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=safari#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5B%2ACIDR%5D
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=ios#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5B%2ACIDR%5D
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#t.me%2Ffreekesha21
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#t.me%2Ffreekesha21
