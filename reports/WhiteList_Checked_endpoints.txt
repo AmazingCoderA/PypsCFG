@@ -51,26 +51,15 @@ OK 218ms 89.35.14.31:443 cached
 OK 232ms md2.univesalsrv.com:443 cached
 OK 169ms 64.188.70.56:443 cached
 OK 163ms 130.49.161.70:443 cached
-OK 184ms 83.166.254.97:11443
-OK 191ms 84.23.52.100:443
-OK 186ms r3.pythonmakemigreat.wiki:8443
-OK 226ms r8.pythonmakemigreat.wiki:8443
-OK 179ms 168.113.131.162:4443
-OK 203ms 079b6et.ee5.h1clayd.shop:443 cached
-OK 198ms e54b10x.ee5.h1clayd.shop:443 cached
-OK 174ms 92.53.74.182:443
+OK 199ms r7.pythonmakemigreat.wiki:8443
+OK 205ms r9.pythonmakemigreat.wiki:8443
+OK 289ms 079b6et.ee5.h1clayd.shop:443
+OK 276ms e54b10x.ee5.h1clayd.shop:443
 OK 29ms 185.178.208.167:443 cached
-OK 182ms 87.242.102.222:443
-OK 192ms 195.209.218.113:443
-OK 187ms 66.90.91.123:443
-OK 187ms 66.90.91.162:443
-OK 194ms 217.19.123.45:443
-OK 456ms yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443 cached
-OK 267ms 185.12.127.227:12443
-OK 193ms 217.19.123.47:443 cached
-OK 190ms 89.127.217.191:443
+OK 238ms ru-cloudru.funky-monkey.app:443
+OK 184ms 94.26.248.130:443
+OK 198ms 45.9.14.195:8445
+OK 190ms 155.212.186.34:8443
 OK 105ms nl.fatvenv.space:443 cached
 OK 60ms usa.fatvenv.space:443 cached
 OK 88ms dem.fatvenv.space:443 cached
-OK 442ms yellow-4hmq5ehr3ievlnabv8l2.concept7.ru:443 cached
-OK 187ms 93.184.169.233:443

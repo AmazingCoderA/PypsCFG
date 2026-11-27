@@ -69,8 +69,8 @@ DROP unsupported/blocked :: #profile-web-page-url:https://t.me/CID_VPN
 DROP unsupported/blocked :: #subscription-userinfo: upload=0; download=0; total=0; expire=0
 DROP unsupported/blocked :: # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | VLESS
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 07:49 (Moscow)
-DROP unsupported/blocked :: # Количество: 1012
+DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 22:05 (Moscow)
+DROP unsupported/blocked :: # Количество: 189
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: #announce: Обновлено: 2026-10-18 14:05:51
 DROP unsupported/blocked :: #profile-web-page-url: https://github.com/terik21/HiddifySubs-VlessKeys
@@ -79,20 +79,14 @@ DROP unsupported/blocked :: #support-url: https://t.me/freekesha21
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 08:31 (Moscow)
-DROP unsupported/blocked :: # Количество: 6
+DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 22:53 (Moscow)
+DROP unsupported/blocked :: # Количество: 0
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 08:31 (Moscow)
-DROP unsupported/blocked :: # Количество: 82
+DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 22:53 (Moscow)
+DROP unsupported/blocked :: # Количество: 50
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=android##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=edge##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=safari##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=firefox##🇱🇻
-DROP duplicate :: hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io##🇸🇪
-DROP duplicate :: hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io&alpn=h3##🇸🇪
 DROP unsupported/blocked :: #profile-update-interval: 1
 DROP unsupported/blocked :: #profile-title: 👻GhostVPN
 DROP unsupported/blocked :: #support-url: https://t.me/GhostVpn_Support_Bot
@@ -100,89 +94,59 @@ DROP unsupported/blocked :: #profile-web-page-url: https://t.me/GhostVpn_net
 DROP unsupported/blocked :: #announce: base64:8J+RuyBHaG9zdFZQTiAtINCR0YvRgdGC0YDRi9C5INC4INCd0LDQtNGR0LbQvdGL0Lkg0JLQn9CdCuKciO+4jyDQotC10LvQtdCz0YDQsNC8OiBAR2hvc3RWcG5fbmV0
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Полная • Full
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 08:31 (Moscow)
-DROP unsupported/blocked :: # Количество: 93
+DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 22:53 (Moscow)
+DROP unsupported/blocked :: # Количество: 50
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r3.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=android##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r3.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=chrome##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r3.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=edge##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r3.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=safari##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r8.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=chrome##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r8.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=firefox##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r8.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=qq##.𖥔
-DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r8.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=safari##.𖥔
-DROP duplicate :: vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@168.113.131.162:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=168.113.131.162&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&sid=8d31ee9fb75b3061&fp=firefox##🇪🇪
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&fp=android##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&fp=chrome##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&fp=edge##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&fp=ios##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r7.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=cdn.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&spx=%2F&path=%2F&mode=packet-up&fp=safari##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r9.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=android##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r9.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=chrome##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r9.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=edge##.𖥔
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r9.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=safari##.𖥔
+DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=safari##🇪🇪
+DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=edge##🇪🇪
+DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=ios##🇪🇪
+DROP duplicate :: vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=edge##🇪🇪
 DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=android##🇪🇪
+DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=chrome##🇪🇪
 DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=edge##🇪🇪
 DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=firefox##🇪🇪
-DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=safari##🇪🇪
 DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=android##🇪🇪
+DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=chrome##🇪🇪
 DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=firefox##🇪🇪
-DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=ios##🇪🇪
-DROP duplicate :: vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@e54b10x.ee5.h1clayd.shop:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=e54b10x.ee5.h1clayd.shop&pbk=v1FVRnLI528QxPA-jy2AEzpyFVQq7e4CbUzxSRNHRXg&sid=25e886ad1ab98159&spx=%2F&path=%2Fea1ae61a3ced&mode=auto&fp=safari##🇪🇪
-DROP duplicate :: vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@168.113.131.162:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=168.113.131.162&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&sid=8d31ee9fb75b3061&fp=android##🇪🇪
-DROP duplicate :: vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@168.113.131.162:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=168.113.131.162&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&sid=8d31ee9fb75b3061&fp=edge##🇪🇪
-DROP duplicate :: vless://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@168.113.131.162:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=168.113.131.162&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&sid=8d31ee9fb75b3061&fp=safari##🇪🇪
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=android##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=edge##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=safari##🇱🇻
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=firefox##🇱🇻
-DROP duplicate :: vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@92.53.74.182:443?security=reality&sni=freetato-digital.ru&pbk=pIvAHbj4d1ogUo7dEAvyNNVMYjP-7pUCCKN0vDJ1YxM&sid=d9662905&type=grpc&serviceName=grpc&fp=android##🇵🇱
-DROP duplicate :: vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@92.53.74.182:443?security=reality&sni=freetato-digital.ru&pbk=pIvAHbj4d1ogUo7dEAvyNNVMYjP-7pUCCKN0vDJ1YxM&sid=d9662905&type=grpc&serviceName=grpc&fp=edge##🇵🇱
-DROP duplicate :: vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@92.53.74.182:443?security=reality&sni=freetato-digital.ru&pbk=pIvAHbj4d1ogUo7dEAvyNNVMYjP-7pUCCKN0vDJ1YxM&sid=d9662905&type=grpc&serviceName=grpc&fp=qq##🇵🇱
-DROP duplicate :: vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@92.53.74.182:443?security=reality&sni=freetato-digital.ru&pbk=pIvAHbj4d1ogUo7dEAvyNNVMYjP-7pUCCKN0vDJ1YxM&sid=d9662905&type=grpc&serviceName=grpc&fp=safari##🇵🇱
-DROP duplicate :: vless://a836b591-97e2-482e-bff8-382e979a9978@185.178.208.167:443?security=tls&sni=ironpeak-sport.com&alpn=http%2F1.1&type=ws&host=ironpeak-sport.com&path=%2Fapi%2Fv2%2Fdelivery%2Fwatch%3Fu%3DQlqYx05aCET8W_n8&fp=qq##🇳🇱
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=qq##🇳🇱
-DROP duplicate :: vless://Fluffy_VPN-IrUwcGXw@195.209.218.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=absolute-disaster.org&pbk=vXErM6MX4mVr214wRWwRcS52KgfxcY6ont639bH8HSE&fp=chrome##🇳🇱
-DROP duplicate :: vless://Fluffy_VPN-IrUwcGXw@195.209.218.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=absolute-disaster.org&pbk=vXErM6MX4mVr214wRWwRcS52KgfxcY6ont639bH8HSE&fp=firefox##🇳🇱
-DROP duplicate :: vless://Fluffy_VPN-IrUwcGXw@195.209.218.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=absolute-disaster.org&pbk=vXErM6MX4mVr214wRWwRcS52KgfxcY6ont639bH8HSE&fp=ios##🇳🇱
-DROP duplicate :: vless://Fluffy_VPN-IrUwcGXw@195.209.218.113:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=absolute-disaster.org&pbk=vXErM6MX4mVr214wRWwRcS52KgfxcY6ont639bH8HSE&fp=safari##🇳🇱
-DROP duplicate :: vless://a836b591-97e2-482e-bff8-382e979a9978@185.178.208.167:443?security=tls&sni=ironpeak-sport.com&alpn=http%2F1.1&type=ws&host=ironpeak-sport.com&path=%2Fapi%2Fv2%2Fdelivery%2Fwatch%3Fu%3DQlqYx05aCET8W_n8&fp=chrome##🇳🇱
-DROP duplicate :: vless://a836b591-97e2-482e-bff8-382e979a9978@185.178.208.167:443?security=tls&sni=ironpeak-sport.com&alpn=http%2F1.1&type=ws&host=ironpeak-sport.com&path=%2Fapi%2Fv2%2Fdelivery%2Fwatch%3Fu%3DQlqYx05aCET8W_n8&fp=ios##🇳🇱
-DROP duplicate :: vless://a836b591-97e2-482e-bff8-382e979a9978@185.178.208.167:443?security=tls&sni=ironpeak-sport.com&alpn=http%2F1.1&type=ws&host=ironpeak-sport.com&path=%2Fapi%2Fv2%2Fdelivery%2Fwatch%3Fu%3DQlqYx05aCET8W_n8&fp=safari##🇳🇱
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=chrome##🇳🇱
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=firefox##🇳🇱
-DROP duplicate :: vless://bfce4086-02f9-4006-b579-472210753a63@87.242.102.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.happofficial.store&pbk=WaU5vsybQPp-NZNXWSjUEVfbAG-hqDPipci1z1xkhiw&sid=b7d7a3622d85f30a&fp=ios##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=android##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=firefox##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.162:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=chrome##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.162:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=firefox##🇳🇱
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.45:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd&fp=chrome##🇳🇱
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.45:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd&fp=firefox##🇳🇱
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.45:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd&fp=ios##🇳🇱
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.45:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd&fp=safari##🇳🇱
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4b227777d4dd&sni=river-3-369.rtbcdn.ru&spx=%2F&type=tcp&fp=chrome##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=edge##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=safari##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&type=xhttp&path=%2F&mode=auto&fp=android##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&type=xhttp&path=%2F&mode=auto&fp=edge##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&type=xhttp&path=%2F&mode=auto&fp=firefox##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?security=tls&sni=5214b845.ferrin.uk&type=xhttp&path=%2F&mode=auto&fp=qq##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?type=xhttp&security=tls&sni=5214b845.ferrin.uk&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=android##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?type=xhttp&security=tls&sni=5214b845.ferrin.uk&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=edge##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?type=xhttp&security=tls&sni=5214b845.ferrin.uk&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=firefox##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.123:443?type=xhttp&security=tls&sni=5214b845.ferrin.uk&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=qq##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.162:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=edge##🇳🇱
-DROP duplicate :: vless://5214b845-5973-4bf1-b49c-0a44411aab6c@66.90.91.162:443?security=tls&sni=5214b845.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%221140-1260%22%2C%22maxConnections%22%3A3%7D%7D&fp=safari##🇳🇱
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&fp=firefox##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&fp=safari##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&mode=multi&fp=qq##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&fp=edge##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&fp=ios##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&mode=multi&fp=android##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&mode=multi&fp=chrome##🇺🇸
-DROP duplicate :: vless://5b345e12-abe7-43e4-98f3-0bc7d3359403@185.12.127.227:12443?security=reality&sni=archive.saltmarsh-photo.de&pbk=iOiEYVhf8MzKkR88wAJ2uBYeEUj0J6I8JF_mNl-dTgA&sid=78237c6b&type=grpc&serviceName=cas-us&mode=multi&fp=firefox##🇺🇸
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.47:443?flow=xtls-rprx-vision&security=reality&sni=player.mediavitrina.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=d4735e3a265e&fp=qq##🌐
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4b227777d4dd&sni=river-3-369.rtbcdn.ru&spx=%2F&type=tcp&fp=random##🌐
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.47:443?flow=xtls-rprx-vision&security=reality&sni=player.mediavitrina.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=d4735e3a265e&fp=chrome##🌐
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4b227777d4dd&sni=river-3-369.rtbcdn.ru&spx=%2F&type=tcp&fp=edge##🌐
-DROP duplicate :: vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4b227777d4dd&sni=river-3-369.rtbcdn.ru&spx=%2F&type=tcp&fp=ios##🌐
-DROP duplicate :: hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io##🇸🇪
-DROP duplicate :: hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io&alpn=h3##🇸🇪
-DROP duplicate :: trojan://lj6SSpygscls3HEo@89.127.217.191:443?security=tls&sni=poland.alpacalounge.com&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fmain%2Fauto&mode=auto&fp=chrome##🇵🇱
-DROP duplicate :: trojan://lj6SSpygscls3HEo@89.127.217.191:443?security=tls&sni=poland.alpacalounge.com&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fmain%2Fauto&mode=auto&fp=android##🇵🇱
-DROP duplicate :: trojan://lj6SSpygscls3HEo@89.127.217.191:443?security=tls&sni=poland.alpacalounge.com&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fmain%2Fauto&mode=auto&fp=random##🇵🇱
-DROP duplicate :: trojan://lj6SSpygscls3HEo@89.127.217.191:443?security=tls&sni=poland.alpacalounge.com&alpn=h2%2Chttp%2F1.1&type=xhttp&path=%2Fapi%2Fmain%2Fauto&mode=auto&fp=safari##🇵🇱
+DROP duplicate :: vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android##🇪🇪
+DROP duplicate :: vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=firefox##🇪🇪
+DROP duplicate :: vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=ios##🇪🇪
+DROP duplicate :: vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=safari##🇪🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-cloudru.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw&fp=android##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw&fp=edge##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw&fp=firefox##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw&fp=ios##🇩🇪
+DROP duplicate :: vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw&fp=safari##🇩🇪
+DROP duplicate :: vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&sid=32164451823b4bd5&fp=firefox##🇳🇱
+DROP duplicate :: vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&sid=32164451823b4bd5&fp=chrome##🇳🇱
+DROP duplicate :: vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&sid=32164451823b4bd5&fp=edge##🇳🇱
+DROP duplicate :: vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&sid=32164451823b4bd5&fp=ios##🇳🇱
+DROP duplicate :: vless://99c1d1a2-5953-4566-8bea-a1861b4d0563@45.9.14.195:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bestrecipes-online.site&pbk=6kOTlfXhKW3tCBtMFQjjDZXJ6dm5TsiLOL7IONrM0y4&sid=32164451823b4bd5&fp=safari##🇳🇱
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r9.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D&fp=ios##🇺🇸
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@155.212.186.34:8443?encryption=none&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=r9.pythonmakemigreat.wiki&path=%2F&mode=packet-up&fp=android##🇺🇸
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@155.212.186.34:8443?encryption=none&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=r9.pythonmakemigreat.wiki&path=%2F&mode=packet-up&fp=firefox##🇺🇸
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@155.212.186.34:8443?encryption=none&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=r9.pythonmakemigreat.wiki&path=%2F&mode=packet-up&fp=ios##🇺🇸
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@155.212.186.34:8443?encryption=none&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=r9.pythonmakemigreat.wiki&path=%2F&mode=packet-up&fp=qq##🇺🇸
+DROP duplicate :: vless://f8d52ece-fad4-478d-875d-df6eed3befa7@155.212.186.34:8443?encryption=none&security=reality&sni=stream.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&type=xhttp&host=r9.pythonmakemigreat.wiki&path=%2F&mode=packet-up&fp=safari##🇺🇸
+DROP duplicate :: trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=android##🇦🇪
+DROP duplicate :: trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=chrome##🇦🇪
+DROP duplicate :: trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=firefox##🇦🇪
+DROP duplicate :: trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=ios##🇦🇪
+DROP duplicate :: trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=qq##🇦🇪
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: https://pozor.bond/sub/hocyo2cp32gb
 DROP unsupported/blocked :: #profile-title:🍏 CID VPN 🍏
@@ -228,31 +192,31 @@ DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWN
 DROP unsupported/blocked :: #profile-title: WL RUS (wl.txt)
 DROP unsupported/blocked :: #profile-update-interval: 24
 DROP unsupported/blocked :: #announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
-DROP unsupported/blocked :: # Обновлено: 06:59 | 27.11.2026
+DROP unsupported/blocked :: # Обновлено: 16:43 | 27.11.2026
 DROP unsupported/blocked :: # Всего конфигов: 828
 DROP unsupported/blocked :: ##################################################
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#201.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#202.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTA4Y2pBWXNSNXQzYjA1VG9NZmUtTVJOSnU2ZjViUg==@95.163.211.121:1080#183.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYQlJfc0JVUXVESy1ab2RZaFJKakhUU3VzUllFcnE0RQ==@95.163.210.102:1080#184.%20%F0%9F%87%AA%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#588.%20%F0%9F%87%AE%F0%9F%87%B7%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#610.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#611.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#612.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#613.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#614.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#615.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#616.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#617.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#618.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#619.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#620.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#621.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#622.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#623.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#611.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@5.188.181.201:9029#612.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#613.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#614.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#615.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#616.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#617.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#618.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#619.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#620.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#621.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#622.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+DROP unsupported/blocked :: ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@5.188.181.201:9011#623.%20%F0%9F%87%AA%F0%9F%87%B8%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#706.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
 DROP unsupported/blocked :: # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 DROP unsupported/blocked :: # profile-update-interval: 1
-DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 08:31 (Moscow)
-DROP unsupported/blocked :: # Количество: 82
+DROP unsupported/blocked :: # Date/Time: 2026-11-27 / 22:53 (Moscow)
+DROP unsupported/blocked :: # Количество: 50
 DROP unsupported/blocked :: # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 DROP dead endpoint :: 184.170.131.163:443
 DROP dead endpoint :: 79.137.203.200:443
@@ -714,12 +678,12 @@ DROP dead endpoint :: 83.147.18.3:443
 DROP dead endpoint :: 85.90.197.220:443
 DROP dead endpoint :: 85.90.197.220:443
 DROP dead endpoint :: 150.251.113.34:443
-DROP dead endpoint :: 195.211.98.43:443
 DROP dead endpoint :: 195.123.240.65:443
 DROP dead endpoint :: 195.123.240.65:443
 DROP dead endpoint :: 195.123.240.65:443
 DROP dead endpoint :: 195.211.98.43:443
 DROP dead endpoint :: 195.123.240.65:443
+DROP dead endpoint :: 195.211.98.43:443
 DROP dead endpoint :: 195.211.98.43:443
 DROP dead endpoint :: 195.123.240.65:443
 DROP dead endpoint :: arranged-samuel-cradle-hayes.trycloudflare.com:443
@@ -727,6 +691,7 @@ DROP dead endpoint :: 16.106.7.232:20086
 DROP dead endpoint :: 16.106.7.232:20086
 DROP dead endpoint :: 80.66.79.203:443
 DROP dead endpoint :: 45.91.55.14:443
+DROP dead endpoint :: f309e0t.fi4.h1clayd.click:443
 DROP dead endpoint :: 66.90.91.131:443
 DROP dead endpoint :: 45.91.55.14:443
 DROP dead endpoint :: mepladu.speedtec.ru:443
@@ -735,8 +700,9 @@ DROP dead endpoint :: 195.209.213.70:443
 DROP dead endpoint :: 31.129.42.83:443
 DROP dead endpoint :: 138.124.106.186:443
 DROP dead endpoint :: 62.109.9.14:587
-DROP dead endpoint :: 5.180.47.24:443
+DROP dead endpoint :: 82.152.141.167:443
 DROP dead endpoint :: 45.91.55.14:443
+DROP dead endpoint :: 153.56.231.124:443
 DROP dead endpoint :: 2.27.40.12:443
 DROP dead endpoint :: 193.233.199.94:443
 DROP dead endpoint :: 37.233.80.144:2095
@@ -1224,13 +1190,21 @@ DROP dead endpoint :: lol-rou-0001.api.neuralrelay.stream:443
 DROP dead endpoint :: 167.253.153.147:443
 DROP dead endpoint :: 72.56.34.155:9443
 DROP dead endpoint :: 218.152.227.25:12000
-DROP dead endpoint :: 132.243.65.148:443
+DROP dead endpoint :: us-tube-02.funky-monkey.app:443
+DROP dead endpoint :: fl-b2.golangwikito.cfd:61374
 DROP dead endpoint :: ee.prosetupvideo.shop:443
 DROP dead endpoint :: ee.prosetupvideo.shop:443
 DROP dead endpoint :: ee.prosetupvideo.shop:443
 DROP dead endpoint :: ee.prosetupvideo.shop:443
 DROP dead endpoint :: ee.prosetupvideo.shop:443
-DROP dead endpoint :: 185.86.155.41:443
+DROP dead endpoint :: fr-b2.golangwikito.cfd:443
+DROP dead endpoint :: fr.golangwikito.cfd:443
+DROP dead endpoint :: fr.golangwikito.cfd:443
+DROP dead endpoint :: 5d0319t.nl7.h1clayd.click:443
+DROP dead endpoint :: 5d0319t.nl7.h1clayd.click:443
+DROP dead endpoint :: 5d0319t.nl7.h1clayd.click:443
+DROP dead endpoint :: us-tube-01.funky-monkey.app:443
+DROP dead endpoint :: 108.130.27.29:443
 DROP dead endpoint :: yoy-api.bachidze.com:443
 DROP dead endpoint :: 185.126.93.225:443
 DROP dead endpoint :: 78.159.250.214:443
@@ -1602,6 +1576,7 @@ DROP dead endpoint :: 72.56.34.155:9443
 DROP dead endpoint :: 218.152.227.25:12000
 DROP dead endpoint :: 80.66.79.203:443
 DROP dead endpoint :: 45.91.55.14:443
+DROP dead endpoint :: f309e0t.fi4.h1clayd.click:443
 DROP dead endpoint :: 66.90.91.131:443
 DROP dead endpoint :: 45.91.55.14:443
 DROP dead endpoint :: mepladu.speedtec.ru:443
@@ -1610,8 +1585,9 @@ DROP dead endpoint :: 195.209.213.70:443
 DROP dead endpoint :: 31.129.42.83:443
 DROP dead endpoint :: 138.124.106.186:443
 DROP dead endpoint :: 62.109.9.14:587
-DROP dead endpoint :: 5.180.47.24:443
+DROP dead endpoint :: 82.152.141.167:443
 DROP dead endpoint :: 45.91.55.14:443
+DROP dead endpoint :: 153.56.231.124:443
 DROP dead endpoint :: 2.27.40.12:443
 DROP dead endpoint :: 193.233.199.94:443
 DROP dead endpoint :: 37.233.80.144:2095
@@ -2162,6 +2138,14 @@ DROP dead endpoint :: 91.219.227.200:7443
 DROP dead endpoint :: 79.174.95.135:5447
 DROP dead endpoint :: 79.174.95.135:5443
 DROP dead endpoint :: 79.174.95.135:5447
+DROP dead endpoint :: 51.250.64.186:443
+DROP dead endpoint :: 84.201.131.144:443
+DROP dead endpoint :: 158.160.105.121:51102
+DROP dead endpoint :: 51.250.51.104:443
+DROP dead endpoint :: 158.160.105.121:8443
+DROP dead endpoint :: 158.160.105.121:51102
+DROP dead endpoint :: 51.250.65.209:443
+DROP dead endpoint :: 158.160.221.132:51102
 DROP dead endpoint :: 51.250.0.147:443
 DROP dead endpoint :: 217.16.25.180:9090
 DROP dead endpoint :: 217.16.25.180:8443
@@ -2229,17 +2213,6 @@ DROP dead endpoint :: 37.139.34.145:443
 DROP dead endpoint :: 37.139.34.145:8443
 DROP dead endpoint :: 95.163.212.112:443
 DROP dead endpoint :: 217.16.27.216:8443
-DROP dead endpoint :: 51.250.64.186:443
-DROP dead endpoint :: 84.201.131.144:443
-DROP dead endpoint :: 158.160.105.121:51102
-DROP dead endpoint :: 51.250.51.104:443
-DROP dead endpoint :: 158.160.105.121:8443
-DROP dead endpoint :: 158.160.105.121:51102
-DROP dead endpoint :: 51.250.65.209:443
-DROP dead endpoint :: 158.160.221.132:51102
-DROP dead endpoint :: 31.129.42.83:443
-DROP dead endpoint :: 37.18.15.192:2056
-DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 109.120.132.6:443
 DROP dead endpoint :: 89.208.230.173:443
 DROP dead endpoint :: 185.241.195.144:443
@@ -2694,6 +2667,9 @@ DROP dead endpoint :: 95.163.214.226:443
 DROP dead endpoint :: 95.163.214.226:443
 DROP dead endpoint :: 95.163.214.226:443
 DROP dead endpoint :: 95.163.181.208:2085
+DROP dead endpoint :: 31.129.42.83:443
+DROP dead endpoint :: 37.18.15.192:2056
+DROP dead endpoint :: 78.159.245.147:445
 DROP dead endpoint :: 176.108.243.192:9880
 DROP dead endpoint :: 45.129.124.16:2066
 DROP dead endpoint :: 78.159.245.75:9002
