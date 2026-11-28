@@ -1,65 +1,63 @@
-OK 166ms saas.sin.fan:443 cached
-OK 212ms bg5.univesalsrv.com:443 cached
-OK 6ms 188.114.98.0:443 cached
-OK 225ms bg2.univesalsrv.com:443 cached
-OK 105ms 104.17.147.22:443 cached
-OK 6ms 172.64.150.43:443 cached
-OK 6ms 162.159.135.234:443 cached
-OK 228ms md3.univesalsrv.com:443 cached
-OK 257ms qq.utiltools.site:443 cached
-OK 191ms 45.12.63.96:443 cached
-OK 34ms www.speedtest.net:443 cached
-OK 160ms 150.40.126.21:443 cached
-OK 7ms 188.114.97.6:443 cached
-OK 171ms rs1.univesalsrv.com:443 cached
-OK 171ms rs4.univesalsrv.com:443 cached
-OK 168ms rs5.univesalsrv.com:443 cached
-OK 7ms 172.64.153.61:443 cached
-OK 186ms 89.35.14.32:443 cached
-OK 169ms rs3.univesalsrv.com:443 cached
-OK 192ms edge.bookmai.com:443 cached
-OK 6ms 162.159.130.234:443 cached
-OK 301ms studio.10media.top:443 cached
-OK 6ms 188.114.99.0:8880 cached
-OK 161ms 150.40.126.22:443 cached
-OK 160ms 150.40.126.24:443 cached
-OK 830ms reaza.localip.ir:443 cached
-OK 207ms bg4.univesalsrv.com:443 cached
-OK 222ms bg3.univesalsrv.com:443 cached
-OK 204ms cl-glb6e059ee.gcdn.co:443 cached
-OK 392ms samgeez.online:8443 cached
-OK 263ms freede.aiage.work:443 cached
-OK 171ms rs2.univesalsrv.com:443 cached
-OK 6ms 151.101.173.81:443 cached
-OK 6ms 188.114.98.0:2053 cached
-OK 255ms 13.140.56.100:14430 cached
-OK 161ms nl2.balancer.vbuste-bot.com:443 cached
-OK 45ms www.epicgames.com:2095 cached
-OK 73ms us2-2.998998.best:443 cached
-OK 172ms 193.233.82.201:443 cached
-OK 298ms 95.174.68.188:14430 cached
-OK 182ms de2.balancer.vbuste-bot.com:443 cached
-OK 275ms cmfree-hkt.leyali.kdns.fr:443 cached
-OK 149ms 185.125.50.181:443 cached
-OK 219ms 89.35.14.34:443 cached
-OK 143ms 140.225.199.234:443 cached
-OK 190ms 72.56.241.230:443 cached
-OK 235ms fl1.balancer.vbuste-bot.com:443 cached
-OK 6ms 172.64.229.129:2052 cached
-OK 203ms de1.balancer.vbuste-bot.com:443 cached
-OK 218ms 89.35.14.31:443 cached
-OK 232ms md2.univesalsrv.com:443 cached
-OK 169ms 64.188.70.56:443 cached
-OK 163ms 130.49.161.70:443 cached
-OK 199ms r7.pythonmakemigreat.wiki:8443
-OK 205ms r9.pythonmakemigreat.wiki:8443
-OK 289ms 079b6et.ee5.h1clayd.shop:443
-OK 276ms e54b10x.ee5.h1clayd.shop:443
-OK 29ms 185.178.208.167:443 cached
-OK 238ms ru-cloudru.funky-monkey.app:443
-OK 184ms 94.26.248.130:443
-OK 198ms 45.9.14.195:8445
-OK 190ms 155.212.186.34:8443
-OK 105ms nl.fatvenv.space:443 cached
-OK 60ms usa.fatvenv.space:443 cached
-OK 88ms dem.fatvenv.space:443 cached
+OK 189ms 95.163.211.237:8080 cached
+OK 185ms 95.163.211.237:80 cached
+OK 464ms saas.sin.fan:443
+OK 244ms bg5.univesalsrv.com:443
+OK 2ms 188.114.98.0:443
+OK 222ms bg2.univesalsrv.com:443
+OK 2ms 104.17.147.22:443
+OK 2ms 172.64.150.43:443
+OK 2ms 162.159.135.234:443
+OK 321ms md3.univesalsrv.com:443
+OK 206ms qq.utiltools.site:443
+OK 184ms 45.12.63.96:443
+OK 53ms www.speedtest.net:443
+OK 179ms 150.40.126.21:443
+OK 2ms 188.114.97.6:443
+OK 230ms rs1.univesalsrv.com:443
+OK 181ms rs4.univesalsrv.com:443
+OK 180ms rs5.univesalsrv.com:443
+OK 2ms 172.64.153.61:443
+OK 191ms 89.35.14.32:443
+OK 225ms rs3.univesalsrv.com:443
+OK 211ms edge.bookmai.com:443
+OK 2ms 162.159.130.234:443
+OK 199ms studio.10media.top:443
+OK 2ms 188.114.99.0:8880
+OK 174ms 150.40.126.22:443
+OK 186ms 150.40.126.24:443
+OK 707ms reaza.localip.ir:443
+OK 610ms 36a466g.fi1.h1clayd.click:443
+OK 230ms bg4.univesalsrv.com:443
+OK 225ms bg3.univesalsrv.com:443
+OK 215ms cl-glb6e059ee.gcdn.co:443
+OK 403ms samgeez.online:8443
+OK 177ms freede.aiage.work:443
+OK 201ms rs2.univesalsrv.com:443
+OK 1ms 151.101.173.81:443
+OK 2ms 188.114.98.0:2053
+OK 222ms 13.140.56.100:14430
+OK 196ms nl2.balancer.vbuste-bot.com:443
+OK 62ms www.epicgames.com:2095
+OK 257ms us2-2.998998.best:443
+OK 145ms 193.233.82.201:443
+OK 241ms 95.174.68.188:14430
+OK 387ms de2.balancer.vbuste-bot.com:443
+OK 475ms cmfree-hkt.leyali.kdns.fr:443
+OK 152ms 185.125.50.181:443
+OK 190ms 89.35.14.34:443
+OK 142ms 140.225.199.234:443
+OK 191ms 72.56.241.230:443
+OK 2ms 172.64.229.129:2052
+OK 356ms de1.balancer.vbuste-bot.com:443
+OK 196ms 89.35.14.31:443
+OK 319ms md2.univesalsrv.com:443
+OK 149ms 64.188.70.56:443
+OK 151ms 130.49.161.70:443
+OK 186ms 168.113.255.225:2443
+OK 191ms 138.16.203.58:443
+OK 181ms 176.108.242.8:443
+OK 145ms 185.178.208.140:443
+OK 312ms pyskyzoc.edgecdn.pro:443
+OK 143ms nl.fatvenv.space:443
+OK 132ms usa.fatvenv.space:443
+OK 196ms dem.fatvenv.space:443
